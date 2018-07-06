@@ -5,11 +5,11 @@ permalink: /saannot/
 
 # SÄÄNNÖT
 
-Nämä säännöt on hyväksytty yhdistyksen perustavassa kokouksessa 16.10.2014. Niitä ei ole merkitty yhdistysrekisteriin.
+Nämä säännöt on hyväksytty yhdistyksen perustavassa kokouksessa 16.10.2014. Ne on merkitty yhdistysrekisteriin 22.1.2015.
 
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
-Yhdistyksen nimi on Kansallinen Viskipuolue r.y., ja sen kotipaikka on Helsinki, toimialueena koko Suomi.
+Yhdistyksen nimi on Kansallinen Viskipuolue ry, ja sen kotipaikka on Helsinki, toimialueena koko Suomi.
 
 Yhdistyksen kieliä ovat suomi ja englanti, pöytäkirjakieli on kuitenkin suomi.
 
@@ -59,7 +59,7 @@ Yhdistyksen asioita hoitaa puoluehallitus, johon kuuluvat valitut puheenjohtaja,
 
 Hallituksen puheenjohtajana, varapuheenjohtajana, hallituksen jäsenenä tai varajäsenenä voi toimia ainoastaan yhdistyksen äänioikeutettu jäsen.
 
-Hallituksen toimikausi on kaksi vuotta. Hallituksen puheenjohtaja, varapuheenjohtaja tai muu jäsen tai koko hallitus voidaan yhdistyksen kokouksessa vaihtaa tai hallitusta täydentää uusilla jäsenillä myös kesken toimikauden meneillään olevan toimikauden loppuajaksi.
+Hallituksen toimikausi on kolmen vuosikokouksen välinen aika. Hallituksen puheenjohtaja, varapuheenjohtaja tai muu jäsen tai koko hallitus voidaan yhdistyksen kokouksessa erottaa ja tällöin hallitusta voidaan täydentää uusilla jäsenillä kesken toimikauden meneillään olevan toimikauden loppuajaksi.
 
 Hallitus ottaa keskuudestaan tai ulkopuoleltaan puoluesihteerin, taloudenhoitajan ja muut tarvittavat toimihenkilöt.
 
@@ -75,11 +75,11 @@ Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja tai varapuheenjohtaja kum
 
 Yhdistyksen tilikausi on kalenterivuosi.
 
-Tilinpäätös tai toiminnantarkastus tarvittavine asiakirjoineen ja hallituksen vuosikertomus on annettava tilin- tai toiminnantarkastajille viimeistään kuusi viikkoa ennen varsinaista kokousta. Tilin- tai toiminnantarkastajien tulee antaa kirjallinen lausuntonsa viimeistään kaksi viikkoa ennen varsinaista kokousta hallitukselle.
+Tilinpäätös tarvittavine asiakirjoineen ja hallituksen vuosikertomus on annettava tilin- tai toiminnantarkastajille viimeistään kuusi viikkoa ennen varsinaista kokousta. Tilin- tai toiminnantarkastajien tulee antaa kirjallinen lausuntonsa viimeistään kaksi viikkoa ennen varsinaista kokousta hallitukselle.
 
 ## 9 § Yhdistyksen kokoukset
 
-Yhdistyksen kokoukseen voidaan osallistua hallituksen tai yhdistyksen kokouksen niin päättäessä myös postitse taikka tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana tai ennen kokousta. Yhdistyksen vuosikokous pidetään vuosittain hallituksen määräämänä päivänä tammi-toukokuussa. Ylimääräinen kokous pidetään, kun yhdistyksen kokous niin päättää tai kun hallitus katsoo siihen olevan aihetta tai kun vähintään kymmenesosa (1/10) yhdistyksen äänioikeutetuista jäsenistä sitä hallitukselta erityisesti ilmoitettua asiaa varten kirjallisesti vaatii. Kokous on pidettävä kolmenkymmenen vuorokauden kuluessa siitä, kun vaatimus sen pitämisestä on esitetty hallitukselle. Yhdistyksen kokouksissa on jokaisella varsinaisella jäsenellä, kunniapuheenjohtajalla ja kunniajäsenellä yksi ääni. Kannattavalla jäsenellä on kokouksessa läsnäolo- ja puheoikeus. Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä ole toisin määrätty, se mielipide, jota on kannattanut yli puolet annetuista äänistä. Äänten mennessä tasan ratkaisee kokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
+Yhdistyksen kokoukseen voidaan osallistua hallituksen tai yhdistyksen kokouksen niin päättäessä myös postitse taikka tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana. Yhdistyksen vuosikokous pidetään vuosittain hallituksen määräämänä päivänä tammi-toukokuussa. Ylimääräinen kokous pidetään, kun yhdistyksen kokous niin päättää tai kun hallitus katsoo siihen olevan aihetta tai kun vähintään kymmenesosa (1/10) yhdistyksen äänioikeutetuista jäsenistä sitä hallitukselta erityisesti ilmoitettua asiaa varten kirjallisesti vaatii. Kokous on pidettävä kolmenkymmenen vuorokauden kuluessa siitä, kun vaatimus sen pitämisestä on esitetty hallitukselle. Yhdistyksen kokouksissa on jokaisella varsinaisella jäsenellä yksi ääni. Kannattavalla jäsenellä on kokouksessa läsnäolo- ja puheoikeus. Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä ole toisin määrätty, se mielipide, jota on kannattanut yli puolet annetuista äänistä. Äänten mennessä tasan ratkaisee kokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
 
 ## 10 § Yhdistyksen kokousten koollekutsuminen
 
@@ -94,40 +94,56 @@ Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
 4. hyväksytään kokouksen työjärjestys
 5. esitetään tilinpäätös, vuosikertomus ja toiminnantarkastajien/tilintarkastajien lausunto
 6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille vastuuvelvollisille
-7. vahvistetaan toimintasuunnitelma, tulo- ja menoarvio sekä liittymis- ja jäsenmaksujen suuruudet
+7. vahvistetaan toimintasuunnitelma sekä tulo- ja menoarvio
 8. valitaan hallituksen puheenjohtaja ja muut jäsenet
 9. valitaan yksi tai kaksi toiminnantarkastajaa ja varatoiminnantarkastajaa taikka yksi tai kaksi tilintarkastajaa ja varatilintarkastajaa
 10. käsitellään muut kokouskutsussa mainitut asiat.
 
 Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen vuosikokouksen käsiteltäväksi, on hänen ilmoitettava siitä kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan sisällyttää kokouskutsuun.
 
-## 12 § Ehdokkaiden asettaminen eduskuntavaaleihin
+## 12 § Piiriyhdistykset
 
-Hallitus tekee päätöksen ehdokkaiden asettamisesta eduskuntavaaleihin. Ehdokkaaksi voi hakea yhdistyksen varsinaiset jäsenet.
+Piiriyhdistyksien toiminta-alueena on eduskuntavaalien vaalipiiri. Piiriyhdistyksen jäseniä ovat henkilöjäsenet. Piiriyhdistys on rekisteröity yhdistys, jonka puoluehallitus hyväksyy jäseneksi. Piiriyhdistykset ovat puolueen varsinaisia jäseniä. Puolueeseen liittynyt jäsen voi liittyä piiriyhdistykseen asuinpaikkansa mukaan.
 
-## 13 § Ehdokkaiden asettaminen europarlamenttivaaleihin
+## 13 § Piiriyhdistyksen tehtävät ja toiminta
+
+Piiriyhdistyksen tehtävänä on:
+1. edustaa puoluetta piiri- ja kunnallistasolla;
+2. tehdä 14 §:ssä tarkoitettu esitys puolueen eduskuntavaaleissa asetettaviksi ehdokkaiksi ja vastata puolueen eduskuntavaalikampanjasta vaalipiirissä;
+3. asettaa toiminta-alueellaan puolueen ehdokkaat kunnallisvaaleissa ja vastata puolueen kunnallisvaalikampanjasta;
+4. hoitaa muut puoluehallituksen sille määräämät tehtävät.
+
+## 14 § Ehdokkaiden asettaminen eduskuntavaaleihin
+
+Piiriyhdistys tekee puoluehallitukselle esityksen omassa vaalipiirissään asetettavista ehdokkaista. Esityksen tulee perustua piiriyhdistyksen sisäisen jäsenäänestyksen tulokseen tai piiriyhdistyksen kokouksen päätökseen.
+
+Puoluehallitus tekee päätöksen ehdokkaiden asettamisesta eduskuntavaaleihin. Puoluehallituksen päätöksen tulee noudattaa piiriyhdistyksen esitystä. Puoluehallitus voi kuitenkin päättää asettaa vaalipiiriin enemmän ehdokkaita kuin piiriyhdistys on esittänyt. Kuitenkin vähintään 1/2 puolueen ehdokkaista vaalipiirissä on oltava piiriyhdistyksen esittämiä.
+
+Puoluehallitus voi erittäin painavasta syystä poiketa kunkin piiriyhdistyksen esityksestä enintään kahden ehdokkaan osalta. Ennen tällaisen päätöksen tekemistä on piiriyhdistykselle ja asianosaisille henkilöille varattava tilaisuus tulla kuulluksi.
+
+## 15 § Ehdokkaiden asettaminen europarlamenttivaaleihin
 
 Puolueen ehdokkaat europarlamenttivaaleissa valitaan jäsenäänestyksellä. Jäsenäänestystä ei kuitenkaan järjestetä, jos siihen nimettyjen ehdokkaiden määrä on enintään se, mitä puolueella on oikeus asettaa ehdokkaita europarlamenttivaalissa. Tällöin puoluekokous asettaa puolueen ehdokkaiksi europarlamenttivaaleissa kaikki jäsenäänestykseen nimetyt henkilöt.
 
-## 14 § Ehdokkaiden asettaminen presidentinvaaleihin
+## 16 § Ehdokkaiden asettaminen presidentinvaaleihin
 
 Puolueen ehdokas presidentinvaaliin valitaan jäsenäänestyksellä. Jos jäsenäänestykseen on nimetty vain yksi ehdokas, jäsenäänestystä ei järjestetä. Tällöin puoluekokous asettaa jäsenäänestykseen nimetyn ehdokkaan puolueen ehdokkaaksi presidentinvaaliin.
 
-## 15 § Jäsenäänestyksen toteuttaminen
+## 17 § Jäsenäänestyksen toteuttaminen
 
 Jäsenäänestys toteutetaan postiäänestyksenä tai erillisissä äänestystilaisuuksissa noudattaen 20 §:ssä kuvattua suhteellista vaalitapaa. Jäsenäänestys voidaan toteuttaa hallituksen tai yhdistyksen kokouksen niin päättäessä tietoliikenneyhteyden tai muun teknisen apuvälineen avulla. Jäsenäänestyksen tulokseen ei lueta henkilöä, jota vaalikelpoisuuden menettämisen, kieltäytymisen tai muun sellaisen syyn vuoksi ei voida asettaa ehdokkaaksi. Muilta osin jäsenäänestyksessä menetellään yhdistyksen kokouksen hyväksymän vaalijärjestyksen mukaisesti.
 
-## 16 § Ehdokkaiden nimeäminen jäsenäänestykseen
+## 18 § Ehdokkaiden nimeäminen jäsenäänestykseen
 
 Jokaisella puolueen äänivaltaisella henkilöjäsenellä on oikeus nimetä yksi ehdokas jäsenäänestykseen. Ehdokkaan nimeämisellä tulee lisäksi olla vähintään 20 henkilön kannatus. Kannattaja voi olla puolueen jäsen tai puolueen ulkopuolinen henkilö. Kannattajien täytyy kuitenkin olla äänioikeutettuja vaaleissa, joihin ehdokasta ollaan nimeämässä.
 
 Jäsenäänestykseen ei saa nimetä henkilöä, joka ei ole valtiollisissa vaaleissa vaalikelpoinen, eikä henkilöä, joka ei ole antanut nimeämiseen kirjallista suostumustaan. Ehdokkaan nimeäjä tai nimeämistä kannattava henkilö ei ole sidottu äänestämään jäsenäänestyksessä nimetyn puolesta.
 
-## 17 § Osanotto jäsenäänestykseen
+## 19 § Osanotto jäsenäänestykseen
 
 Jäsenäänestykseen saavat ottaa osaa puolueen äänivaltaiset henkilöjäsenet, jotka ovat jäsenäänestyksen toteuttamisvuoden alkaessa täyttäneet 15 vuotta.
 
-## 18 § Vaalin toteuttaminen
+## 20 § Vaalin toteuttaminen
 
 Silloin kun täytettäviä paikkoja on vain yksi, äänestys toimitetaan kaksivaiheisella enemmistövaalitavalla. Jos ensimmäisellä kierroksella kukaan ehdokkaista ei saa yli puolta annetuista hyväksytyistä äänistä, toimitetaan toinen äänestyskierros kahden eniten ääniä saaneen ehdokkaan välillä. Kun täytettäviä paikkoja on enemmän kuin yksi, käytetään suhteellista vaalitapaa.
 
@@ -138,9 +154,9 @@ Suhteellisten vaalien laskentatapana käytetään yhden äänen siirtoäänivaal
 2. Äänikynnyksen ylittäneiltä ehdokkailta siirretään heidän saamansa ylijäämä-äänet äänestyslipussa toisena olleelle ehdokkaalle.
 3. Jos paikkoja on vielä täyttämättä, kun kaikki ylijäämä-äänet on jaettu, karsitaan pois vähiten ääniä saanut ehdokas, jonka äänet siirretään äänestyslipussa seuraavana olevalle ehdokkaalle.
 
-Äänikynnyksen laskemisessa käytetään laskutapaa, jonka päättää puoluehallitus, ja jonka se ilmoittaa äänestykseen osallistuville ennen äänestyksen toteuttamista.
+Äänikynnys lasketaan jakamalla annettujen äänien määrä jaossa olevien paikkojen määrällä.
 
-## 19 § Sääntöjen muuttaminen ja yhdistyksen purkaminen
+## 21 § Sääntöjen muuttaminen ja yhdistyksen purkaminen
 
 Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä. Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta.
 
