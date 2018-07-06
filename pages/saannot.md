@@ -5,11 +5,11 @@ permalink: /saannot/
 
 # SÄÄNNÖT
 
-Nämä säännöt on hyväksytty yhdistyksen vuosikokouksessa 14.5.2016. Niitä ei ole merkitty yhdistysrekisteriin.
+Nämä säännöt on hyväksytty yhdistyksen ylimääräisessä kokouksessa 17.6.2016. Ne on merkitty yhdistysrekisteriin 21.6.2016.
 
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
-Yhdistyksen nimi on Liberaalipuolue r.p., ja sen kotipaikka on Helsinki, toimialueena koko Suomi.
+Yhdistyksen nimi on Liberaalipuolue – Vapaus valita r.p., ja sen kotipaikka on Helsinki, toimialueena koko Suomi.
 
 Yhdistyksen kieli on suomi. Yhdistyksen pöytäkirjakieli on suomi.
 
