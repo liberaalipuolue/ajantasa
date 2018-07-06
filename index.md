@@ -40,6 +40,6 @@ Sivusto ja sen sisältö on talletettu avoimen lähdekoodin [Git](https://fi.wik
 
 Perusteet päivityksille ovat osana git commit messageja sekä useimmiten tekstisisällön alussa. Näitä sekä versioidenvälisiä muutoksia voi katsoa `/pages/`-alisivun [commit-historiasta](https://github.com/liberaalipuolue/ajantasa/commits/master/pages).
 
-Tekstisisällöt on kirjoitettu [Markdown](https://en.wikipedia.org/wiki/Markdown)-merkintäkielellä. GitHubista kanssa Markdown-tiedostot voidaan linkittää esimerkiksi suoraan verkkosivuille, kunhan sivustolla on Markdown-kääntötulkki. Itse sivusto on luotu GitHubin tukemalla [Jekyll](https://jekyllrb.com/)-nimisellä staattisten sivujen generaattorilla. Sivusto palvelee osoitteessa <https://liberaalipuolue.github.io> tai CNAME-ohjatussa osoitteessa <https://ajantasa.liberaalipuolue.fi>.
+Tekstisisällöt on kirjoitettu [Markdown](https://en.wikipedia.org/wiki/Markdown)-merkintäkielellä. GitHubista kanssa Markdown-tiedostot voidaan linkittää esimerkiksi suoraan verkkosivuille, kunhan sivustolla on Markdown-kääntötulkki. Itse sivusto on luotu GitHubin tukemalla [Jekyll](https://jekyllrb.com/)-nimisellä staattisten sivujen generaattorilla. Sivusto palvelee osoitteessa <https://liberaalipuolue.github.io/ajantasa> tai CNAME-ohjatussa osoitteessa <https://ajantasa.liberaalipuolue.fi>.
 
 Lisää teknisiä tietoja on versionhallinnan `README`-tiedostossa [täällä](https://github.com/liberaalipuolue/ajantasa/).

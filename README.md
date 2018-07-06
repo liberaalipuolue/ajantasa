@@ -4,7 +4,7 @@ Tämä projekti sisältää Liberaalipuolue – Vapaus valita r.p.:n ajantasaise
 
 ## Selaaminen GitHubissa
 
-Projektin renderöimän sivuston [GitHub Pagesissa](https://pages.github.com/) näkee osoitteista [https://liberaalipuolue.github.io/](https://liberaalipuolue.github.io/) ja [https://ajantasa.liberaalipuolue.fi/](https://ajantasa.liberaalipuolue.fi/).
+Projektin renderöimän sivuston [GitHub Pagesissa](https://pages.github.com/) näkee osoitteista [https://ajantasa.liberaalipuolue.fi/](https://ajantasa.liberaalipuolue.fi/) ja [https://liberaalipuolue.github.io/ajantasa](https://liberaalipuolue.github.io/ajantasa).
 
 Vanhoja versioita dokumenteista voi selata `pages`-kansion [commit-historiasta](https://github.com/liberaalipuolue/ajantasa/commits/master/pages).
 
