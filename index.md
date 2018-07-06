@@ -22,7 +22,7 @@ Sivustolla on tällä hetkellä seuraavat sisällöt:
 - **Erityisohjelmat**
   - Ei vielä sisältöä
 - **Muu sisältö**
-  - Ei vielä sisältöä
+  - [Johtosääntö](/johtosaanto/)
 
 Sisältö päivittyy puolueen tekemien päätösten myötä, ja perusteet päivämäärineen on useimmiten mainittu tekstisisällön alussa. Säännöt ja puolueohjelma päivittyvät puoluekokousten päätösten pohjalta. Ohjelmia lisätään sitä mukaa kun niitä luodaan. Osaa sisällöstä voidaan päivittää myös puoluehallituksen ja puoluevaltuuston päätöksillä. Käännösversioita päivitetään myös muilla perusteilla.
 

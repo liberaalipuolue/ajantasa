@@ -5,7 +5,7 @@ permalink: /puolueohjelma/
 
 # PUOLUEOHJELMA
 
-Tämä puolueohjelma on hyväksytty yhdistyksen vuosikokouksessa 27.5.2017.
+Tämä puolueohjelma on hyväksytty yhdistyksen ylimääräisessä kokouksessa 11.11.2017.
 
 ## Puolueen arvot
 
@@ -22,6 +22,8 @@ Lähtökohtaisesti jokaisella on oikeus elää elämäänsä kuten parhaaksi nä
 > Ihmisellä on oikeus päättää elämästään ja kuolemastaan. Eutanasia tulee laillistaa.
 
 > Päihteiden käyttö on kansanterveydellinen ongelma. Päihteiden käytöstä ei tule määrätä rangaistusta, koska rikosoikeudelliset seuraamukset aiheuttavat syrjäytymistä ja muita sosiaalisia ongelmia.
+
+> Sterilisaation ikärajaa tulee laskea nykyisestä 30 vuodesta.
 
 ### Sananvapaus
 
@@ -63,7 +65,7 @@ Konkurssilainsäädäntöä tulee kehittää. Velallinen ja velkoja on asetettav
 
 > Valtion monopoleista tulee luopua, koska ne loukkaavat elinkeinovapautta. Vahvojen alkoholijuomien myyminen ja uhkapelien järjestäminen tulee vapauttaa. Raideliikenne tulee avata kilpailulle. Sähkönsiirtoverkkojen lakisääteinen monopoli pitää purkaa.
 
-> Teoksen suoja-aikaa tulee lyhentää. Nykyinen 70 vuoden suoja tekijän kuoleman jälkeen on aivan liian pitkä.
+> Teoksen suoja-aikaa tulee lyhentää. Nykyinen 70 vuoden suoja tekijän kuoleman jälkeen on liian pitkä.
 
 ## Toimeentulo on taattava kaikille
 
@@ -81,7 +83,7 @@ Sosiaaliturva tulee ulottaa yhdenvertaisesti sekä opiskelijoihin, pätkätyöl�
 
 Nykyinen eläkejärjestelmä ei ole reilu tämänhetkisten veronmaksajien kannalta, koska suurin osa eläkemaksuista menee nykyisten eläkeläisten eläkkeiden maksuun. Eläkejärjestelmän kestävyys on voitava taata kaikille, jotka sen rahoittamiseen osallistuvat.
 
-Suuria eläkkeitä tulee leikata, ja säästyneellä summalla tulee pienentää eläkemaksuja. Julkiseen eläkejärjestelmään osallistumisen tulisi olla pakollista ainoastaan perustoimeentulon tarjoavalta osalta väestöä, ja nykyistä eläkejärjestelmää tulisi uudistaa perustoimeentulon takaavaan suuntaan nykyistä ansiosidonnaista mallia keventämällä.
+Suuria eläkkeitä tulee leikata, ja säästyneellä summalla tulee pienentää eläkemaksuja. Julkiseen eläkejärjestelmään osallistumisen tulisi olla pakollista ainoastaan perustoimeentulon tarjoavalta osalta.
 
 ## Työmarkkinat vapaammiksi
 
@@ -166,9 +168,21 @@ Lähtökohtana tulee olla, että julkisin varoin kustannetaan vain ne yhteiskunn
 
 ## Terveydenhuolto
 
-Kaikille kansalaisille tulee taata mahdollisuus terveydenhoitoon. Viime kädessä pääsy tarpeellisiin terveyspalveluihin tulee turvata julkisen sektorin toimesta. Kansalaisten valinnanvapautta terveyspalveluiden valinnassa tulee lisätä.
+Kaikille kansalaisille tulee taata mahdollisuus terveydenhoitoon taloudellisista lähtökohdista riippumatta. Viime kädessä pääsy tarpeellisiin terveyspalveluihin on turvattava julkisen sektorin toimesta. Ihmisille tulee luoda kannustimet huolehtia terveydestään.
+
+Julkisrahoitteisissa sosiaali- ja terveyspalvelussa tulee huomioida kokonaiskustannukset ja vaikuttavuus, ja käyttää ensisijaisesti hoitomuotoja, joiden toimivuutta tukevat tieteellinen näyttö ja parhaat käytännöt. Palvelut tulee integroida yhtenäisiksi palvelukokonaisuuksiksi siten, että palveluketjun eri osat eivät kilpaile keskenään vastuun ja kustannusten jakamisessa.
+
+Sosiaali- ja terveyspalvelut on kilpailutettava soveltuvin osin. Kilpailutuksessa tulee asettaa riittävät laatukriteerit ja niiden valvonnasta tulee pitää kiinni. Kansalaisten vapautta valita käyttämänsä terveyspalvelut itse tulee lisätä.
 
 Terveydenhuollon vakuutus- ja tilipohjaisten rahoitusmallien sopivuutta Suomeen on selvitettävä. Julkinen sektori voi lainsäädännöllä parantaa potilaiden mahdollisuuksia vertailla palveluntuottajia, esimerkiksi velvoittamalla kaikkia palveluntuottajia julkaisemaan hinnastonsa.
+
+Ennaltaehkäiseviä palveluja on lisättävä. Ihmisen tulisi saada apua jo siinä vaiheessa, kun ongelmat ovat vielä lieviä. Ongelmien varhainen hoitaminen parantaa yksilön elämänlaatua, tekee hoidosta tehokkaampaa ja säästää yhteiskunnan voimavaroja niitä eniten tarvitseville.
+
+Pitkäaikaisessa laitoshoidossa on pyrittävä kodinomaisuuteen ja kiireettömyyteen. Hoitajamitoituksen on oltava sellainen, että hoitajat ehtivät tehdä hoitotyön kunnolla. Vanhuksen ensisijaisen asumispaikan tulee kuitenkin olla oma koti eikä laitos. Kotihoidon sekä kotiin tulevien palveluiden resursseja on lisättävä.
+
+Omaishoito on hoidettavalle inhimillistä ja yhteiskunnalle erittäin kustannustehokasta. Omaishoidon myöntämisperusteiden on oltavat samat koko Suomessa, eikä omaishoidon korvaukseen saa vaikuttaa korvauksen hakuajankohta. Omaishoitajien jaksamisesta on huolehdittava. Omaishoidon korvauksen lisäksi on varmistettava, että yhteiskunta takaa kotiin myös muut palvelut, johon hoidettava ja hoitaja ovat oikeutettuja.
+
+Sosiaalihuolto lisää väestötason hyvinvointia ja omalta osaltaan vaikuttaa siihen, että terveydenhuollon kulut eivät nouse. Sosiaalihuollon päätöksenteko on säilytettävä yhteiskunnan vastuulla.
 
 ## Koulutus
 
@@ -206,6 +220,30 @@ Mikäli turvapaikanhakija työllistyy turvapaikkaprosessin aikana, hänelle tule
 
 > Turvapaikkahakemusten käsittelyä tulee nopeuttaa riittävällä resursoinnilla.
 
+## Turvallisuuspolitiikka
+
+Maanpuolustus ja kansalaisten turvallisuuden varmistaminen kuuluvat valtion ydintehtäviin. Suomella tulee olla uskottava kansallinen puolustus. Kansainvälistä yhteistyötä ja integraatiota on syvennettävä kansallisen puolustuksen vahvistamiseksi. Suomen tulee hakea Naton jäsenyyttä.
+
+Asevelvollisuusjärjestelmää tulee kehittää siten, että puolustuksen tarpeet ja asepalveluksen suorittavien motivaatio ja kompetenssit kohtaavat paremmin. Miehille pakollinen asevelvollisuus tulee korvata kaikkia kansalaisia koskevalla valikoivalla asepalveluksella ja palveluksen suorittamiseen tulee kannustaa korottamalla päivärahoja siten, että riittävästi ihmisiä hakeutuu kaikkiin maanpuolustustehtäviin. Palveluksesta kieltäytymisestä ei tule rangaista. Vapaaehtoista maanpuolustustyötä tulee edistää ja tukea.
+
+Puolustusvoimien suorituskykyjä tulee kehittää järjestelmällisesti vastaamaan muuttuvaa toimintaympäristöä sekä uhkakuvan muutoksia. Valmiuden kohottamisen ja toimirajat ylittävän viranomaisyhteistyön on oltava mahdollista nopeasti ja joustavasti.
+
+### Sisäinen turvallisuus
+
+Kansalaisten turvallisuuden varmistaminen kuuluu valtion ja yhteiskunnan ydintehtäviin. Turvallisuuden takaaminen on kuitenkin tehtävä yksilönvapautta ja muita perusoikeuksia kunnioittaen. Ennaltaehkäisy on tehokas tapa torjua turvallisuusuhkia.
+
+Ennalta-arvaamattomat tapahtumat voivat synnyttää yhteiskunnan perustoimintoihin merkittäviä häiriöitä. Yksilöiden omatoiminen varautuminen ja valppaus lisäävät turvallisuutta sekä nostavat yhteiskunnan kykyä kestää häiriöitä. Ensiapua ja turvallisuusosaamista tulee opettaa peruskoulussa.
+
+Turvallisuusviranomaisten toimintaa ohjaava ja sen mahdollistava lainsäädäntö on saatettava vastaamaan muuttuneita olosuhteita. Lainsäädännön kehittäminen ei saa johtaa perustuslain takaaman yksityisyydensuojan tarpeettomaan heikentymiseen.
+
+> Turvallisuusviranomaisten resurssit on nostettava muuttuneisiin tehtäviin nähden riittävälle tasolle.
+
+> Hallinnolliset rajat eivät saa olla esteenä eri viranomaisten yhteistyölle.
+
+> Suomi tarvitsee ajantasaisen tiedustelulainsäädännön, mutta sähköisen viestinnän massavalvontaa ei voida sallia missään tilanteessa.
+
+> Hyvin toimivat työmarkkinat ovat tehokkain keino syrjäytymisen ehkäisemiseksi ja sen haittojen torjumiseksi.
+
 ## Ulkopolitiikka
 
 ### Euroopan Unionin merkitys talousliittona
@@ -214,27 +252,37 @@ EU:lla on tärkeä rooli suuren vapaakauppa-alueen standardien luojana ja käyt�
 
 Suomen tulee vapaakaupan osalta integroitua paremmin EU:n kanssa. Tällä hetkellä kaupankäynti useilla tuotteilla, kuten autoilla ja alkoholilla, ei ole samalla tasolla muiden EU-maiden kanssa.
 
-### Turvallisuuspolitiikka
-
-Maanpuolustus ja kansalaisten turvallisuuden varmistaminen kuuluvat valtion ydintehtäviin. Suomella tulee olla uskottava kansallinen puolustus. Kansainvälistä yhteistyötä ja integraatiota on syvennettävä kansallisen puolustuksen vahvistamiseksi. Suomen tulee hakea Naton jäsenyyttä.
-
-Asevelvollisuusjärjestelmää tulee kehittää siten, että puolustuksen tarpeet ja asepalveluksen suorittavien motivaatio ja kompetenssit kohtaavat paremmin. Miehille pakollinen asevelvollisuus tulee korvata kaikkia kansalaisia koskevalla valikoivalla asepalveluksella ja palveluksen suorittamiseen tulee kannustaa korottamalla päivärahoja siten, että riittävästi ihmisiä hakeutuu kaikkiin maanpuolustustehtäviin. Palveluksesta kieltäytymisestä ei tule rangaista. Vapaaehtoista maanpuolustustyötä tulee edistää ja tukea.
-
-Puolustusvoimien suorituskykyjä tulee kehittää järjestelmällisesti vastaamaan muuttuvaa toimintaympäristöä sekä uhkakuvan muutoksia. Valmiuden kohottamisen ja toimirajat ylittävän viranomaisyhteistyön on oltava mahdollista nopeasti ja joustavasti.
-
 ### Kehitysapu
 
-Vapaa kaupankäynti on parasta kehitysapua. Tuontirajoituksia ja tulleja karsimalla voidaan huolehtia, että kehitysmaissa tuotetut tuotteet pääsevät Suomen markkinoille. Korruptiolle alttiit epämääräiset kehityshankkeet tulee lopettaa.
+Vapaa kaupankäynti on parasta kehitysapua. Tuontirajoituksia ja tulleja karsimalla voidaan huolehtia, että kehitysmaissa tuotetut tuotteet pääsevät Suomen markkinoille. Kehitysyhteistyöhankkeille tulee luoda kriteeristö, jolla hankkeiden vaikuttavuutta arvioidaan. Tehottomien ja korruptiolle alttiiden hankkeiden rahoittaminen tulee lopettaa, ja kehitysyhteistyön varat tulee ohjata vaikuttaviin hankkeisiin.
 
 ## Energiapolitiikka
 
-Energiantuotannosta syntyviä haittoja tulee verottaa haittaverolla, joka vastaa suuruudeltaan parasta arviota näiden haittojen korjaamisen kuluista. Valtion ei tule päättää, millä tavoin energiaa tuotetaan tukemalla tiettyjä energiamuotoja. Kaikille valtion määrittelemät kriteerit täyttäville toimijoille tulee myöntää toimilupa, myös ydinvoimalan rakentamiseksi. Sääntelyä täytyy purkaa siten, että myös pienempien ydinvoimaloiden rakentaminen on mahdollista.
+Teollisuuden ja kotitalouksien energiansaanti on turvattava. Energiantuotannon ympäristöhaitat on samalla pyrittävä minimoimaan. Lainsäädännön on mahdollistettava joustavasti uusien teknologioiden tutkimus, kehittäminen ja käyttöönotto.
 
-Tuuli- ja aurinkovoiman tukeminen on hyötysuhteeltaan heikkoa sekä kilpailua vääristävää. Voimassa olevista syöttötariffeista tulee luopua.
+Eri energiantuotantomuotoja on lainsäädännössä kohdeltava niiden aiheuttamien ympäristöhaittojen suhteessa. Voimassa olevista syöttötariffeista tulee luopua. Tukemisen sijasta energiantuotantoa on ohjattava vähäpäästöiseksi haittaverojen avulla. Haittaverojen suuruuden on vastattava suuruudeltaan parasta arviota näiden haittojen korjaamisen kuluista.
+
+Suomessa tuotetulle energialle tarvitaan toimivat markkinat. Energiantuotannossa yhteistyö muiden maiden kanssa on tärkeää ja energiantuottajien mahdollisuuksia osallistua kansainvälisille sähkömarkkinoille tulee edistää.
+
+Liberaalipuolue kannattaa päästökauppajärjestelmän korvaamista hiiliverolla, joka kohdistuisi tasapuolisesti jokaisen päästöjä tuottavan sektorin saastuttamiseen.
+
+### Ydinenergia
+
+Ydinenergia on hyvä keino hidastaa ilmastonmuustosta. Suomen ydinenergialain on vastattava ydinteknologian kehitykseen nykyistä lakia paremmin. Uudentyyppisten reaktoreiden ja konseptien kokeileminen on mahdollistettava. Kaikille valtion määrittelemät kriteerit täyttäville toimijoille tulee myöntää toimilupa, myös ydinvoimalan rakentamiseksi. Ydinreaktoreiden lupaprosessista on tehtävä nykyistä nopeampi ja kevyempi, jotta myös pienreaktoreiden käyttöönotosta tulee mahdollista.
+
+Suomessa on korkeaa ydinteknologiaan liittyvää osaamista, eikä lainsäädäntö saa olla sen hyödyntämisen esteenä. Käytetyn ydinpolttoaineen jälleenkäsittely, tuonti ja vienti, hyödyntäminen ydinpolttoaineena hyötöreaktoreissa ja muiden ydinteknologiaan liittyvien palveluiden myynti myös ulkomaille on sallittava.
+
+### Bioenergia
+
+Bioenergian käyttöä tulee arvioida kokonaispäästöjen kannalta samoin kuin muitakin energiamuotoja, eikä biomassaa pidä automaattisesti laskea nollapäästöiseksi.
+
+Suomessa harjoitettu pitkäjänteinen metsänhoito mahdollistaa kestävän biomassan käytön. Suomen on ajettava EU-tasolla kaikkia koskevia riittävän tiukkoja ympäristökriteerejä, jotta tämä kilpailuetu toteutuu markkinoilla.
 
 ## Ympäristöpolitiikka
 
-Luonto kuuluu kaikille kansalaisille ja ympäristöstä tulee pitää huolta. Valtion tulee taata puhdas ympäristö tuleville sukupolville. Yhteiskunnallisesti arvokkaiksi katsottujen luontoalueiden tulee olla valtion suojeluksessa. Ympäristöhaitan aiheuttajalla tulee olla täysi vastuu ympäristövahinkojen korjaamisesta.
+Luonto kuuluu kaikille ihmisille ja ympäristöstä tulee pitää huolta. Valtion tulee taata puhdas ympäristö tuleville sukupolville. Yhteiskunnallisesti arvokkaiksi katsottujen luontoalueiden tulee olla valtion suojeluksessa. Ympäristöhaitan aiheuttajalla tulee olla täysi vastuu ympäristövahinkojen korjaamisesta.
+
+Suojelualueiden hankinnassa tulee pakkolunastusten sijaan suosia markkinaehtoisia vaihtoehtoja kuten pitkäaikaisia vuokrasopimuksia ja huutokauppoja.
 
 ## Maataloutta on uudistettava
 
@@ -244,7 +292,7 @@ Maatalouden riippuvuutta tulonsiirroista tulee vähentää, ja kansallisia maata
 
 > Huoltovarmuus on taattava. Huoltovarmuuden takaaminen on mahdollista muilla keinoilla kuin nykyisen laajuisella tukijärjestelmällä.
 
-> Elintarvikkeisiin liittyvät tuontitullit tulee poistaa.
+> Kaikki elintarvikkeisiin liittyvät tuontitullit tulee poistaa.
 
 > Luomutuotannon suurempi tuki vääristää tuotantopäätöksiä. Luomutuotantoa ei pidä tukea sen enempää kuin muuta elintarviketuotantoa.
 

@@ -5,159 +5,259 @@ permalink: /saannot/
 
 # SÄÄNNÖT
 
-Nämä säännöt on hyväksytty yhdistyksen ylimääräisessä kokouksessa 17.6.2016. Ne on merkitty yhdistysrekisteriin 21.6.2016.
+Nämä säännöt on hyväksytty yhdistyksen ylimääräisessä kokouksessa 11.11.2017. Niitä ei ole merkitty yhdistysrekisteriin.
 
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
-Yhdistyksen nimi on Liberaalipuolue – Vapaus valita r.p., ja sen kotipaikka on Helsinki, toimialueena koko Suomi.
+Yhdistyksen nimi on Liberaalipuolue – Vapaus valita r.p., ruotsiksi Liberalpartiet - Frihet att välja r.p., ja sen kotipaikka on Helsinki, toimialueena koko Suomi. Näissä säännöissä yhdistyksestä käytetään nimitystä puolue.
 
-Yhdistyksen kieli on suomi. Yhdistyksen pöytäkirjakieli on suomi.
+Puolueen kieli on suomi. Puolueen pöytäkirjakieli on suomi.
 
 ## 2 § Tarkoitus ja toiminnan laatu
 
-Yhdistyksen tarkoituksena on vaikuttaa valtiollisiin asioihin olemalla mukana päätöksenteossa ja lakiuudistusten kautta. Tavoitteidensa saavuttamiseksi puolue pyrkii asettamaan ehdokkaita europarlamentti-, eduskunta- ja kunnallisvaaleihin sekä presidentinvaaliin.
+Puolueen tarkoituksena on vaikuttaa valtiollisiin ja yhteiskunnallisiin asioihin lakiuudistusten kautta ja olemalla mukana päätöksenteossa.
 
-Yhdistys vaatii yksilön oikeuksien toteutumista kaikilla yhteiskunnan osa-alueilla. Yksilön henkilökohtaisiin valintoihin puuttuminen lainsäädännöllä pitää aina olla perusteltavissa painavilla syillä.
+Puolue vaatii yksilön vapauden toteutumista kaikilla yhteiskunnan osa-alueilla. Yksilön henkilökohtaisiin valintoihin puuttuminen lainsäädännöllä pitää aina olla perusteltavissa painavilla syillä.
 
 Tarkoituksensa toteuttamiseksi puolue:
 1. harjoittaa tiedotus- ja julkaisutoimintaa
 2. tekee aloitteita ja kannanottoja
 3. osallistuu julkiseen keskusteluun tavoitteidensa edistämiseksi
-4. järjestää tapahtumia ja poliittista kansalaistoimintaa.
+4. järjestää tapahtumia ja poliittista kansalaistoimintaa
+5. pyrkii asettamaan ehdokkaita europarlamentti-, eduskunta-, maakunta- ja kuntavaaleihin sekä presidentinvaaliin sekä muihin vaaleihin
 
-Toimintansa tukemiseksi yhdistys voi ottaa vastaan lahjoituksia ja testamentteja, kerätä jäsenmaksuja, ostaa, omistaa ja hallita toimintaansa varten tarpeellista kiinteää omaisuutta sekä asianomaisella luvalla järjestää rahankeräyksiä ja arpajaisia, harjoittaa kahvila- ja ravintolaliikettä samoin kuin alaansa liittyvää julkaisutoimintaa.
+Toimintansa tukemiseksi puolue voi ottaa vastaan lahjoituksia ja testamentteja, kerätä jäsenmaksuja, ostaa, omistaa ja hallita toimintaansa varten tarpeellista kiinteää omaisuutta sekä asianomaisella luvalla järjestää rahankeräyksiä ja arpajaisia, harjoittaa kahvila- ja ravintolaliikettä samoin kuin alaansa liittyvää julkaisutoimintaa.
 
-Yhdistyksen tarkoituksena ei ole taloudellisen voiton hankkiminen puolueen jäsenille.
+Puolueen tarkoituksena ei ole taloudellisen voiton hankkiminen puolueen jäsenille.
 
-## 3 § Jäsenet
+## 3 § Puolueen rakenne ja jäsenet
 
-Yhdistykseen varsinaiseksi jäseneksi voi liittyä jokainen yhdistyslain (503/1989) 10 §:n 2 momentissa tarkoitettu yksityishenkilö tai rekisteröity yhdistys, joka hyväksyy yhdistyksen ohjelman ja säännöt.
+Puolue on jäsenjärjestöjen liitto.
 
-Kannatusjäsenenä voi olla yksityishenkilö tai oikeuskelpoinen yhteisö, mutta kannatusjäsenillä ei ole äänioikeutta.
+Puolueen varsinaisia jäseniä voivat olla vain oikeustoimikelpoiset yhteisöt.
 
-Varsinaiset jäsenet hyväksyy hakemuksesta yhdistyksen hallitus. Kannatusjäsenet hyväksyy yhdistyksen hallitus.
+Puolueen kannatusjäseniä voivat olla luonnolliset henkilöt tai oikeustoimikelpoiset yhteisöt.
 
-## 4 § Jäsenen eroaminen ja erottaminen
+Näissä säännöissä puolueen henkilöjäsenellä tarkoitetaan luonnollista henkilöä, joka on puolueen jäsenjärjestön tai sen jäsenjärjestön henkilöjäsen, ja puoluejärjestöllä puolueen jäsenjärjestöä tai sen jäsenjärjestöä.
 
-Jäsenellä on oikeus erota yhdistyksestä ilmoittamalla siitä kirjallisesti hallitukselle tai sen puheenjohtajalle taikka ilmoittamalla erosta yhdistyksen kokouksessa merkittäväksi pöytäkirjaan.
+Puolueen varsinaisia jäseniä ovat:
+1) puolueen rekisteröidyt piirijärjestöt (myöhemmin piirijärjestö),
+2) puolueen valtakunnalliset teemayhdistykset (myöhemmin teemayhdistys)
 
-Hallitus voi erottaa jäsenen yhdistyksestä, jos jäsen on jättänyt erääntyneen jäsenmaksunsa maksamatta tai muuten jättänyt täyttämättä ne velvoitukset, joihin hän on yhdistykseen liittymällä sitoutunut tai on menettelyllään yhdistyksessä tai sen ulkopuolella huomattavasti vahingoittanut yhdistystä tai ei enää täytä laissa taikka yhdistyksen säännöissä mainittuja jäsenyyden ehtoja.
+Piirijärjestön toiminta-alueena on yksi tai useampi eduskuntavaalien vaalipiiri. Piirijärjestöllä voi olla jäseninään paikallis- ja teemayhdistyksiä, kunnallis- ja aluejärjestöjä sekä luonnollisia henkilöitä (henkilöjäsen).
 
-Lisäksi jäsenen voi erottaa, mikäli jäsen toiminnallaan aiheuttaa vakavaa haittaa yhdistyksen uskottavuudelle tai maineelle. Tästä erottamisesta päättää hallitus.
+Teemayhdistyksen toiminta-alueena on koko maa. Teemayhdistyksellä voi olla jäseninään teemayhdistyksen piiri- ja paikallisyhdistyksiä sekä luonnollisia henkilöitä.
 
-Samat erottamista koskevat säännöt pätevät kannatusjäseneen.
+Puolueen varsinaiseksi jäseneksi voidaan hyväksyä yhdistys, joka hyväksyy puolueen periaateohjelman ja säännöt. Varsinaiset jäsenet hyväksyy hakemuksesta puoluehallitus. Piirijärjestöjen ja teemayhdistysten sääntöjen muuttamiseen tarvitaan puoluehallituksen hyväksyntä.
 
-## 5 § Liittymis- ja jäsenmaksu
+Puolueen kannatusjäseneksi voi liittyä luonnollinen henkilö tai oikeustoimikelpoinen yhteisö. Kannatusjäsenillä ei ole äänioikeutta. Kannatusjäsenet hyväksyy hakemuksesta puoluehallitus.
 
-Varsinaisilta jäseniltä ja kannatusjäseniltä perittävän liittymismaksun ja vuotuisen jäsenmaksun suuruudesta päättää kummankin jäsenryhmän osalta erikseen hallitus.
+## 4 § Piirijärjestöjen tehtävät ja toiminta
 
-Varsinaisena jäsenenä oleville paikallisyhdistyksille voidaan määrätä korkeampi jäsenmaksu kuin varsinaisena jäseninä oleville yksityishenkilöille.
+Piirijärjestön tehtävänä on:
+- edustaa puoluetta piiri- ja kunnallistasolla;
+- tehdä 14 §:ssä tarkoitettu esitys eduskuntavaaleissa asetettaviksi ehdokkaiksi ja vastata puolueen eduskuntavaalikampanjasta vaalipiirissä;
+- asettaa toiminta-alueellaan puolueen ehdokkaat kunta- ja maakuntavaaleissa ja vastata puolueen kunta- ja maakuntavaalikampanjasta;
+- päättää luottamushenkilömaksun perimisestä kunnallisiin, vaalipiirikohtaisiin, maakunnallisiin tai vastaaviin luottamustehtäviin valituilta; sekä
+- hoitaa muut puoluehallituksen sille määräämät tehtävät.
 
-## 6 § Hallitus
+## 5 § Jäsenen eroaminen ja erottaminen
 
-Yhdistyksen asioita hoitaa puoluehallitus, johon kuuluvat valitut puheenjohtaja, 1–3 varapuheenjohtajaa ja 1–20 muuta varsinaista jäsentä sekä 0–10 varajäsentä.
+Jäsenellä on oikeus erota puolueesta ilmoittamalla siitä kirjallisesti hallitukselle tai sen puheenjohtajalle taikka ilmoittamalla erosta puoluekokouksessa merkittäväksi pöytäkirjaan. Puoluehallitus voi erottaa jäsenen puolueesta, jos jäsen on jättänyt erääntyneen jäsenmaksunsa maksamatta tai muuten jättänyt täyttämättä ne velvoitukset, joihin hän on puolueeseen liittymällä sitoutunut tai on menettelyllään puolueessa tai sen ulkopuolella huomattavasti vahingoittanut puoluetta tai ei enää täytä laissa taikka puolueen säännöissä mainittuja jäsenyyden ehtoja.
 
-Hallituksen puheenjohtajana, varapuheenjohtajana, hallituksen jäsenenä tai varajäsenenä voi toimia ainoastaan yhdistyksen äänioikeutettu jäsen.
+Lisäksi jäsenen voi erottaa, mikäli jäsen toiminnallaan aiheuttaa vakavaa haittaa puolueen uskottavuudelle tai maineelle. Tästä erottamisesta päättää puoluehallitus. Samat erottamista koskevat säännöt pätevät kannatusjäseneen.
 
-Hallituksen toimikausi on kolmen vuosikokouksen välinen aika. Hallituksen puheenjohtaja, varapuheenjohtaja tai muu jäsen tai koko hallitus voidaan yhdistyksen kokouksessa erottaa ja tällöin hallitusta voidaan täydentää uusilla jäsenillä kesken toimikauden meneillään olevan toimikauden loppuajaksi.
+## 6 § Liittymis- ja jäsenmaksu
 
-Hallitus ottaa keskuudestaan tai ulkopuoleltaan puoluesihteerin, taloudenhoitajan ja muut tarvittavat toimihenkilöt.
+Puolueen henkilöjäsen maksaa vuosittain jäsenmaksun, joka sisältää sekä henkilöjäsenen jäsenmaksun jäsenyhdistykselle että jäsenyhdistyksen jäsenmaksun puolueelle kyseisestä henkilöjäsenestä (myöhemmin perusmaksu).
 
-Hallitus kokoontuu, kun hallitus niin päättää, taikka puheenjohtajan tai hänen estyneenä ollessaan varapuheenjohtajan kutsusta, kun he katsovat siihen olevan aihetta tai kun vähintään puolet hallituksen jäsenistä sitä vaatii.
+Varsinaisilta jäseniltä ja kannatusjäseniltä perittävän perusmaksun sekä alennetun perusmaksun suuruudesta päättää puolueen hallitus. Alennetun perusmaksun myöntämisperusteista määrätään puolueen johtosäännössä.
+
+## 7 § Puoluehallitus
+
+Puolueen asioita hoitaa hallitus, johon kuuluvat valitut puheenjohtaja, 1–3 varapuheenjohtajaa ja 1–20 muuta varsinaista jäsentä sekä 0–10 varajäsentä. Hallituksen puheenjohtajana, varapuheenjohtajana, hallituksen jäsenenä tai varajäsenenä voi toimia ainoastaan puolueen henkilöjäsen.
+
+Hallituksen toimikausi on kahden puoluekokouksen välinen aika. Hallituksen puheenjohtaja, varapuheenjohtaja tai muu jäsen tai koko hallitus voidaan puolueen kokouksessa vaihtaa tai hallitusta täydentää uusilla jäsenillä myös kesken toimikauden meneillään olevan toimikauden loppuajaksi.
+
+Hallitus ottaa keskuudestaan tai ulkopuoleltaan sihteerin, taloudenhoitajan ja muut tarvittavat toimihenkilöt. Hallitus kokoontuu, kun hallitus niin päättää, taikka puheenjohtajan tai varapuheenjohtajan kutsusta, kun he katsovat siihen olevan aihetta tai kun vähintään puolet hallituksen jäsenistä sitä vaatii.
 
 Hallitus on päätösvaltainen, kun vähintään puolet sen jäsenistä, puheenjohtaja tai varapuheenjohtaja mukaanluettuna on läsnä. Äänestykset ratkaistaan yksinkertaisella äänten enemmistöllä. Äänten mennessä tasan ratkaisee puheenjohtajan ääni, vaaleissa kuitenkin arpa.
 
-## 7 § Yhdistyksen nimen kirjoittaminen
+## 8 § Puoluevaltuusto
 
-Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja tai varapuheenjohtaja kumpikin yksin ja puoluesihteeri ja taloudenhoitaja kaksi yhdessä.
+Puoluevaltuuston tehtävänä on
+1. päättää periaatteellisista ja ohjelmallisista kannanotoista ja linjauksista puoluekokousten välillä;
+2. käydä päivänpoliittista ja kauaskantoista keskustelua puolueen toimista ja näkemyksistä;
+3. vahvistaa puolueen johtosääntö;
+4. tehdä esitys puoluekokoukselle puolueohjelmasta;
+5. valita uusi jäsen puoluehallitukseen puoluehallituksen jäsenen erotessa tai tullessa pysyvästi estyneeksi hoitamaan tehtäväänsä;
+6. tehdä tarvittaessa aloitteita puoluekokoukselle ja puoluehallitukselle;
+7. tehdä päätös eduskuntavaaliehdokkaista vaalipiirissä pohjautuen piirijärjestön esitykseen;
+8. hyväksyä äänestys- ja vaalijärjestys kansallisiin ja Euroopan parlamentin vaaleihin;
+9. tehdä päätös puolueen ehdokkaista Euroopan parlamentin vaaleihin;
+10. päättää, asettaako puolue presidenttiehdokkaan, ja tarvittaessa järjestää jäsenäänestys presidenttiehdokkaan valitsemiseksi.
 
-## 8 § Tilikausi ja tilintarkastus
+Puoluevaltuuston jäseniä ovat puoluehallituksen varsinaiset jäsenet, jokaisen piirijärjestön puheenjohtaja ja varapuheenjohtajat, sekä valtakunnallisten teemajärjestöjen puheenjohtajat.
 
-Yhdistyksen tilikausi on kalenterivuosi.
+Puoluevaltuuston on pidettävä vähintään yksi kokous vuosittain. Tämä sääntömääräinen kokous on pidettävä toukokuun loppuun mennessä, kuitenkin ennen sääntömääräistä puoluekokousta. Muutoin puoluevaltuusto kokoontuu itse päättämänsä kokousaikataulun mukaisesti.
 
-Tilinpäätös tarvittavine asiakirjoineen ja hallituksen vuosikertomus on annettava tilin- tai toiminnantarkastajille viimeistään kuusi viikkoa ennen varsinaista kokousta. Tilin- tai toiminnantarkastajien tulee antaa kirjallinen lausuntonsa viimeistään kaksi viikkoa ennen varsinaista kokousta hallitukselle.
+Puoluevaltuusto kokoontuu myös, jos puoluehallitus katsoo siihen olevan aihetta tai jos kuusi puoluevaltuuston jäsentä vaatii sitä kirjallisesti puoluehallitukselta erikseen ilmoittamansa asian käsittelyä varten.
 
-## 9 § Yhdistyksen kokoukset
+Puoluevaltuusto on päätösvaltainen, kun läsnä on vähintään puolet puoluevaltuuston jäsenistä.
 
-Yhdistyksen kokoukseen voidaan osallistua hallituksen tai yhdistyksen kokouksen niin päättäessä myös postitse taikka tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana. Yhdistyksen vuosikokous pidetään vuosittain hallituksen määräämänä päivänä tammi-toukokuussa. Ylimääräinen kokous pidetään, kun yhdistyksen kokous niin päättää tai kun hallitus katsoo siihen olevan aihetta tai kun vähintään kymmenesosa (1/10) yhdistyksen äänioikeutetuista jäsenistä sitä hallitukselta erityisesti ilmoitettua asiaa varten kirjallisesti vaatii. Kokous on pidettävä kolmenkymmenen vuorokauden kuluessa siitä, kun vaatimus sen pitämisestä on esitetty hallitukselle. Yhdistyksen kokouksissa on jokaisella varsinaisella jäsenellä yksi ääni. Kannattavalla jäsenellä on kokouksessa läsnäolo- ja puheoikeus. Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä ole toisin määrätty, se mielipide, jota on kannattanut yli puolet annetuista äänistä. Äänten mennessä tasan ratkaisee kokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
+Puoluevaltuuston kokoukset kutsuu koolle puoluehallitus. Puoluevaltuuston kokouskutsu on lähetettävä viimeistään viikkoa ennen kokousta sähköpostitse puoluevaltuuston jäsenen ilmoittamaan sähköpostiosoitteeseen.
 
-## 10 § Yhdistyksen kokousten koollekutsuminen
+## 9 § Johtosääntö
 
-Hallituksen on kutsuttava yhdistyksen kokoukset koolle vähintään 4 viikkoa ennen kokousta jäsenille postitetuilla kirjeillä tai sähköpostitse.
+Puolueen toimintaa ohjaa puolueen johtosääntö. Puoluevaltuusto hyväksyy johtosäännön.
 
-## 11 § Kokouksissa käsiteltävät asiat
+## 10 § Puolueen nimen kirjoittaminen
 
-Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
+Puolueen nimen kirjoittaa puoluehallituksen puheenjohtaja tai varapuheenjohtaja kumpikin yksin ja puoluesihteeri ja taloudenhoitaja kaksi yhdessä.
+
+## 11 § Tilikausi ja tilin- tai toiminnantarkastus
+
+Puolueen tilikausi on kalenterivuosi. Tilinpäätös tarvittavine asiakirjoineen ja hallituksen vuosikertomus on annettava tilin- tai toiminnantarkastajille viimeistään kuusi viikkoa ennen varsinaista puoluekokousta. Tilin- tai toiminnantarkastajien tulee antaa kirjallinen lausuntonsa hallitukselle viimeistään kaksi viikkoa ennen varsinaista puoluekokousta.
+
+## 12 § Puoluekokoukset
+
+Sääntömääräinen puoluekokous pidetään vuosittain puoluehallituksen määräämänä päivänä toukokuussa.
+
+Ylimääräinen kokous pidetään, kun puoluekokous niin päättää tai kun puoluehallitus tai puoluevaltuusto katsoo siihen olevan aihetta, tai jos vähintään 1/10 puolueen äänioikeutetuista jäsenistä eli jäsenyhdistyksistä sitä kirjallisesti puoluehallitukselta vaatii erityisesti ilmoittamansa asian käsittelyä varten.
+
+Puolueen jäsenyhdistyksillä on oikeus lähettää puoluekokoukseen äänivaltaisia edustajia, kuten sääntöjen kohdassa 13§ tarkemmin määritellään. Jokaisella puolueen henkilöjäsenellä on kokouksessa läsnäolo- ja puheoikeus.
+
+Puoluekokouksen päätökseksi tulee, ellei säännöissä ole toisin määrätty, se mielipide, jota on kannattanut yli puolet annetuista äänistä. Äänten mennessä tasan ratkaisee kokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
+
+Puoluekokoukseen voidaan osallistua hallituksen tai puoluekokouksen niin päättäessä tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana.
+
+## 13 § Puolueen jäsenyhdistysten äänivaltaiset edustajat puoluekokouksessa
+
+Puolueen jäsenyhdistyksillä on oikeus lähettää puoluekokoukseen yhteensä 100 äänivaltaista edustajaa. Kukin äänivaltainen edustaja käyttää yhtä ääntä. Yksi henkilö voi toimia vain yhden jäsenyhdistyksen äänivaltaisena edustajana.
+
+Äänivaltaiset edustajat jakautuvat jäsenyhdistysten kesken niiden jäsenmaksun maksaneiden jäsenten määrän perusteella. Jäsenmaksun maksaneiksi jäseniksi lasketaan edellisenä kalenterivuonna jäsenmaksun maksaneet henkilöt.
+
+Puoluehallitus vahvistaa jäsenmaksun maksaneiden jäsenten määrät puolueen jäsenmaksurekisteriin kirjattujen puolueen jäsenmaksuosuuksien mukaan.
+
+Järjestökokonaisuuksiksi kutsutaan tässä:
+- kutakin piirijärjestöä ja sen jäsenenä olevia yhdistyksiä yhdessä
+- kutakin teemayhdistystä ja sen jäsenenä olevia yhdistyksiä yhdessä
+
+Äänivaltaiset edustajat jakautuvat järjestökokonaisuuksien ja niihin kuuluvien yhdistysten kesken seuraavasti:
+1. Kukin piirijärjestö ja teemayhdistys saa yhden edustajan
+2. Jäljelle jäävää edustajamäärää kutsutaan jäsenmäärän mukaan jaettaviksi edustajapaikoiksi. Nämä jaetaan seuraavasti:
+  a. Lasketaan, kuinka paljon jäsenmaksun maksaneita henkilöjäseniä on puolueen jäsenyhdistyksissä yhteensä. Tätä lukua kutsutaan puolueen jäsenmääräksi.
+  b. Lasketaan, kuinka paljon jäsenmaksun maksaneita henkilöjäseniä on kunkin piirijärjestössä ja sen jäsenenä olevissa yhdistyksissä yhteensä. Kukin jäsen lasketaan vain kerran, riippumatta siitä, kuinka moneen yhdistykseen kuuluu. Tätä lukua kutsutaan piirin jäsenmääräksi.
+  c. Jos sama henkilöjäsen kuuluu kahden yllä kuvatun järjestökokonaisuuden jäsenmäärään, hänet lasketaan kummankin hyväksi puolikkaana jäsenenä. Kolmeen kuuluva henkilöjäsen lasketaan kunkin hyväksi 1/3-jäsenenä, neljään kuuluva 1/4-jäsenenä jne.
+  d. Kukin yhdistys saa sen osuuden jäsenmäärän mukaan jaettavista edustajapaikoista, kuin sen jäsenmäärä on suhteessa puolueen jäsenmäärään.
+  e. Mikäli järjestökokonaisuuden osuus paikoista ei ole kokonaisluku, pyöristetään alaspäin edeltävään kokonaislukuun
+3. Äänivaltaiset edustajat valitsee kunkin edustajia saaneen yhdistyksen päätösvaltainen yhdistyksen kokous, ellei kokous päätä delegoida valintaa yhdistyksen hallitukselle.
+4. Mikäli piirijärjestö ei ole valinnut edustajiaan viimeistään piirijärjestön päätösvaltaisessa kokouksessa määrättyyn takarajaan mennessä, piirijärjestö menettää oikeutensa nimittää äänivaltaisia edustajia puoluekokoukseen
+
+Mikäli piirijärjestöjen ja teemayhdistysten määrä ylittää sadan, puoluekokouksen äänivaltaisten edustajien määrää kasvatetaan eikä jäsenmäärän mukaan jaettavia edustajapaikkoja jaeta.
+
+## 14 § Aloiteoikeus puoluekokoukseen
+
+Aloitteita puoluekokoukselle voivat tehdä puolueen jäsenyhdistyksen henkilöjäsen, yksittäinen jäsenyhdistys, puoluehallitus, puoluehallituksen asettama työryhmä, puoluevaltuusto, puolueen eduskuntaryhmä ja puolueen valtuuskunta Euroopan parlamentissa. Kukin jäsenyhdistyksen henkilöjäsen voi tehdä vain yhden aloitteen. Yhdeksän muun henkilöjäsenen tulee kannattaa henkilöjäsenen tekemää aloitetta, jotta se otetaan puoluekokouksen käsittelyyn.
+
+Puoluekokoukselle tarkoitetut aloitteet on toimitettava puoluehallitukselle kuusi viikkoa ennen puoluekokousta. Määräaikana saapuneista, puoluekokouksen esityslistalle otettavista aloitteista on puoluehallituksen annettava lausuntonsa, joihin tulee sisältyä esitykset aloitteiden johdosta tehtäviksi puoluekokouksen päätöksiksi. Puoluekokousaloitteet ja puoluehallituksen niistä antamat lausunnot lähetetään puoluekokoukseen ilmoitetuille äänivaltaisille edustajille ja puolueen jäsenyhdistyksille viimeistään kolme viikkoa ennen puoluekokouksen alkamista.
+
+Puoluekokouksen käsittelyyn haluttavia viime hetkellä ajankohtaisiksi tulleita aloitteita voi toimittaa tämän aikamäärän jälkeen vielä puoluehallitukselle, joka voi harkintansa mukaan tuoda esityksiä ja aloitteita suoraan kokoukseen. Puoluevaltuustolla on oikeus myös antaa aloite-ehdotuksia puoluehallituksen käsiteltäväksi puoluekokousta edeltävässä kokouksessaan määräajasta riippumatta.
+
+## 15 § Puoluekokousten koollekutsuminen ja päätösvaltaisuus
+
+Puoluehallituksen on kutsuttava puoluekokoukset koolle vähintään kolme viikkoa ennen kokousta sähköpostitse.
+
+Puoluekokous on päätösvaltainen, kun se on laillisesti koolle kutsuttu.
+
+## 16 § Puoluekokouksissa käsiteltävät asiat
+
+Sääntömääräisessä puoluekokouksessa käsitellään seuraavat asiat:
 1. kokouksen avaus
 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 3. todetaan kokouksen laillisuus ja päätösvaltaisuus
 4. hyväksytään kokouksen työjärjestys
 5. esitetään tilinpäätös, vuosikertomus ja toiminnantarkastajien/tilintarkastajien lausunto
 6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille vastuuvelvollisille
-7. vahvistetaan toimintasuunnitelma sekä tulo- ja menoarvio
-8. valitaan hallituksen puheenjohtaja ja muut jäsenet
+7. vahvistetaan toimintasuunnitelma, tulo- ja menoarvio
+8. valitaan joka toinen vuosi hallituksen puheenjohtaja ja muut jäsenet
 9. valitaan yksi tai kaksi toiminnantarkastajaa ja varatoiminnantarkastajaa taikka yksi tai kaksi tilintarkastajaa ja varatilintarkastajaa
-10. käsitellään muut kokouskutsussa mainitut asiat.
+10. käsitellään aloitteet, jotka on määräaikana ennen kokousta kirjallisesti tehty puoluehallitukselle tai jotka puoluehallitus tai puoluevaltuusto esittää kokouksen käsiteltäväksi
+11. käsitellään muut kokouskutsussa mainitut asiat.
 
-Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen vuosikokouksen käsiteltäväksi, on hänen ilmoitettava siitä kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan sisällyttää kokouskutsuun.
+## 17 § Ehdokkaiden asettaminen eduskuntavaaleihin
 
-## 12 § Piiriyhdistykset
+Piirijärjestö tekee puoluehallitukselle esityksen eduskuntavaaleihin asetettavista ehdokkaista. Esityksen tulee perustua piirijärjestön sisäisen jäsenäänestyksen tulokseen tai piirijärjestön kokouksen päätökseen.
 
-Piiriyhdistyksien toiminta-alueena on eduskuntavaalien vaalipiiri. Piiriyhdistyksen jäseniä ovat henkilöjäsenet. Piiriyhdistys on rekisteröity yhdistys, jonka puoluehallitus hyväksyy jäseneksi. Piiriyhdistykset ovat puolueen varsinaisia jäseniä. Puolueeseen liittynyt jäsen voi liittyä piiriyhdistykseen asuinpaikkansa mukaan.
+Puoluevaltuusto tekee päätöksen ehdokkaiden asettamisesta eduskuntavaaleihin. Puoluevaltuuston päätöksen tulee noudattaa piirijärjestön esitystä. Puoluevaltuusto voi kuitenkin päättää asettaa vaalipiiriin enemmän ehdokkaita kuin piiriyhdistys on esittänyt, kuitenkin siten, että vähintään puolet ehdokkaista on jäsenäänestyksessä valittuja ehdokkaita.
 
-## 13 § Piiriyhdistyksen tehtävät ja toiminta
+Puoluevaltuusto voi erittäin painavasta syystä poiketa kunkin piirijärjestön esityksestä korkeintaan yhden neljäsosan osalta, mitä piirijärjestö esittää ehdokkaiksi. Ennen tällaisen päätöksen tekemistä on piirijärjestölle ja asianosaisille henkilöille varattava tilaisuus tulla kuulluksi.
 
-Piiriyhdistyksen tehtävänä on:
-1. edustaa puoluetta piiri- ja kunnallistasolla;
-2. tehdä 14 §:ssä tarkoitettu esitys puolueen eduskuntavaaleissa asetettaviksi ehdokkaiksi ja vastata puolueen eduskuntavaalikampanjasta vaalipiirissä;
-3. asettaa toiminta-alueellaan puolueen ehdokkaat kunnallisvaaleissa ja vastata puolueen kunnallisvaalikampanjasta;
-4. hoitaa muut puoluehallituksen sille määräämät tehtävät.
+## 18 § Ehdokkaiden asettaminen Euroopan parlamentin vaaleihin
 
-## 14 § Ehdokkaiden asettaminen eduskuntavaaleihin
+Puoluevaltuusto voi päätöksellään järjestää jäsenäänestyksen Euroopan parlamentin vaalien ehdokkaista. Tällöin puoluevaltuusto vahvistaa jäsenäänestyksen tuloksen perusteella puolueen ehdokkaat Euroopan parlamentin vaaleihin. Mikäli jäsenäänestykseen on nimetty korkeintaan yhtä monta ehdokasta kuin puolueella on oikeus asettaa Euroopan parlamentin vaaleihin, jäsenäänestystä ei järjestetä, ja puoluevaltuusto asettaa jäsenäänestykseen nimetyt henkilöt puolueen ehdokkaiksi.
 
-Piiriyhdistys tekee puoluehallitukselle esityksen omassa vaalipiirissään asetettavista ehdokkaista. Esityksen tulee perustua piiriyhdistyksen sisäisen jäsenäänestyksen tulokseen tai piiriyhdistyksen kokouksen päätökseen.
+Mikäli puoluevaltuusto päättää olla järjestämättä jäsenäänestystä Euroopan parlamentin vaalien ehdokkaista, oikeus tehdä ehdotuksia Euroopan parlamentin vaalien ehdokkaista on puolueen varsinaisilla jäsenillä. Ehdotukset osoitetaan puoluevaltuustolle. Puoluevaltuusto tekee päätöksen ehdokkaiden asettamisesta Euroopan parlamentin vaaleihin ehdotusten perusteella.
 
-Puoluehallitus tekee päätöksen ehdokkaiden asettamisesta eduskuntavaaleihin. Puoluehallituksen päätöksen tulee noudattaa piiriyhdistyksen esitystä. Puoluehallitus voi kuitenkin päättää asettaa vaalipiiriin enemmän ehdokkaita kuin piiriyhdistys on esittänyt. Kuitenkin vähintään 1/2 puolueen ehdokkaista vaalipiirissä on oltava piiriyhdistyksen esittämiä.
+## 19 § Ehdokkaiden asettaminen presidentinvaaliin
 
-Puoluehallitus voi erittäin painavasta syystä poiketa kunkin piiriyhdistyksen esityksestä enintään kahden ehdokkaan osalta. Ennen tällaisen päätöksen tekemistä on piiriyhdistykselle ja asianosaisille henkilöille varattava tilaisuus tulla kuulluksi.
+Mikäli puoluevaltuusto päättää, että puolue asettaa presidentinvaaliin ehdokkaan, valitaan puolueen ehdokas presidentinvaaliin jäsenäänestyksellä. Jos jäsenäänestykseen on nimetty vain yksi ehdokas, jäsenäänestystä ei järjestetä. Tällöin puoluekokous asettaa jäsenäänestykseen nimetyn ehdokkaan puolueen ehdokkaaksi presidentinvaaliin.
 
-## 15 § Ehdokkaiden asettaminen europarlamenttivaaleihin
+## 20 § Jäsenäänestyksen toteuttaminen
 
-Puolueen ehdokkaat europarlamenttivaaleissa valitaan jäsenäänestyksellä. Jäsenäänestystä ei kuitenkaan järjestetä, jos siihen nimettyjen ehdokkaiden määrä on enintään se, mitä puolueella on oikeus asettaa ehdokkaita europarlamenttivaalissa. Tällöin puoluekokous asettaa puolueen ehdokkaiksi europarlamenttivaaleissa kaikki jäsenäänestykseen nimetyt henkilöt.
+Jäsenäänestys toteutetaan postiäänestyksenä tai erillisissä äänestystilaisuuksissa noudattaen 23 §:ssä kuvattua suhteellista vaalitapaa. Jäsenäänestys voidaan toteuttaa hallituksen tai puoluekokouksen niin päättäessä tietoliikenneyhteyden tai muun teknisen apuvälineen avulla.
 
-## 16 § Ehdokkaiden asettaminen presidentinvaaleihin
+Jäsenäänestyksen tulokseen ei lueta henkilöä, jota vaalikelpoisuuden menettämisen, kieltäytymisen tai muun sellaisen syyn vuoksi ei voida asettaa ehdokkaaksi. Muilta osin jäsenäänestyksessä menetellään puoluevaltuuston hyväksymän vaalijärjestyksen mukaisesti.
 
-Puolueen ehdokas presidentinvaaliin valitaan jäsenäänestyksellä. Jos jäsenäänestykseen on nimetty vain yksi ehdokas, jäsenäänestystä ei järjestetä. Tällöin puoluekokous asettaa jäsenäänestykseen nimetyn ehdokkaan puolueen ehdokkaaksi presidentinvaaliin.
+## 21 § Ehdokkaiden nimeäminen jäsenäänestykseen
 
-## 17 § Jäsenäänestyksen toteuttaminen
-
-Jäsenäänestys toteutetaan postiäänestyksenä tai erillisissä äänestystilaisuuksissa noudattaen 20 §:ssä kuvattua suhteellista vaalitapaa. Jäsenäänestys voidaan toteuttaa hallituksen tai yhdistyksen kokouksen niin päättäessä tietoliikenneyhteyden tai muun teknisen apuvälineen avulla. Jäsenäänestyksen tulokseen ei lueta henkilöä, jota vaalikelpoisuuden menettämisen, kieltäytymisen tai muun sellaisen syyn vuoksi ei voida asettaa ehdokkaaksi. Muilta osin jäsenäänestyksessä menetellään yhdistyksen kokouksen hyväksymän vaalijärjestyksen mukaisesti.
-
-## 18 § Ehdokkaiden nimeäminen jäsenäänestykseen
-
-Jokaisella puolueen äänivaltaisella henkilöjäsenellä on oikeus nimetä yksi ehdokas jäsenäänestykseen. Ehdokkaan nimeämisellä tulee lisäksi olla vähintään 20 henkilön kannatus. Kannattaja voi olla puolueen jäsen tai puolueen ulkopuolinen henkilö. Kannattajien täytyy kuitenkin olla äänioikeutettuja vaaleissa, joihin ehdokasta ollaan nimeämässä.
+Jokaisella puolueen äänivaltaisella henkilöjäsenellä on oikeus nimetä yksi ehdokas jäsenäänestykseen. Ehdokkaan nimeämisellä tulee lisäksi olla vähintään 20 henkilön kannatus. Kannattaja voi olla puolueen henkilöjäsen tai puolueen ulkopuolinen henkilö. Kannattajien täytyy kuitenkin olla äänioikeutettuja vaaleissa, joihin ehdokasta ollaan nimeämässä.
 
 Jäsenäänestykseen ei saa nimetä henkilöä, joka ei ole valtiollisissa vaaleissa vaalikelpoinen, eikä henkilöä, joka ei ole antanut nimeämiseen kirjallista suostumustaan. Ehdokkaan nimeäjä tai nimeämistä kannattava henkilö ei ole sidottu äänestämään jäsenäänestyksessä nimetyn puolesta.
 
-## 19 § Osanotto jäsenäänestykseen
+## 22 § Osanotto jäsenäänestykseen
 
 Jäsenäänestykseen saavat ottaa osaa puolueen äänivaltaiset henkilöjäsenet, jotka ovat jäsenäänestyksen toteuttamisvuoden alkaessa täyttäneet 15 vuotta.
 
-## 20 § Vaalin toteuttaminen jäsenäänestyksessä
+## 23 § Vaalin toteuttaminen
 
-Silloin kun täytettäviä paikkoja on vain yksi, äänestys toimitetaan kaksivaiheisella enemmistövaalitavalla. Jos ensimmäisellä kierroksella kukaan ehdokkaista ei saa yli puolta annetuista hyväksytyistä äänistä, toimitetaan toinen äänestyskierros kahden eniten ääniä saaneen ehdokkaan välillä. Kun täytettäviä paikkoja on enemmän kuin yksi, käytetään suhteellista vaalitapaa.
+Silloin kun täytettäviä paikkoja on vain yksi, äänestys toimitetaan kaksivaiheisella enemmistövaalitavalla. Jos ensimmäisellä kierroksella kukaan ehdokkaista ei saa yli puolta annetuista hyväksytyistä äänistä, toimitetaan toinen äänestyskierros kahden eniten ääniä saaneen ehdokkaan välillä.
 
-Suhteellisten vaalien laskentatapana käytetään yhden äänen siirtoäänivaalitapaa, jossa äänestäjä merkitsee ehdokkaansa äänestyslippuun suosituimmuusjärjestyksessä. Ehdokkaita voi merkitä yhden tai useamman, mutta äänestäjällä on kuitenkin käytössään vain yksi ääni.
+Kun täytettäviä paikkoja on enemmän kuin yksi, käytetään suhteellista vaalitapaa. Suhteellisten vaalien laskentatapana käytetään yhden äänen siirtoäänivaalitapaa, jossa äänestäjä merkitsee ehdokkaansa äänestyslippuun suosituimmuusjärjestyksessä. Ehdokkaita voi merkitä yhden tai useamman, mutta äänestäjällä on kuitenkin käytössään vain yksi ääni.
 
 Äänet lasketaan seuraavasti:
 1. Kussakin äänestyslipussa ensimmäisenä oleva ehdokas saa yhden äänen.
 2. Äänikynnyksen ylittäneiltä ehdokkailta siirretään heidän saamansa ylijäämä-äänet äänestyslipussa toisena olleelle ehdokkaalle.
 3. Jos paikkoja on vielä täyttämättä, kun kaikki ylijäämä-äänet on jaettu, karsitaan pois vähiten ääniä saanut ehdokas, jonka äänet siirretään äänestyslipussa seuraavana olevalle ehdokkaalle.
 
-Äänikynnys lasketaan jakamalla annettujen äänien määrä jaossa olevien paikkojen määrällä.
+Äänikynnyksen laskemisessa käytetään laskutapaa, jonka päättää puoluevaltuusto, ja jonka se ilmoittaa äänestykseen osallistuville ennen äänestyksen toteuttamista.
 
-## 21 § Sääntöjen muuttaminen ja yhdistyksen purkaminen
+## 24 § Luottamushenkilömaksut
 
-Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä. Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta.
+Puoluehallitus voi päättää, että luottamustehtäviin valittujen henkilöiden tulee maksaa luottamustehtävistä saatavista palkkioista tietyn suuruinen luottamushenkilömaksu puolueelle tai puoluejärjestölle.
 
-Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla. Yhdistyksen tullessa lakkautetuksi käytetään sen varat samaan tarkoitukseen.
+## 25 § Eduskuntaryhmä
+
+Puolueen eduskuntaryhmän muodostavat ne kansanedustajat, jotka on valittu puolueen piirijärjestöjen ehdokkaiksi asettamista henkilöistä, sekä kansanedustajat, jotka eduskuntaryhmä myöhemmin hyväksyy jäsenikseen.
+
+Eduskuntaryhmä nimeää edustajat valtionyhtiöiden hallintoneuvostoihin, ministeriöiden hallinnonaloihin kuuluviin työryhmiin, neuvottelukuntiin, hallintoneuvostoihin ja vastaaviin tahoihin, joista nimityspyyntö on tullut eduskuntaryhmälle.
+
+Eduskuntaryhmän tulee ilmoittaa nimityspyynnöstä puoluevaltuustolle, joka voi tehdä eduskuntaryhmälle nimitysesityksen. Vastaavasti puoluehallituksen on ilmoitettava eduskuntaryhmälle puolueelle saapuneista nimityspyynnöistä.
+
+Eduskuntaryhmä noudattaa nimityksissä samoja sääntöjä kuin puoluevaltuusto.
+
+## 26 § Osallistuminen hallitusyhteistyöhön
+
+Puolue voi olla edustettuna maan hallituksessa ja tukea sitä vain jos hallituksen ohjelma ja toiminta ovat sopusoinnussa puolueen toimintaperiaatteiden ja tavoitteiden kanssa.
+
+Eduskuntaryhmä nimeää hallitusneuvotteluihin liittyviä asioita valmistelemaan toimikunnan, jonka puheenjohtajana on puolueen puheenjohtaja, ja jonka muista jäsenistä vähintään puolet tulee olla puoluehallituksen eduskuntaryhmälle esittämiä. Tämän toimikunnan jäsenet edustavat puoluetta hallitusneuvottelijoina ja ovat läsnäolo- ja puheoikeutettuja puoluehallituksen, puoluevaltuuston ja eduskuntaryhmän kokouksissa niiden käsitellessä tässä pykälässä tarkoitettuja asioita.
+
+Hallitusohjelman hyväksymisestä, hallitusyhteistyöhön osallistumisesta sekä hallitusyhteistyön lopettamisesta päätetään eduskuntaryhmän ja puoluevaltuuston yhteisessä kokouksessa, jossa jokaisella osanottajalla on yksi ääni. Kokous on päätösvaltainen, jos se on kutsuttu koolle puoluevaltuuston sekä eduskuntaryhmän puheenjohtajien yhteisellä kutsulla, joka on saatettu tiedoksi jokaiselle puoluevaltuuston ja eduskuntaryhmän jäsenelle. Tämä yhteiskokous päättää myös puolueen ehdokkaat valtioneuvoston jäseniksi.
+
+Yhteiskokouksessa on läsnäolo-, puhe- ja esitysoikeus myös puoluehallituksen jäsenillä, puoluesihteerillä sekä eduskuntaryhmän pääsihteerillä. Puolueen ja eduskuntaryhmän vakinaisilla työntekijöillä sekä kansanedustajien avustajilla on yhteiskokouksessa läsnäolo- ja puheoikeus.
+
+## 27 § Sääntöjen muuttaminen ja puolueen purkaminen
+
+Päätös sääntöjen muuttamisesta ja puolueen purkamisesta on tehtävä puoluekokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä. Kokouskutsussa on mainittava sääntöjen muuttamisesta tai puolueen purkamisesta.
+
+Puolueen purkautuessa käytetään puolueen varat puolueen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla. Puolueen tullessa lakkautetuksi käytetään sen varat samaan tarkoitukseen.
