@@ -12,7 +12,7 @@ Tervetuloa **Liberaalipuolue – Vapaus valita r.p.**:n ajantasaisten sääntöj
 Sivustolla on tällä hetkellä seuraavat sisällöt:
 
 - **Säännöt**
-  - Ei vielä sisältöä
+  - [Puolueen säännöt](/saannot/)
 - **Yleisohjelmat**
   - Ei vielä sisältöä
 - **Vaaliohjelmat**
