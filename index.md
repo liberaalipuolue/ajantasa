@@ -14,6 +14,7 @@ Sivustolla on tällä hetkellä seuraavat sisällöt:
 - **Säännöt**
   - [Puolueen säännöt](/saannot/)
   - [Piirijärjestöjen mallisäännöt](/mallisaannot_piirijarjestot/)
+  - [Teemayhdistysten mallisäännöt](/mallisaannot_teemayhdistykset/)
 - **Yleisohjelmat**
   - [Yleisohjelma](/yleisohjelma/)
   - [Puolueohjelma](/puolueohjelma/) ([in English](/party_platform/))
