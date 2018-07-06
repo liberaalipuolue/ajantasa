@@ -5,13 +5,13 @@ permalink: /saannot/
 
 # SÄÄNNÖT
 
-Nämä säännöt on hyväksytty yhdistyksen perustavassa kokouksessa 16.10.2014. Ne on merkitty yhdistysrekisteriin 22.1.2015.
+Nämä säännöt on hyväksytty yhdistyksen vuosikokouksessa 14.5.2016. Niitä ei ole merkitty yhdistysrekisteriin.
 
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
-Yhdistyksen nimi on Kansallinen Viskipuolue ry, ja sen kotipaikka on Helsinki, toimialueena koko Suomi.
+Yhdistyksen nimi on Liberaalipuolue r.p., ja sen kotipaikka on Helsinki, toimialueena koko Suomi.
 
-Yhdistyksen kieliä ovat suomi ja englanti, pöytäkirjakieli on kuitenkin suomi.
+Yhdistyksen kieli on suomi. Yhdistyksen pöytäkirjakieli on suomi.
 
 ## 2 § Tarkoitus ja toiminnan laatu
 
@@ -143,7 +143,7 @@ Jäsenäänestykseen ei saa nimetä henkilöä, joka ei ole valtiollisissa vaale
 
 Jäsenäänestykseen saavat ottaa osaa puolueen äänivaltaiset henkilöjäsenet, jotka ovat jäsenäänestyksen toteuttamisvuoden alkaessa täyttäneet 15 vuotta.
 
-## 20 § Vaalin toteuttaminen
+## 20 § Vaalin toteuttaminen jäsenäänestyksessä
 
 Silloin kun täytettäviä paikkoja on vain yksi, äänestys toimitetaan kaksivaiheisella enemmistövaalitavalla. Jos ensimmäisellä kierroksella kukaan ehdokkaista ei saa yli puolta annetuista hyväksytyistä äänistä, toimitetaan toinen äänestyskierros kahden eniten ääniä saaneen ehdokkaan välillä. Kun täytettäviä paikkoja on enemmän kuin yksi, käytetään suhteellista vaalitapaa.
 
