@@ -16,7 +16,7 @@ Sivustolla on tällä hetkellä seuraavat sisällöt:
   - [Piirijärjestöjen mallisäännöt](/mallisaannot_piirijarjestot/)
 - **Yleisohjelmat**
   - [Yleisohjelma](/yleisohjelma/)
-  - [Puolueohjelma](/puolueohjelma/)
+  - [Puolueohjelma](/puolueohjelma/) ([in English](/party_platform/))
 - **Vaaliohjelmat**
   - [Kuntavaaliohjelma](/kuntavaaliohjelma/)
 - **Erityisohjelmat**
