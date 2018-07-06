@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header h1 a { color: #f3f3f3; }
+#banner #logo { background: url(../images/logo-tikki.svg); }
+menu, ol, ul { padding: 0 0 0 20px; }
+li ul { margin: 0 0 5px 0; }
+#nav { position: fixed; left: 50%; margin-left: -325px; }
+nav ul li.tag-h3 { display: none; }
+@media print, screen and (max-width: 720px) { #nav { position: fixed; left: 20px; margin-left: 0px; } }
