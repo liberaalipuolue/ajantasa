@@ -13,6 +13,7 @@ Sivustolla on tällä hetkellä seuraavat sisällöt:
 
 - **Säännöt**
   - [Puolueen säännöt](/saannot/)
+  - [Piirijärjestöjen mallisäännöt](/mallisaannot_piirijarjestot/)
 - **Yleisohjelmat**
   - [Yleisohjelma](/yleisohjelma/)
 - **Vaaliohjelmat**
