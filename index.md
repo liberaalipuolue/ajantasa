@@ -14,7 +14,7 @@ Sivustolla on tällä hetkellä seuraavat sisällöt:
 - **Säännöt**
   - [Puolueen säännöt](/saannot/)
 - **Yleisohjelmat**
-  - Ei vielä sisältöä
+  - [Yleisohjelma](/yleisohjelma/)
 - **Vaaliohjelmat**
   - Ei vielä sisältöä
 - **Erityisohjelmat**
