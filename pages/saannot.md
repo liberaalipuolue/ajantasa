@@ -161,11 +161,11 @@ Järjestökokonaisuuksiksi kutsutaan tässä:
 Äänivaltaiset edustajat jakautuvat järjestökokonaisuuksien kesken seuraavasti:
 1. Kukin järjestökokonaisuus saa yhden edustajanpaikan. Tätä kutsutaan kiintiön mukaiseksi äänivaltaiseksi edustajaksi.
 2. Jäljelle jäävää edustajamäärää kutsutaan henkilöjäsenmäärän mukaan jaettaviksi edustajapaikoiksi. Nämä jaetaan seuraavasti:
-  2.1. Lasketaan, kuinka paljon jäsenmaksun maksaneita henkilöjäseniä on kussakin järjestökokonaisuudessa. Kukin henkilöjäsen lasketaan vain kerran, riippumatta siitä, kuinka moneen järjestökokonaisuuden yhdistykseen kuuluu. Tätä lukua kutsutaan järjestökokonaisuuden henkilöjäsenmääräksi.
-  2.2. Jos sama henkilöjäsen kuuluu kahden yllä kuvatun järjestökokonaisuuden jäsenmäärään, hänet lasketaan kummankin hyväksi puolikkaana henkilöjäsenenä. Kolmeen kuuluva henkilöjäsen lasketaan kunkin hyväksi 1/3-henkilöjäsenenä, neljään kuuluva 1/4-henkilöjäsenenä jne.
-  2.3. Lasketaan, kuinka paljon jäsenmaksun maksaneita henkilöjäseniä on järjestökokonaisuuksissa yhteensä. Tätä lukua kutsutaan puolueen henkilöjäsenmääräksi.
-  2.4. Kukin järjestökokonaisuus saa sen osuuden henkilöjäsenmäärän mukaan jaettavista edustajapaikoista, kuin sen henkilöjäsenmäärä on suhteessa puolueen henkilöjäsenmäärään.
-  2.5. Mikäli järjestökokonaisuuden osuus paikoista ei ole kokonaisluku, pyöristetään se alaspäin edeltävään kokonaislukuun
+  - 2.1. Lasketaan, kuinka paljon jäsenmaksun maksaneita henkilöjäseniä on kussakin järjestökokonaisuudessa. Kukin henkilöjäsen lasketaan vain kerran, riippumatta siitä, kuinka moneen järjestökokonaisuuden yhdistykseen kuuluu. Tätä lukua kutsutaan järjestökokonaisuuden henkilöjäsenmääräksi.
+  - 2.2. Jos sama henkilöjäsen kuuluu kahden yllä kuvatun järjestökokonaisuuden jäsenmäärään, hänet lasketaan kummankin hyväksi puolikkaana henkilöjäsenenä. Kolmeen kuuluva henkilöjäsen lasketaan kunkin hyväksi 1/3-henkilöjäsenenä, neljään kuuluva 1/4-henkilöjäsenenä jne.
+  - 2.3. Lasketaan, kuinka paljon jäsenmaksun maksaneita henkilöjäseniä on järjestökokonaisuuksissa yhteensä. Tätä lukua kutsutaan puolueen henkilöjäsenmääräksi.
+  - 2.4. Kukin järjestökokonaisuus saa sen osuuden henkilöjäsenmäärän mukaan jaettavista edustajapaikoista, kuin sen henkilöjäsenmäärä on suhteessa puolueen henkilöjäsenmäärään.
+  - 2.5. Mikäli järjestökokonaisuuden osuus paikoista ei ole kokonaisluku, pyöristetään se alaspäin edeltävään kokonaislukuun
 3. Äänivaltaiset edustajat valitsee kunkin järjestökokonaisuuden päätösvaltainen yhdistyksen kokous, ellei kokous päätä delegoida valintaa yhdistyksen hallitukselle.
 4. Mikäli järjestökokonaisuus ei ole valinnut edustajiaan viimeistään puoluehallituksen määräämään takarajaan mennessä järjestökokonaisuuden päätösvaltaisessa yhdistyksen kokouksessa, järjestökokonaisuus menettää oikeutensa nimittää äänivaltaisia edustajia puoluekokoukseen
 
