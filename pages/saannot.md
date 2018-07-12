@@ -9,7 +9,7 @@ Nämä säännöt on hyväksytty yhdistyksen ylimääräisessä kokouksessa 11.1
 
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
-Yhdistyksen nimi on Liberaalipuolue – Vapaus valita r.p., ruotsiksi Liberalpartiet - Frihet att välja r.p., ja sen kotipaikka on Helsinki, toimialueena koko Suomi. Näissä säännöissä yhdistyksestä käytetään nimitystä puolue.
+Yhdistyksen nimi on Liberaalipuolue – Vapaus valita r.p., ruotsiksi Liberalpartiet – Frihet att välja r.p., ja sen kotipaikka on Helsinki, toimialueena koko Suomi. Näissä säännöissä yhdistyksestä käytetään nimitystä puolue.
 
 Puolueen kieli on suomi. Puolueen pöytäkirjakieli on suomi.
 
