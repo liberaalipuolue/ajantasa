@@ -5,7 +5,7 @@ permalink: /johtosaanto/
 
 # JOHTOSÄÄNTÖ
 
-Puoluehallitus on hyväksynyt tämän johtosäännön kokouksessaan 20.9.2017 puoluevaltuuston vahvistettavaksi. Puoluevaltuusto ei ole vahvistanut johtosääntöä.
+Puoluevaltuusto on hyväksynyt tämän johtosäännön kokouksessaan 16.9.2018.
 
 ## 1. Johdanto
 
@@ -21,7 +21,7 @@ Puolueessa johtaminen perustuu hyvään hallintotapaan ja osallistavaan demokrat
 
 Jokainen puoleen toimintaan osallistuva on omalta osaltaan vastuussa puolueen hyvästä ilmapiiristä ja sitoutuu työskentelemään sen eteen.
 
-Mahdollisiin jäsenten välisiin epäasiallisuuksiin ja kiusaamiseen puututaan välittömästi. Jäsenen on omalta osaltaan tuotava tietoon havaitsemansa tapaukset ilmoittamalla niistä paikallisjärjestön, piirin tai puolueen puheenjohtajalle tai muulle hallituksen jäsenelle. Osapuolien kuulemisen jälkeen, mikäli huomautus tai varoitus ei ole tuottanut tulosta, puoluehallitus päättää mahdollisesta jäsenen erottamismenettelyn käynnistämisestä puolueen sääntöjen mukaisesti.
+Mahdollisiin jäsenten välisiin epäasiallisuuksiin, häirintään ja kiusaamiseen puututaan välittömästi. Jäsenen on omalta osaltaan tuotava tietoon havaitsemansa tapaukset ilmoittamalla niistä paikallisjärjestön, piirin tai puolueen puheenjohtajalle tai muulle hallituksen jäsenelle. Osapuolien kuulemisen jälkeen, mikäli huomautus tai varoitus ei ole tuottanut tulosta, puoluehallitus päättää mahdollisesta jäsenen erottamismenettelyn käynnistämisestä puolueen sääntöjen mukaisesti.
 
 ### 1.2 Pätemisjärjestys
 
@@ -43,7 +43,7 @@ Puolueen varsinaisia jäseniä voivat olla vain oikeustoimikelpoiset yhteisöt.
 
 Puolueen kannatusjäseniä voivat olla olla luonnolliset henkilöt tai oikeustoimikelpoiset yhteisöt.
 
-Puolueen henkilöjäsenellä tarkoitetaan luonnollista henkilöä, joka on puolueen jäsenjärjestön tai sen jäsenjärjestön henkilöjäsen, ja puoluejärjestöllä puolueen jäsenjärjestöä tai sen jäsenjärjestöä.
+Puolueen _henkilöjäsenellä_ tarkoitetaan luonnollista henkilöä, joka on puolueen jäsenjärjestön tai sen jäsenjärjestön henkilöjäsen, ja _puoluejärjestöllä_ puolueen jäsenjärjestöä tai sen jäsenjärjestöä.
 
 ### 2.2 Puoluekokous
 
@@ -55,61 +55,7 @@ Puolueen käytännön asioita johtaa hallitus, johon kuuluvat valitut puheenjoht
 
 Hallituksen varsinaisille jäsenille osoitetaan kullekin oma vastuualueensa hallituksen järjestäytymiskokouksessa.
 
-Jäsen vastaa oman vastuualueensa toiminnan johtamisesta puoluehallitukselle.
-
-Hallituksen varsinaisille jäsenille suunnitellut roolit:
-
-#### Puheenjohtaja
-- Puheenjohtaja johtaa puolueen aatteellista toimintaa, ohjaa puolueen toimintaa strategisesti ja vastaa puolueen edustamisesta mediassa ja virallisissa yhteyksissä.
-- Muiden hallituksen jäsenten tulee järjestää puheenjohtajalle vapaus toteuttaa edellä mainittuja asioita.
-
-#### 1. Varapuheenjohtaja
-- Ensimmäinen varapuheenjohtaja johtaa puolueen hallituksen työskentelyä.
-- Ensimmäinen varapuheenjohtaja avustaa puheenjohtajaa ja on perillä kaikesta puolueen toiminnasta.
-
-#### 2. Varapuheenjohtaja
-- Puolueen hallintopäällikkö
-- Vastaa säännöllisistä rutiinikokoukset kahden viikon välein.
-- Laatii pöytäkirjat kokouksista ja varmistaa että puolueen arkisto on ajan tasalla.
-
-#### Puoluesihteeri
-- Strateginen ohjaaminen, tavoitteena tunnistaa tärkeät asiat ja pohtia miten niitä kannattaa ajaa.
-- Vastaa puolueen ohjelmatyöstä, tekee "markkinatutkimusta".
-- Laatii pöytäkirjan yhdistyksen kokouksista.
-
-#### Tiedottaja
-- Tiedottaja tekee tiedotteille pohjat sekä lähettää ne medialle.
-- Tiedottaja myös siirtää hallituksen sähköpostiin tulleet lausuntopyynnöt / sähköpostihaastattelut / muut pidemmät tiedustelut Driveen, jotta niitä voidaan työstää yhdessä.
-- Lopuksi tiedottaja toimittaa valmiit vastaukset oikeaan osoitteeseen.
-
-#### Brändäysvastaava
-- Vastaa siitä miltä puolue ulospäin näyttää (materiaalit, nettisivut, somekanavat).
-- Vastaa siitä, että puolueen sosiaalisen median kanavat ovat riittävän laadukkaita ja aktiivisia.
-- Vastaa nettisivujen pitämisestä ajantasalla.
-
-#### Rahastonhoitaja
-- Luotettava henkilö, joka osaa tehdä lainmukaisen kirjanpidon ja maksaa kululaskut ajoissa.
-
-#### Järjestövastaava
-- Hallintojärjestyksen, organisaation ja sääntöjen kehitystyö.
-- Yhdistys- ja lakiasioiden asiantuntijatehtävä.
-
-#### Piirivastaava
-- Piirivastaava vastaa piirijärjestöjen pitämisestä ajantasalla sekä piirien kysymyksiin vastaamisesta.
-- Vaatimuksena pestiin kohtalaisen vankka yhdistyskokemus.
-- Varmistaa, että piirijärjestöt noudattavat hyvää hallintotapaa, arkistoi myös piirijärjestöjen tilinpäätökset.
-- Pysyy kartalla puolueen tapahtumista valtakunnan tasolla ja auttaa tapahtumia järjestäviä tiimejä.
-
-#### Varajäsenet
-- Korvaavat hallituksen jäseniä silloin kun varsinaiset jäsenet eivät ole käytettävissä.
-- Voivat osallistua kokouksiin ja keskusteluun.
-
-#### Jäsensihteeri / jäsenasioiden hoitaja
-- Jäsensihteeri tarkastaa saapuneet jäsenhakemukset ja lähettää hallituksen päätöksen jälkeen sähköpostit heidän hyväksymisestään jäsenrekisterin sähköpostityökalun avulla.
-- Vastaa koko jäsenprosessista sekä uusien jäsenten kontaktoimisesta ja tiedottamisesta.
-- Vastaa yhteyksistä jäsenistöön.
-
-Huomautus! Edellä mainitut ovat enemmänkin rooleja kuin titteleitä ja voivat tehtävinä olla oman toimen ohella tehtäviä.
+Jäsen vastaa oman vastuualueensa toiminnan **johtamisesta** puoluehallitukselle.
 
 ### 2.4 Puoluevaltuusto
 
@@ -129,7 +75,7 @@ Piirijärjestö voi tarvittaessa valtuuttaa jäsenjärjestönsä edustamaan puol
 
 ### 2.6 Paikallisjärjestö
 
-Paikallisjärjestön takoituksena on edistää puolueen arvoja ja tavoitteita toimimalla puolueen paikallisyhdistyksenä, ja täyttää puolueen paikallisyhdistykselle määrätyt tehtävät. Tarkoituksensa toteuttamiseksi yhdistys:
+Paikallisjärjestön tarkoituksena on edistää puolueen arvoja ja tavoitteita toimimalla puolueen paikallisyhdistyksenä, ja täyttää puolueen paikallisyhdistykselle määrätyt tehtävät. Tarkoituksensa toteuttamiseksi yhdistys:
 - edustaa puoluetta paikallistasolla,
 - asettaa toiminta-alueellaan puolueen kuntavaaliehdokkaat ja vastaa puolueen kuntavaalikampanjasta,
 - hoitaa muut puoluehallituksen tai piirijärjestön hallituksen sille määräämät tehtävät
@@ -140,7 +86,7 @@ Paikallisjärjestö voi tarvittaessa hoitaa edellä mainittuja vaaleihin kuuluvi
 
 ### 3.1 Käyttäytymissäännöt
 
-Puolueen jäsenen tulee noudattaa hyviä käytöstapoja ja tilanteeseen sopivaa käyttäytymistä yleisesti. Erityisesti esiintyessään puolueen edustajana tai jäsenenä julkisella paikalla tai tilaisuudessa on kiinnitettävä huomiota kohteliaaseen ja muut ihmiset huomioon ottavaan esiintymiseen ja käytökseen.
+Puolueen jäsenen tulee noudattaa hyviä käytöstapoja ja yleisesti tilanteeseen sopivaa käyttäytymistä ja pukeutumista. Erityisesti esiintyessään puolueen edustajana tai jäsenenä julkisella paikalla tai tilaisuudessa on kiinnitettävä huomiota kohteliaaseen ja muut ihmiset huomioon ottavaan esiintymiseen ja käytökseen.
 
 ### 3.2 Julkinen esiintyminen
 
@@ -154,7 +100,7 @@ Puolueen ehdokkaana olleen ja vaaleissa valitun henkilön erotessa puolueen ryhm
 
 ### 3.4 Vaitiolovelvollisuus ja salassapito
 
-Puolueen jäsenellä ei ole oikeutta keskustella ulkopuolisten kanssa puolueen sisäisistä asioista (kuten taloudellisesta tilanteesta, suunnitelmista ja tavoitteista), muuten kuin miten puolue tai jäsenjärjestö on niistä tiedottanut.
+Puolueen jäsenellä ei ole oikeutta keskustella ulkopuolisten kanssa puolueen sisäisistä asioista (kuten taloudellisesta tilanteesta, suunnitelmista ja tavoitteista), muuten kuin miten puolue tai jäsenjärjestö on niistä tiedottanut. Jäsenasioiden jakaminen puolueen ulkopuolelle on ehdottomasti kielletty.
 
 Vaitiolovelvollisuus kattaa myös kirjoitukset sosiaalisessa mediassa ja muissa vastaavissa kanavissa.
 
@@ -264,19 +210,20 @@ Neuvottelijat laativat esityksen luottamushenkilöpaikkojen jakamisesta neuvotte
 
 Toisessa yhteiskokouksessa käsitellään paikkajakoesitys. Jaettavat paikat käsitellään merkitysellisimmästä paikasta alkaen yksi kerrallaan. Esityksen tausta-aineistoon liittyvät huomautukset käsitellään ennen äänestystä. Tämän jälkeen suoritetaan äänestys, jossa paikka jaetaan. Paikkoja jaettaessa on huomioitava tausta-aineistossa esitetyt huomiot, sekä tarvittaessa paikkojen rotaatio, siten, että sama henkilö ei toimi samassa luottamushenkilöasemassa tarpeettoman pitkään. Yhteiskokouksen aikana on hyvä tilaisuus muodostaa valittujen luottamushenkilöiden ympärille tukiryhmät, jotka avustavat valittuja luottamushenkilöitä tehtävissään.
 
-Valittujen luottamushenkilöiden luopuessa paikoistaan, tai uusien luottamushenkilöpaikkojen ilmaantuessa, on pidettävä uusi yhteiskokous, jota ennen puoluejärjestön hallitus tekee vastaavan taustaselvityksen avoimien luottamushenkilöpaikkojen osalta. Ylimääräisen yhteiskokouksen osalta toimitaan muutoin samoin kuin toisen yhteiskokousen osalta.
+Valittujen luottamushenkilöiden luopuessa paikoistaan, tai uusien luottamushenkilöpaikkojen ilmaantuessa, on pidettävä uusi yhteiskokous, jota ennen puoluejärjestön hallitus tekee vastaavan taustaselvityksen avoimien luottamushenkilöpaikkojen osalta. Ylimääräisen yhteiskokouksen osalta toimitaan muutoin samoin kuin toisen yhteiskokouksen osalta.
 
 ## 5. Hankinnat
 
 Puolueen hankinnat tapahtuvat ensisijaisesti sen jäsenjärjestöjen tasolla. Jokaisella jäsenjärjestön jäsenellä on sen järjestön puheenjohtajan, varapuheenjohtajien, rahastonhoitajan tai sihteerin luvalla oikeus tehdä tavanomaisia järjestön ydintoimintoihin liittyviä hankintoja jäsenjärjestön puolesta. Tällaisia ovat esimerkiksi tapahtumien osallistumismaksut, flyerit, kampanjoinnissa käytetty irtaimisto ja tarjoilut.
 
-Poikkeukselliset (esim. erityisen suuret) hankinnat on hyväksyttävä jäsenjärjestön hallituksessa etukäteen. Jäsenjärjestön hallitus määrää tarkemmat hankintaohjeet, mukaanlukien mahdolliset maksimiarvot tavanomaisille hankinnoille.
+Poikkeukselliset (esim. erityisen suuret) hankinnat on hyväksyttävä jäsenjärjestön hallituksessa etukäteen. Jäsenjärjestön hallitus määrää tarkemmat hankintaohjeet, mukaan lukien mahdolliset maksimiarvot tavanomaisille hankinnoille.
 
 Hyväksyttävät kulut tilitetään maksajalle takaisin kuittia vastaan. Kululaskun hyväksyjä ja korvauksen saaja eivät voi olla sama henkilö. Tarkemmat ohjeet kululaskujen toimittamisesta antaa puolueen tai jäsenjärjestön rahastonhoitaja.
 
 Puoluevaltuusto voi lisäksi vahvistaa erillisiä hankintaohjeita.
 
-Ydintoimintoihin liittyvät hankinnat
+### 5.1 Ydintoimintoihin liittyvät hankinnat
+
 Puolueen jäsenillä on puolueen puheenjohtajan, varapuheenjohtajien, taloudenhoitajan tai puoluesihteerin luvalla oikeus tehdä tavanomaisia puolueen ydintoimintoihin liittyviä hankintoja. Erityisen suuriin hankintoihin luvan antaa puoluehallitus.
 
 ## 6. Sopimusvaltuudet
@@ -315,7 +262,7 @@ Dokumenttien julkaisemisen ja arkistoinnin osalta on otettava huomioon myös lai
 
 Puolueen jäsenen puolueen tai puoluejärjestön nimissä tuottamien dokumenttien ja muun aineiston tekijänoikeudet siirtyvät puolueelle / puoluejärjestölle soveltuvin osin korvauksetta, ellei erityisen painavasta syystä erikseen ja etukäteen kirjallisesti muuta sovita.
 
-Puolueella ja sen jäsenjärjestöillä on rajoittamaton oikeus käyttää kaikkea em. aineistoa puolueen toiminnassa, mukaanlukien julkaiseminen painotuotteissa, tiedotusvälineissä, sosiaalisessa mediassa ja puolueen verkkosivuilla.
+Puolueella ja sen jäsenjärjestöillä on rajoittamaton oikeus käyttää kaikkea em. aineistoa puolueen toiminnassa, mukaan lukien julkaiseminen painotuotteissa, tiedotusvälineissä, sosiaalisessa mediassa ja puolueen verkkosivuilla.
 
 ## 9. Palkat ja palkkiot
 
