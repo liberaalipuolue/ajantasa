@@ -19,6 +19,7 @@ Sivustolla on tällä hetkellä seuraavat sisällöt:
   - [Yleisohjelma](/yleisohjelma/)
   - [Puolueohjelma](/puolueohjelma/) ([in English](/party_platform/))
 - **Vaaliohjelmat**
+  - [Eduskuntavaaliohjelma](/eduskuntavaaliohjelma/)
   - [Kuntavaaliohjelma](/kuntavaaliohjelma/)
 - **Erityisohjelmat**
   - Ei vielä sisältöä
