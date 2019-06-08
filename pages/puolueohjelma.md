@@ -5,11 +5,11 @@ permalink: /puolueohjelma/
 
 # PUOLUEOHJELMA
 
-Tämä puolueohjelma on hyväksytty yhdistyksen ylimääräisessä kokouksessa 11.11.2017.
+Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 2.6.2019.
 
 ## Puolueen arvot
 
-Liberaalipuolue – Vapaus valita on laajaa yksilönvapautta ja elinkeinovapautta edistämään pyrkivä puolue. Lähtökohtaisesti ihmisillä on oikeus elää elämäänsä vapaasti haluamallaan tavalla, kunhan he eivät loukkaa muiden ihmisten vastaavaa oikeutta tai vahingoita ympäristöä. Vapaa yhteiskunta on sekä itseisarvo että väline tuottaa hyvinvointia kaikille ihmisille.
+Liberaalipuolue – Vapaus valita pyrkii puolueena edistämään laajaa yksilöiden ja elinkeinojen vapautta. Lähtökohtaisesti ihmisillä on oikeus elää elämäänsä vapaasti haluamallaan tavalla, kunhan he eivät loukkaa muiden ihmisten vastaavaa oikeutta tai vahingoita ympäristöä. Vapaa yhteiskunta on sekä itseisarvo että väline tuottaa hyvinvointia kaikille ihmisille.
 
 Julkisen sektorin tulee keskittyä ydintehtäviinsä ja välttää puuttumista asioihin, joihin puuttuminen ei ole välttämätöntä. Tällä hetkellä valtio on ottanut itselleen lukuisia tehtäviä, joihin julkisen sektorin ei pitäisi puuttua lainkaan.
 
@@ -19,9 +19,11 @@ Yhteiskunnan tulee huolehtia heikoimmistaan, kuten lapsista, vanhuksista, sairai
 
 Lähtökohtaisesti jokaisella on oikeus elää elämäänsä kuten parhaaksi näkee, kunhan ei aiheuta haittaa toisille ihmisille, eläimille tai ympäristölle.
 
-> Ihmisellä on oikeus päättää elämästään ja kuolemastaan. Eutanasia tulee laillistaa.
+Päihteiden käyttö on kansanterveydellinen ongelma, jota ei voi ratkaista koko kansaan kohdistuvalla holhoamisella. Päihteiden käytöstä ei tule määrätä rangaistusta, koska rikosoikeudelliset seuraamukset aiheuttavat syrjäytymistä ja muita sosiaalisia ongelmia.
 
-> Päihteiden käyttö on kansanterveydellinen ongelma. Päihteiden käytöstä ei tule määrätä rangaistusta, koska rikosoikeudelliset seuraamukset aiheuttavat syrjäytymistä ja muita sosiaalisia ongelmia.
+> Huumeiden käytön rangaistavuudesta on luovuttava ja kannabis on laillistettava.
+
+> Ihmisellä on oikeus päättää elämästään ja kuolemastaan. Eutanasia tulee laillistaa.
 
 > Sterilisaation ikärajaa tulee laskea nykyisestä 30 vuodesta.
 
@@ -29,9 +31,13 @@ Lähtökohtaisesti jokaisella on oikeus elää elämäänsä kuten parhaaksi nä
 
 Mielipiteitä ja ajatuksia ei tule kriminalisoida. Rikoksiin yllyttämisen, väkivallalla uhkailun ja kunnianloukkausten tulee olla jatkossakin laittomia, mutta lainsäädännön ei tule ilman painavia perusteita rajoittaa sananvapautta.
 
+> Jumalanpilkka on poistettava rikoslaista.
+
 ### Yksityisyys
 
-Ihmisillä on oikeus yksityisyyteen. Viranomaisilla ei tule olla oikeutta henkilön viestinnän seuraamiseen ilman oikeuden päätöstä. Kansalaisten massavalvonta ei ole missään tilanteessa hyväksyttävää tai tehokasta rikollisuuden torjuntaa, eikä viranomaisille tule antaa tähän työkaluja. Perustuslaissa säädettyä yksityiselämän suojaa ei tule heikentää.
+Ihmisillä on oikeus yksityisyyteen. Viranomaisilla ei tule olla oikeutta henkilön viestinnän seuraamiseen ilman oikeuden päätöstä. Perustuslaissa säädettyä yksityiselämän suojaa ei tule heikentää.
+
+Kansalaisten massavalvonta ei ole missään tilanteessa hyväksyttävää tai tehokasta rikollisuuden torjuntaa, eikä viranomaisille tule antaa tähän työkaluja, kuten liikenteen rekisterikilpi- tai GPS-seurantaa, verkkoliikenteen analysointia tai kasvojentunnistusta valvontakamerakuvista. Viranomainen ei saa ilman laillista perustetta yhdistää eri rekisterien tietoja keskenään.
 
 Aselakeja ei tule kiristää. Aselupajärjestelmää on kehitettävä siten, että yhdellä luvalla voi omistaa useamman aseen. Poliisin resurssit on kohdistettava ensimmäistä aselupaansa hakevien seulontaan eikä henkilöihin, joilla on jo aselupa.
 
@@ -39,9 +45,9 @@ Aselakeja ei tule kiristää. Aselupajärjestelmää on kehitettävä siten, ett
 
 Kaikilla kansalaisilla on oltava lain edessä samat oikeudet ja velvollisuudet, eikä lainsäädännön pidä kohdella täysivaltaisia kansalaisia eri tavoilla.
 
-Juridisen sukupuolen korjaamisen on oltava mahdollista ilmoituksella, ja sukupuoltaan korjanneiden sterilointivaatimuksesta tai lisääntymiskyvyttömyyden todistamisesta tulee luopua kokonaan.
+Translaki on uudistettava. Juridisen sukupuolen korjaamisen on oltava mahdollista ilmoituksella, ja sukupuoltaan korjanneiden sterilointivaatimuksesta tai lisääntymiskyvyttömyyden todistamisesta tulee luopua kokonaan.
 
-Yksilöitä ei saa asettaa sukupuolen tai muuhun henkilöön liittyvän seikan perusteella eriarvoiseen asemaan. Sukupuoleen liittyvät eriarvoisuudet on poistettava vanhemmuuteen liittyvien etuisuuksien, vanhemmuuden tunnistamisen sekä adoption osalta.
+Yksilöitä ei saa asettaa sukupuolen tai muuhun henkilöön liittyvän seikan perusteella eriarvoiseen asemaan, eikä päätöksenteossa tule käyttää näihin ominaisuuksiin perustuvia kiintiöitä. Sukupuoleen liittyvät eriarvoisuudet on poistettava vanhemmuuteen liittyvien etuisuuksien, vanhemmuuden tunnistamisen sekä adoption osalta.
 
 Vanhemmuuden aiheuttamat kustannukset on siirrettävä pois työnantajilta, sillä ne aiheuttavat työmarkkinoille huomattavia tasa-arvo-ongelmia.
 
@@ -49,21 +55,25 @@ Vanhemmuuden aiheuttamat kustannukset on siirrettävä pois työnantajilta, sill
 
 Suomessa on uskonnonvapaus. Valtion ei tule puuttua minkään uskonnon harjoittamiseen, jos se ei loukkaa ihmisten perusoikeuksia. Kirkko ja valtio tulee erottaa toisistaan. Uskonnollisia yhdyskuntia on kohdeltava samalla tavalla kuin muitakin yhdistyksiä. Uskontokuntien verotusoikeus on poistettava.
 
+> Oppilaan tulee saada vapaasti valita katsomusaine kouluissa uskontokunnan jäsenyydestä riippumatta.
+
 Erillisestä uskonnonopetuksesta peruskoulussa ja lukioissa on luovuttava. Tietoa eri uskonnoista tulee opettaa osana muuta kulttuurin opetusta.
 
 ## Elinkeinovapaus
 
 Jokaisella tulee olla oikeus hankkia toimeentulonsa valitsemallaan työllä, ammatilla tai elinkeinolla. Valtion ei tule luoda keinotekoisia elinkeinon harjoittamisen esteitä, ja elinkeinoelämän sääntelyn tulee olla merkittävästi nykyistä kevyempää.
 
-Yrittäjäksi ryhtymisestä tulee tehdä entistä helpompaa, jotta taloudellinen toimeliaisuus Suomessa lisääntyisi. Suomen tulee pyrkiä houkuttelemaan ulkomaista yritystoimintaa nykyistä vähäisemmällä byrokratialla ja alhaisemmalla verotuksen tasolla. Lupatoiminta ei myöskään saa toimia valtion rahankeruun välineenä. Näiden tavoitteiden saavuttamiseksi yrittämiseen liittyviä luvanvaraisuuksia tulee poistaa muuttamalla lupia ilmoitusluonteisiksi. Väärinkäytösten valvonnan tulee tapahtua ensisijaisesti rikosepäilyjen tai viranomaisten suorittamien pistokokeiden perusteella.
+Yrittäjäksi ryhtymisestä tulee tehdä entistä helpompaa, jotta taloudellinen toimeliaisuus Suomessa lisääntyisi. Suomen tulee pyrkiä houkuttelemaan ulkomaista yritystoimintaa nykyistä vähäisemmällä byrokratialla ja alhaisemmalla verotuksen tasolla. Näiden tavoitteiden saavuttamiseksi yrittämiseen liittyviä luvanvaraisuuksia tulee poistaa muuttamalla lupia ilmoitusluonteisiksi. Väärinkäytösten valvonnan tulee tapahtua ensisijaisesti rikosepäilyjen tai viranomaisten suorittamien pistokokeiden perusteella.
 
-Konkurssilainsäädäntöä tulee kehittää. Velallinen ja velkoja on asetettava riskin suhteen tasavertaiseen asemaan. Velallisen velkakierre on voitava katkaista henkilökohtaisella konkurssilla.
+Konkurssilainsäädäntöä tulee kehittää. Velallinen ja velkoja on asetettava riskin suhteen tasavertaiseen asemaan esimerkiksi positiivisen luottorekisterin kaltaisilla työkaluilla. Velallisen velkakierre on voitava katkaista henkilökohtaisella konkurssilla.
 
-> Apteekkialan sääntelyä tulee purkaa. Valtion ei tule ottaa kantaa apteekkien yritysmuotoon ja omistussuhteisiin. Apteekkien paikka- ja määräsääntely tulee lopettaa. Apteekkilupa tulee myöntää ilmoitusluontoisesti – apteekin henkilökunnalle määritetään pätevyysvaatimukset erikseen. Lääkkeitä tulisi saada myydä halvemmalla kuin nykyinen lakisääteinen minimihintasallii. Lääkkeiden postimyynti tulee sallia.
+> Apteekkialan sääntelyä tulee purkaa. Valtion ei tule ottaa kantaa apteekkien yritysmuotoon ja omistussuhteisiin. Apteekkien paikka- ja määräsääntely tulee lopettaa. Apteekkilupa tulee myöntää ilmoitusluontoisesti – apteekin henkilökunnalle määritetään pätevyysvaatimukset erikseen. Lääkkeitä tulisi saada myydä halvemmalla kuin nykyinen lakisääteinen minimihinta sallii. Lääkkeiden postimyynti tulee sallia.
 
 > Seuraavista pakollisista luvista, passeista ja korteista tulee luopua: taksilupa, työlupa, ammattiajolupa, anniskelulupa, anniskelupassi, rahankeräyslupa ja tieturvakortti.
 
-> Valtion monopoleista tulee luopua, koska ne loukkaavat elinkeinovapautta. Vahvojen alkoholijuomien myyminen ja uhkapelien järjestäminen tulee vapauttaa. Raideliikenne tulee avata kilpailulle. Sähkönsiirtoverkkojen lakisääteinen monopoli pitää purkaa.
+> Seksuaalipalveluiden tarjoamisen ja ostamisen tulee olla laillisen elinkeinovapauden piirissä, jotta alan harjoittajien turvallisuus voidaan taata paremmin.
+
+> Valtion monopoleista tulee luopua, koska ne loukkaavat elinkeinovapautta. Kaikkien alkoholijuomien myyminen sekä uhkapelien järjestäminen tulee vapauttaa. Raideliikenne tulee avata kilpailulle. Sähkönsiirtoverkkojen lakisääteinen monopoli pitää purkaa.
 
 > Teoksen suoja-aikaa tulee lyhentää. Nykyinen 70 vuoden suoja tekijän kuoleman jälkeen on liian pitkä.
 
@@ -75,9 +85,9 @@ Valtion tarjoaman sosiaaliturvan tulee mahdollistaa jokaiselle kansalaiselle per
 
 Sosiaaliturva tulee ulottaa yhdenvertaisesti sekä opiskelijoihin, pätkätyöläisiin että yrittäjiin. Kannustinloukut on purettava esimerkiksi siirtymällä sosiaaliturvatilimalliin tai perustuloon. Työttömien asemaa tulee parantaa yksinkertaistamalla byrokratiaa ja poistamalla karenssiajat. Järkevä, perusturvan kaikissa tilanteissa takaava sosiaaliturva parantaa merkittävästi ihmisten neuvotteluasemaa työmarkkinoilla.
 
-> **Asumistukijärjestelmästä** on nykyisessä laajuudessaan tullut kansantaloudellisesti kestämätön. Asumisen hinta pysyy korkealla järjestelmän keinotekoisen vuokrasääntelyn avulla, ja suurimpia järjestelmästä hyötyjiä ovat vuokranantajat. Koko asumistukijärjestelmä on uusittava nopealla aikataululla vähentämällä asumiseen korvamerkittyä tukea ja välivaiheen jälkeen korvattava sosiaaliturvatilillä tai perustulolla.
+> **Asumistukijärjestelmästä** on nykyisessä laajuudessaan tullut kansantaloudellisesti kestämätön. Asumisen hinta pysyy korkealla järjestelmän keinotekoisen vuokrasääntelyn avulla, ja suurimpia järjestelmästä hyötyjiä ovat vuokranantajat. Koko asumistukijärjestelmä on uusittava vähentämällä asumiseen korvamerkittyä tukea ja välivaiheen jälkeen korvattava sosiaaliturvatilillä tai perustulolla. Mahdollinen harkinnanvarainen osa on siirrettävä kuntien vastuulle.
 
-> **Ansiosidonnainen työttömyysturvajärjestelmä** on veronmaksajia epätasa-arvoisesti kohteleva. Sen rahoitus katetaan lähes täysin verovaroista, vaikka turvaan ovat oikeutettuja vain työttömyyskassojen jäsenet. Ansiosidonnainen työttömyysturvajärjestelmä tulee korvata ensisijaisesti vapaaehtoiseen työtulovakuutukseen perustuvalla järjestelmällä. Yrittäjillä tulee olla vastaava mahdollisuus työtulojensa vakuuttamiseen kuin palkansaajilla.
+> **Ansiosidonnainen työttömyysturvajärjestelmä** on veronmaksajia epätasa-arvoisesti kohteleva. Sen rahoitus katetaan lähes täysin verovaroista, vaikka turvaan ovat oikeutettuja vain työttömyyskassojen jäsenet. Työttömyyskassavaatimus on lyhyellä aikavälillä poistettava ja pitkällä aikavälillä ansiosidonnainen työttömyysturvajärjestelmä tulee korvata ensisijaisesti vapaaehtoiseen työtulovakuutukseen perustuvalla järjestelmällä.
 
 ### Eläkkeet
 
@@ -93,23 +103,35 @@ Työllistämisen riskiä työnantajalle tulee vähentää. Työntekijän on voit
 
 > Työehtosopimusten yleissitovuudesta tulee luopua.
 
+> Työkykyisiin ihmisiin kohdistuva kuntouttava työtoiminta tulee lakkauttaa.
+
 ## Verotus – alhaisempi taso ja oikea kohdistaminen
 
-Suomen verotusjärjestelmä on päätynyt tilaan, jossa monien toimijoiden toimintaedellytykset ilman erilaisia verohelpotuksia tai suoria tukia ovat usein heikkoja. Kokonaiset toimialat voivat olla riippuvaisia verohelpotuksista tai tuista. Nykyisellään tarpeettoman monimutkaisesta verotusjärjestelmästä tulee tehdä markkinoita vääristämätön, selkeä ja läpinäkyvä. Valtion tulee kerätä tarvitsemansa verot mahdollisimman tehokkaasti.
+Suomen verotusjärjestelmä on päätynyt tilaan, jossa monien toimijoiden toimintaedellytykset ilman erilaisia verohelpotuksia tai suoria tukia ovat usein heikkoja. Kokonaiset toimialat voivat olla riippuvaisia verohelpotuksista tai tuista.
 
-**Kokonaisveroastetta tulee laskea merkittävästi** karsimalla julkisia menoja. Liberaalipuolue kannattaa yksittäisten veromuotojen korotuksia ainoastaan siinä tapauksessa, että muita veroja lasketaan vähintään vastaavalla summalla. Verotuksen tulisi kohdistua ensisijaisesti ansiottomaan arvonnousuun sekä muille aiheutettuihin haittoihin.
+Nykyisellään tarpeettoman monimutkaisesta verotusjärjestelmästä tulee tehdä markkinoita vääristämätön, selkeä ja läpinäkyvä. Valtion tulee kerätä tarvitsemansa verot mahdollisimman tehokkaasti.
 
-**Verojärjestelmän tulee olla mahdollisimman läpinäkyvä ja yksinkertainen.** Lakisääteiset maksut tulee laittaa palkkakuitille näkyviin. Tuloja pitää kohdella samalla tavalla riippumatta niiden lähteestä. Markkinoita vääristävistä ja verojärjestelmää monimutkaistavista verovähennyksistä pitäisi luopua samalla kun työn verotusta lasketaan merkittävästi. Poistettavia vähennyksiä ovat esimerkiksi asuntolainojen korkovähennys, oman asunnon myyntivoiton verovapaus sekä työmarkkinajärjestöjen jäsenmaksun verovähennysoikeus. Poistettavia veroja ovat esimerkiksi autovero, ajoneuvovero sekä varainsiirtovero.
+**Kokonaisveroastetta tulee laskea merkittävästi** karsimalla julkisia menoja. Liberaalipuolue kannattaa yksittäisten veromuotojen korotuksia ainoastaan siinä tapauksessa, että muita veroja lasketaan vähintään vastaavalla summalla. Verotuksen tulisi kohdistua ensisijaisesti ansiottomaan arvonnousuun sekä muille aiheutettuihin haittoihin. Verotuksen painopistettä tulee siirtää tulojen verotuksesta kulutuksen ja haittojen verottamiseen.
+
+**Verojärjestelmän tulee olla mahdollisimman läpinäkyvä ja yksinkertainen.** Lakisääteiset maksut tulee laittaa palkkakuitille näkyviin. Tuloja pitää kohdella samalla tavalla riippumatta niiden lähteestä. Pääomatulojen verotus on muutettava tasaveroksi. Markkinoita vääristävistä ja verojärjestelmää monimutkaistavista verovähennyksistä pitäisi luopua samalla kun työn verotusta lasketaan merkittävästi. Poistettavia vähennyksiä ovat esimerkiksi asuntolainojen korkovähennys, oman asunnon myyntivoiton verovapaus sekä työmarkkinajärjestöjen jäsenmaksun verovähennysoikeus. Poistettavia veroja ovat esimerkiksi autovero, ajoneuvovero sekä varainsiirtovero.
+
+> Eriytetyt arvonlisäverokannat tulee yhtenäistää.
 
 > **Työn verotusta tulee laskea merkittävästi**
 > Työn verotusta ovat kaikki palkkasidonnaiset maksut, esimerkiksi eläkemaksut, sosiaalivakuutusmaksut, kunnallisvero ja valtion tulovero.
 
-Yrityksen tulosta ei tule verottaa, ellei sitä nosteta yrityksestä pois. Arvioon perustuvasta yhteisöveron ennakkomaksusta tulee luopua ja osinkoverotuksen tulee olla yhteneväistä kaikkien yritysten kesken.
+Yrityksen tulosta ei tule verottaa, ellei sitä nosteta yrityksestä pois. Arvioon perustuvasta yhteisöveron ennakkomaksusta tulee luopua ja osinkoverotuksen tulee olla yhteneväistä kaikkien yritysten kesken. Yhteisövero tulee pitää kansainvälisesti kilpailukykyisenä.
 
 > **Asumisen verotus**
 > Varainsiirtovero tulee poistaa. Kiinteistöveron rakennuksiin kohdistuva osa tulee poistaa. Oman asunnon myyntivoiton verovapaudesta tulee luopua.
 
 Ajoneuvon omistamisesta ja hankkimisesta tulee siirtyä liikenteen aiheuttamien kustannusten verottamiseen. Omistamiseen kohdistuva ajoneuvovero sekä Suomeen tuotaviin ajoneuvoihin kohdistettu vero tulee poistaa. Ajoneuvojen verotuksen painopistettä tulee siirtää polttoaineiden verotukseen ja tienkäyttömaksuihin.
+
+> Perintöveroa ei tule periä ennen kuin hallinta perittyyn omaisuuteen siirtyy.
+
+> Yritysten sukupolvenvaihdoksia tulee helpottaa.
+
+> Osakesäästötili tulee muuttaa yleiseksi sijoitussäästötiliksi.
 
 ## Julkisen sektorin kokoa on pienennettävä
 
@@ -164,13 +186,17 @@ Lähtökohtana tulee olla, että julkisin varoin kustannetaan vain ne yhteiskunn
 
 > Virkamiehillä tulee olla todellinen virkavastuu. Virkamiehet tulee aina saattaa vastuuseen lainvastaisesta toiminnasta.
 
+> Eduskuntavaalien vaalipiirit tulee poistaa. Kansalaisilla tulee olla mahdollisuus äänestää haluamaansa eduskuntavaaliehdokasta koko maan alueelta.
+
 > Perustuslain valvontaa tulee kehittää. Suomeen on perustettava riippumaton perustuslakituomioistuin.
 
-## Terveydenhuolto
+> Julkisen sektorin tuottaman tai keräämän tietoaineiston tulee olla mahdollisimman avointa, jotta kansallisesti rahoitettujen palveluiden tiedot palautuvat kansalaisten ja tiedeyhteisöjen ulottuville kerrannaishyötyjen mahdollistamiseksi. Julkisen sektorin IT-hankkeita tulee pyrkiä toteuttamaan avoimena lähdekoodina.
+
+## Sosiaali- ja terveydenhuolto
 
 Kaikille kansalaisille tulee taata mahdollisuus terveydenhoitoon taloudellisista lähtökohdista riippumatta. Viime kädessä pääsy tarpeellisiin terveyspalveluihin on turvattava julkisen sektorin toimesta. Ihmisille tulee luoda kannustimet huolehtia terveydestään.
 
-Julkisrahoitteisissa sosiaali- ja terveyspalvelussa tulee huomioida kokonaiskustannukset ja vaikuttavuus, ja käyttää ensisijaisesti hoitomuotoja, joiden toimivuutta tukevat tieteellinen näyttö ja parhaat käytännöt. Palvelut tulee integroida yhtenäisiksi palvelukokonaisuuksiksi siten, että palveluketjun eri osat eivät kilpaile keskenään vastuun ja kustannusten jakamisessa.
+Julkisrahoitteisissa sosiaali- ja terveyspalvelussa (sote) tulee huomioida kokonaiskustannukset ja vaikuttavuus, ja käyttää ensisijaisesti hoitomuotoja, joiden toimivuutta tukevat tieteellinen näyttö ja parhaat käytännöt. Palvelut tulee integroida yhtenäisiksi palvelukokonaisuuksiksi siten, että palveluketjun eri osat eivät kilpaile keskenään vastuun ja kustannusten jakamisessa.
 
 Sosiaali- ja terveyspalvelut on kilpailutettava soveltuvin osin. Kilpailutuksessa tulee asettaa riittävät laatukriteerit ja niiden valvonnasta tulee pitää kiinni. Kansalaisten vapautta valita käyttämänsä terveyspalvelut itse tulee lisätä.
 
@@ -184,6 +210,10 @@ Omaishoito on hoidettavalle inhimillistä ja yhteiskunnalle erittäin kustannust
 
 Sosiaalihuolto lisää väestötason hyvinvointia ja omalta osaltaan vaikuttaa siihen, että terveydenhuollon kulut eivät nouse. Sosiaalihuollon päätöksenteko on säilytettävä yhteiskunnan vastuulla.
 
+> Tupakkatuotteita koskevan sääntelyn tavoitteena on oltava haittojen vähentäminen. Tupakointia korvaavien ja vähemmän haitallisten tuotteiden saatavuuden on oltava vähemmän rajoitettua kuin tupakan.
+
+> Homeopatialla ja muilla uskomushoidoilla ei ole sijaa terveydenhuollossa, koska ne voivat vaarantaa potilaiden terveyden ja hengen. Vaihtoehtohoitoja ei tule kustantaa julkisista varoista. Suomeen tulee säätää puoskarilaki.
+
 ## Koulutus
 
 Valtion tulee taata kansalaisilleen tasapuoliset mahdollisuudet kehittää itseään. Tasapäistämistä pitää kuitenkin vähentää, ja lahjakkaille oppilaille tulee antaa mahdollisuudet opiskella nopeammin.
@@ -192,7 +222,9 @@ Oppilaiden yksilöllisen huomioimisen ja valinnanvapauden tulee olla tärkeäll�
 
 Peruskoulun ja toisen asteen koulutuksen opetussisältöjä tulee kehittää vastaamaan paremmin muuttuvan yhteiskunnan haasteisiin. Koulun ei tule antaa opetusta yksittäisissä uskonnoissa. Koululaitoksen tulee antaa yksilöille nykyistä paremmat kielelliset valmiudet toimia EU:n alueella sekä sen ulkopuolella. Näiden tavoitteiden saavuttamiseksi kielten opetuksen valinnaisuutta tulee lisätä nykyisestä. Toisen kotimaisen kielen pakollisesta opetuksesta tulee luopua.
 
-Yliopisto- ja ammattikorkeakouluopinnoissa siirtymistä oppilaitoksesta toiseen ja oppilaitoksista työelämään tulee helpottaa. Tutkintokeskeisyydestä tulee siirtyä kohti osaamiskeskeisyyttä. Yliopistojen autonomista asemaa tulee vahvistaa ja poliittista ohjausta vähentää.
+Yliopisto- ja ammattikorkeakouluopinnoissa siirtymistä oppilaitoksesta toiseen ja oppilaitoksista työelämään tulee helpottaa. Tutkintokeskeisyydestä tulee siirtyä kohti osaamiskeskeisyyttä. Yliopistojen autonomista asemaa tulee vahvistaa ja poliittista ohjausta vähentää. Opintotuen tulorajat on kannustinloukkujen purkamiseksi muutettava portaittaisesta asteikosta lineaariseksi.
+
+> Ylioppilaskuntien pakkojäsenyys tulee purkaa.
 
 Kaikille lapsille tulee taata mahdollisuus varhaiskasvatukseen heikko-osaisempien mahdollisuuksen parantamiseksi ja syrjäytymisen vähentämiseksi.
 
@@ -214,7 +246,7 @@ Yliopistoista ja korkeakouluista valmistuville ulkomaan kansalaisille tulee myö
 
 ### Humanitaarinen maahanmuutto
 
-Ihmisten auttaminen konfliktien lähialueilla tulee olla ensisijainen humanitaarinen tavoite. Kannustimet turvapaikan hakemiseen Suomesta muusta kuin humanitaarisesta syystä tulee poistaa. Maahanmuuttopolitiikan painopisteen tulee olla laadukkaassa kotouttamisessa maassa jo oleskeleville hakijoille. Suomesta tulee voida hakea turvapaikkaa humanitaarisista syistä, mutta Suomen tulee voida rajoittaa tulijoiden määrää, mikäli kotoutusta ei pystytä järjestämään riittävän tehokkaasti.
+Ihmisten auttamisen konfliktien lähialueilla tulee olla ensisijainen humanitaarinen tavoite. Kannustimet turvapaikan hakemiseen Suomesta muusta kuin humanitaarisesta syystä tulee poistaa. Maahanmuuttopolitiikan painopisteen tulee olla laadukkaassa kotouttamisessa maassa jo oleskeleville hakijoille. Suomesta tulee voida hakea turvapaikkaa humanitaarisista syistä, mutta Suomen tulee voida rajoittaa tulijoiden määrää, mikäli kotoutusta ei pystytä järjestämään riittävän tehokkaasti.
 
 Mikäli turvapaikanhakija työllistyy turvapaikkaprosessin aikana, hänelle tulee myöntää toistaiseksi voimassa oleva oleskelulupa, joka ei raukea, vaikka turvapaikkahakemuksesta tulisi negatiivinen päätös. Jokaisen, joka pystyy elättämään perheensä, tulee saada tuoda perheensä Suomeen omalla kustannuksellaan.
 
@@ -234,7 +266,9 @@ Kansalaisten turvallisuuden varmistaminen kuuluu valtion ja yhteiskunnan ydinteh
 
 Ennalta-arvaamattomat tapahtumat voivat synnyttää yhteiskunnan perustoimintoihin merkittäviä häiriöitä. Yksilöiden omatoiminen varautuminen ja valppaus lisäävät turvallisuutta sekä nostavat yhteiskunnan kykyä kestää häiriöitä. Ensiapua ja turvallisuusosaamista tulee opettaa peruskoulussa.
 
-Turvallisuusviranomaisten toimintaa ohjaava ja sen mahdollistava lainsäädäntö on saatettava vastaamaan muuttuneita olosuhteita. Lainsäädännön kehittäminen ei saa johtaa perustuslain takaaman yksityisyydensuojan tarpeettomaan heikentymiseen.
+> Liikennevalvonnan pääasiallisena tarkoituksena on aina oltava liikenneturvallisuus, ei rahan kerääminen valtiolle.
+
+Turvallisuusviranomaisten toimintaa ohjaava ja sen mahdollistava lainsäädäntö on saatettava vastaamaan muuttuneita olosuhteita. Lainsäädännön kehittäminen ei saa johtaa perustuslain takaaman yksityisyydensuojan tarpeettomaan heikentymiseen. Viranomaisten valvonta tulee aina järjestää tavalla, jossa valvovalla viranomaisella on tosiasiallinen mahdollisuus puuttua havaittuihin epäkohtiin.
 
 > Turvallisuusviranomaisten resurssit on nostettava muuttuneisiin tehtäviin nähden riittävälle tasolle.
 
@@ -252,9 +286,13 @@ EU:lla on tärkeä rooli suuren vapaakauppa-alueen standardien luojana ja käyt�
 
 Suomen tulee vapaakaupan osalta integroitua paremmin EU:n kanssa. Tällä hetkellä kaupankäynti useilla tuotteilla, kuten autoilla ja alkoholilla, ei ole samalla tasolla muiden EU-maiden kanssa.
 
+Liberaalipuolue kannattaa EU:n maataloustukijärjestelmän karsimista. Unionin yhteinen maatalouspolitiikka ja sisäiset maataloustuet ovat protektionistinen järjestelmä, joka haittaa kehittyvien maiden maatalouden kehitystä.
+
 ### Kehitysapu
 
-Vapaa kaupankäynti on parasta kehitysapua. Tuontirajoituksia ja tulleja karsimalla voidaan huolehtia, että kehitysmaissa tuotetut tuotteet pääsevät Suomen markkinoille. Kehitysyhteistyöhankkeille tulee luoda kriteeristö, jolla hankkeiden vaikuttavuutta arvioidaan. Tehottomien ja korruptiolle alttiiden hankkeiden rahoittaminen tulee lopettaa, ja kehitysyhteistyön varat tulee ohjata vaikuttaviin hankkeisiin.
+Vapaa kaupankäynti on parasta kehitysapua. Tuontirajoituksia ja tulleja karsimalla voidaan huolehtia, että kehitysmaissa tuotetut tuotteet pääsevät Suomen markkinoille. Kehitysyhteistyöhankkeille tulee luoda kriteeristö, jolla hankkeiden vaikuttavuutta arvioidaan.
+
+Tehottomien ja korruptiolle alttiiden hankkeiden rahoittaminen tulee lopettaa, ja kehitysyhteistyön varat tulee ohjata vaikuttaviin hankkeisiin. Kehitysyhteistyövaroja ei tule käyttää vienninedistämiseen ja ne tulee kanavoida ensisijaisesti kohdealueilla eikä Suomessa toimiville yhteisöille.
 
 ## Energiapolitiikka
 
@@ -264,11 +302,11 @@ Eri energiantuotantomuotoja on lainsäädännössä kohdeltava niiden aiheuttami
 
 Suomessa tuotetulle energialle tarvitaan toimivat markkinat. Energiantuotannossa yhteistyö muiden maiden kanssa on tärkeää ja energiantuottajien mahdollisuuksia osallistua kansainvälisille sähkömarkkinoille tulee edistää.
 
-Liberaalipuolue kannattaa päästökauppajärjestelmän korvaamista hiiliverolla, joka kohdistuisi tasapuolisesti jokaisen päästöjä tuottavan sektorin saastuttamiseen.
+Ihmisillä on yhteinen vastuu ympäristöstä. Sekä globaaleihin että paikallisiin ympäristöhaittoihin on suhtauduttava vakavasti. Liberaalipuolue kannattaa päästökauppajärjestelmän korvaamista hiiliverolla, joka kohdistuisi tasapuolisesti jokaisen päästöjä tuottavan sektorin saastuttamiseen.
 
 ### Ydinenergia
 
-Ydinenergia on hyvä keino hidastaa ilmastonmuustosta. Suomen ydinenergialain on vastattava ydinteknologian kehitykseen nykyistä lakia paremmin. Uudentyyppisten reaktoreiden ja konseptien kokeileminen on mahdollistettava. Kaikille valtion määrittelemät kriteerit täyttäville toimijoille tulee myöntää toimilupa, myös ydinvoimalan rakentamiseksi. Ydinreaktoreiden lupaprosessista on tehtävä nykyistä nopeampi ja kevyempi, jotta myös pienreaktoreiden käyttöönotosta tulee mahdollista.
+Ydinenergia on hyvä keino hidastaa ilmastonmuutosta. Suomen ydinenergialain on vastattava ydinteknologian kehitykseen nykyistä lakia paremmin. Uudentyyppisten reaktoreiden ja konseptien kokeileminen on mahdollistettava. Kaikille valtion määrittelemät kriteerit täyttäville toimijoille tulee myöntää toimilupa, myös ydinvoimalan rakentamiseksi. Ydinreaktoreiden lupaprosessista on tehtävä nykyistä nopeampi ja kevyempi, jotta myös pienreaktoreiden käyttöönotosta tulee mahdollista.
 
 Suomessa on korkeaa ydinteknologiaan liittyvää osaamista, eikä lainsäädäntö saa olla sen hyödyntämisen esteenä. Käytetyn ydinpolttoaineen jälleenkäsittely, tuonti ja vienti, hyödyntäminen ydinpolttoaineena hyötöreaktoreissa ja muiden ydinteknologiaan liittyvien palveluiden myynti myös ulkomaille on sallittava.
 
@@ -296,7 +334,9 @@ Maatalouden riippuvuutta tulonsiirroista tulee vähentää, ja kansallisia maata
 
 > Luomutuotannon suurempi tuki vääristää tuotantopäätöksiä. Luomutuotantoa ei pidä tukea sen enempää kuin muuta elintarviketuotantoa.
 
-> Maataloustukia ei tule maksaa aluepoliittisin perustein.
+> Maataloustukia ei tule maksaa aluepoliittisin perustein. Pinta-alaperusteiset tuet tulee muuttaa tuotantomääräperusteisiksi.
+
+> Geenimuunneltujen lajikkeiden tuottamisen mahdollisuuksia tulee edistää niin kansallisella kuin EU-tasollakin.
 
 ## Perhepolitiikka
 
@@ -305,3 +345,18 @@ Toimivan perhevapaajärjestelmän tunnuspiirteitä ovat perheiden ja vanhempien 
 Vanhemmuuden aiheuttamat kustannukset on siirrettävä pois yksittäisiltä työnantajilta, sillä ne aiheuttavat työmarkkinoilla huomattavia tasa-arvo-ongelmia. Yhteiskunnan tulee kompensoida vanhempainvapaiden aiheuttamaa taloudellista haittaa.
 
 Lapsilisät on maksettava tasan yhteishuoltajuudessa olevien lasten vanhempien kesken oikeudenmukaisuuden lisäämiseksi.
+
+> Suomen lainsäädäntöön tulee palauttaa mahdollisuus sijaissynnyttämiselle.
+
+## Toteutuneet uudistukset
+
+Kappaleessa listataan Liberaalipuolueen perustamisen jälkeisiä toteutettuja uudistuksia ja toimenpiteitä, joita puolue on osaltaan puolueohjelman ja yleisohjelman hengessä ollut kannattamassa.
+
+- Tasa-arvoinen avioliittolaki
+- Kauppojen aukioloaikojen vapauttaminen
+- Alkoholilainsäädännön uudistukset
+- Taksi- ja raideliikenteen vapauttaminen
+- Sopeutumiseläkejärjestelmän poisto
+- Osakesäästötili
+- Perustulokokeilu
+- Kansallista turvallisuutta uhkaaviin maakauppoihin puuttuminen
