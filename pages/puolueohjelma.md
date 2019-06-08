@@ -5,7 +5,7 @@ permalink: /puolueohjelma/
 
 # PUOLUEOHJELMA
 
-Puoluevaltuusto on hyväksynyt tämän puolueohjelman kokouksessaan 26.1.2019 puoluekokouksen vahvistettavaksi. Puoluekokous ei ole vielä vahvistanut ohjelmaa.
+Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 2.6.2019.
 
 ## Puolueen arvot
 
@@ -222,7 +222,7 @@ Oppilaiden yksilöllisen huomioimisen ja valinnanvapauden tulee olla tärkeäll�
 
 Peruskoulun ja toisen asteen koulutuksen opetussisältöjä tulee kehittää vastaamaan paremmin muuttuvan yhteiskunnan haasteisiin. Koulun ei tule antaa opetusta yksittäisissä uskonnoissa. Koululaitoksen tulee antaa yksilöille nykyistä paremmat kielelliset valmiudet toimia EU:n alueella sekä sen ulkopuolella. Näiden tavoitteiden saavuttamiseksi kielten opetuksen valinnaisuutta tulee lisätä nykyisestä. Toisen kotimaisen kielen pakollisesta opetuksesta tulee luopua.
 
-Yliopisto- ja ammattikorkeakouluopinnoissa siirtymistä oppilaitoksesta toiseen ja oppilaitoksista työelämään tulee helpottaa. Tutkintokeskeisyydestä tulee siirtyä kohti osaamiskeskeisyyttä. Yliopistojen autonomista asemaa tulee vahvistaa ja poliittista ohjausta vähentää. Opintotuen tulorajat on kannustinloukkujen purkamiseksi muutetava portaittaisesta asteikosta lineaariseksi.
+Yliopisto- ja ammattikorkeakouluopinnoissa siirtymistä oppilaitoksesta toiseen ja oppilaitoksista työelämään tulee helpottaa. Tutkintokeskeisyydestä tulee siirtyä kohti osaamiskeskeisyyttä. Yliopistojen autonomista asemaa tulee vahvistaa ja poliittista ohjausta vähentää. Opintotuen tulorajat on kannustinloukkujen purkamiseksi muutettava portaittaisesta asteikosta lineaariseksi.
 
 > Ylioppilaskuntien pakkojäsenyys tulee purkaa.
 
