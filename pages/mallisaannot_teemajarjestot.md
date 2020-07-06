@@ -11,7 +11,7 @@ Nämä mallisäännöt valtakunnallisia teemayhdistyksiä varten on päivitetty 
 
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
-Yhdistyksen nimi on **XXX** ry ja sen kotipaikka on Helsinki. Yhdistyksen toimialueena on koko maa.
+Yhdistyksen nimi on **XXX** ry ja sen kotipaikka on **XXX kunta**. Yhdistyksen toimialueena on koko maa.
 
 Yhdistyksen kieli on suomi, ja yhdistyksen pöytäkirjakieli on suomi.
 
