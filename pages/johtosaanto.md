@@ -5,7 +5,7 @@ permalink: /johtosaanto/
 
 # JOHTOSÄÄNTÖ
 
-Puoluevaltuusto on hyväksynyt tämän johtosäännön kokouksessaan 16.9.2018.
+Puoluevaltuusto on hyväksynyt tämän johtosäännön kokouksessaan 8.11.2019.
 
 ## 1. Johdanto
 
@@ -61,7 +61,7 @@ Jäsen vastaa oman vastuualueensa toiminnan **johtamisesta** puoluehallitukselle
 
 Puoluevaltuusto vastaa puolueen aatteellisesta ja strategisesta työstä puoluekokousten välillä. Sen tarkemmat tehtävät sekä kokoonpano on määritelty puolueen säännöissä. Puoluevaltuusto koostuu puoluehallituksen jäsenistä sekä piirijärjestöjen ja teemajärjestöjen puheenjohtajistosta.
 
-Puoluevaltuuston on pidettävä vähintään yksi kokous vuosittain. Tämä sääntömääräinen kokous on pidettävä toukokuun loppuun mennessä, kuitenkin ennen sääntömääräistä puoluekokousta. Muutoin puoluevaltuusto kokoontuu itse päättämänsä kokousaikataulun mukaisesti.
+Puoluevaltuuston on pidettävä vähintään yksi kokous vuosittain. Tämä sääntömääräinen kokous on pidettävä joulukuun loppuun mennessä, kuitenkin ennen sääntömääräistä puoluekokousta. Muutoin puoluevaltuusto kokoontuu itse päättämänsä kokousaikataulun mukaisesti.
 
 Puoluevaltuusto kokoontuu myös, jos puoluehallitus katsoo siihen olevan aihetta tai jos kuusi puoluevaltuuston jäsentä vaatii sitä kirjallisesti puoluehallitukselta erikseen ilmoittamansa asian käsittelyä varten.
 
