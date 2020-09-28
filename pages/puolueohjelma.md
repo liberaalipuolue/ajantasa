@@ -5,7 +5,7 @@ permalink: /puolueohjelma/
 
 # PUOLUEOHJELMA
 
-Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 2.6.2019. Puoluevaltuusto on tehnyt siihen kokouksessaan 22.6.2020 teknisiä järjestysmuutoksia ilman sisältömuutoksia.
+Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 19.9.2020.
 
 ## Puolueen arvot
 
