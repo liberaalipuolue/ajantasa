@@ -5,7 +5,7 @@ permalink: /saannot/
 
 # SÄÄNNÖT
 
-Nämä säännöt on hyväksytty yhdistyksen ylimääräisessä kokouksessa 11.11.2017. Ne on merkitty yhdistysrekisteriin 9.3.2018.
+Näitä sääntöjä on viimeksi päivitetty puoluekokouksessa 21.5.2022.
 
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
@@ -15,7 +15,7 @@ Puolueen kieli on suomi. Puolueen pöytäkirjakieli on suomi.
 
 ## 2 § Tarkoitus ja toiminnan laatu
 
-Puolueen tarkoituksena on vaikuttaa valtiollisiin ja yhteiskunnallisiin asioihin lakiuudistusten kautta ja olemalla mukana päätöksenteossa.
+Puolueen tarkoituksena on vaikuttaa valtiollisiin ja yhteiskunnallisiin asioihin lakiuudistusten kautta ja olemalla mukana päätöksenteossa. 
 
 Puolue vaatii yksilön vapauden toteutumista kaikilla yhteiskunnan osa-alueilla. Yksilön henkilökohtaisiin valintoihin puuttuminen lainsäädännöllä pitää aina olla perusteltavissa painavilla syillä.
 
@@ -82,7 +82,7 @@ Puoluehallitus päättää vuosittain:
 
 Puolueen asioita hoitaa hallitus, johon kuuluvat valitut puheenjohtaja, 1–3 varapuheenjohtajaa ja 1–20 muuta varsinaista jäsentä sekä 0–10 varajäsentä. Hallituksen puheenjohtajana, varapuheenjohtajana, hallituksen jäsenenä tai varajäsenenä voi toimia ainoastaan puolueen henkilöjäsen.
 
-Hallituksen toimikausi on kahden puoluekokouksen välinen aika. Hallituksen puheenjohtaja, varapuheenjohtaja tai muu jäsen tai koko hallitus voidaan puolueen kokouksessa vaihtaa tai hallitusta täydentää uusilla jäsenillä myös kesken toimikauden meneillään olevan toimikauden loppuajaksi.
+Sääntömääräisessä puoluekokouksessa valitaan hallitus joka toinen vuosi. Mikäli hallitus tai puheenjohtajisto vaihtuu kesken kauden, hallitus valitaan kaksivuotiskaudeksi seuraavassa sääntömääräisessä puoluekokouksessa tai asiaa varten koolle kutsutussa ylimääräisessä kokouksessa. Hallituksen puheenjohtaja, varapuheenjohtaja tai muu jäsen tai koko hallitus voidaan puolueen kokouksessa vaihtaa tai hallitusta täydentää uusilla jäsenillä myös kesken toimikauden meneillään olevan toimikauden loppuajaksi.
 
 Hallitus ottaa keskuudestaan tai ulkopuoleltaan sihteerin, taloudenhoitajan ja muut tarvittavat toimihenkilöt. Hallitus kokoontuu, kun hallitus niin päättää, taikka puheenjohtajan tai varapuheenjohtajan kutsusta, kun he katsovat siihen olevan aihetta tai kun vähintään puolet hallituksen jäsenistä sitä vaatii.
 
