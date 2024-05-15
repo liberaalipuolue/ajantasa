@@ -38,9 +38,9 @@ Vision toteuttamiseksi tavoittelemme seuraavaa:
 
 ## 3. Vapaus
 
-Lähtökohtaisesti jokaisella on oikeus elää elämäänsä kuten parhaaksi näkee, kunhan ei aiheuta haittaa toisille ihmisille, eläimille tai ympäristölle.
+Lähtökohtaisesti jokaisella on oikeus elää elämäänsä kuten parhaaksi näkee, kunhan ei aiheuta haittaa toisille ihmisille, eläimille tai ympäristölle. 
 
-Valtion ei tule rajoittaa yksittäisen kansalaisen vaurastumista. Kansakunnan vaurastuminen johtaa vahvaan valtiontalouteen ja vahva valtiontalous on köyhän paras ystävä. Vaurastuminen lisää myös yksilön omaa riskinsietokykyä; pienistä vastoinkäymisistä selvitään omin voimin eteenpäin.
+Valtion ei tule rajoittaa yksittäisen kansalaisen vaurastumista. Kansakunnan vaurastuminen johtaa vahvaan valtiontalouteen ja vahva valtiontalous on myös heikommassa osassa olevan turva.
 
 ### 3.1. Sananvapaus
 
