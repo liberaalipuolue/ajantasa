@@ -21,16 +21,20 @@ Yhteiskunnan tulee huolehtia heikoimmistaan, kuten lapsista, vanhuksista, sairai
 
 Valtion ei tule sääntelyllä rajoittaa kansalaisten vapauksia ilman painavia perusteita. Sääntelyn tarpeellisuutta arvioitaessa on aina huomioitava myös sääntelyn taloudelliset ja hallinnolliset kustannukset. Sääntelyn tulee olla mahdollisimman kevyttä, jotta se ei estä kansalaisia tavoittelemasta hyvinvointia, eikä syö resursseja julkisen sektorin ydintehtäviltä.
 
-## 2. Visio
+## 2. Visio ja keinot sen toteuttamiseksi
 
-Tulevaisuuden Suomessa yhteiskunta on vapaampi ja vähemmän hallinnoitu ja säädelty, jotta kansalainen voi saavuttaa täyden potentiaalinsa. Jotta tähän päästään, on:
+Tulevaisuuden Suomessa yhteiskunta on vapaampi ja kevyemmin hallinnoitu ja säädelty, jotta kansalainen voi saavuttaa täyden potentiaalinsa. Tulevaisuuden Suomi rakentuu vahvalle talouskasvulle, joka perustuu kestävään luonnonvarojen hyödyntämiseen, kiertotalouteen ja palvelujen tuottamiseen.
 
-1. Elinkeino- ja yksilönvapauden sääntelyä on merkittävästi purettava.
+Vision toteuttamiseksi tavoittelemme seuraavaa:
+
+1. Elinkeino- ja yksilönvapauden rajoituksia on purettava merkittävästi.
 2. Verotusta on kevennettävä ja sen painopiste on siirrettävä haittojen ja kulutuksen verottamiseen.
-3. Julkisen sektorin kokoa on supistettava, tehokkuusvaatimuksia lisättävä, tehtäviä karsittava ja henkilöstön käytön painopiste tulee olla suoraan kansalaisia palvelevalla operatiivisella tasolla, ei keski- ja ylimmässä johdossa.
-4. Ajan mittaan on siirryttävä kansalaista lähellä olevaan suoraan alueelliseen demokratiaan ja samassa yhteydessä valtion keskushallintoa on pienennettävä ja tehtäviä karsittava. Alueet ovat erilaisia ja tuntevat omat olosuhteensa parhaiten.
-5. Sosiaaliturvassa on siirryttävä perustulo- tai perustilimalliin. Työelämän ulkopuolella pysyvästi oleville (kuten vanhukset ja vammaiset) tarjottava sosiaaliturva on oltava riittävä.
-6. Ulko- ja turvallisuuspolitiikallaan Suomen tulee ensisijaisesti varmistaa kansalaistensa turvallisuus.
+3. Talouden tulee kasvaa ekologisesti kestävästi niin, että ihmisten elintaso voi nousta, hyvinvointi lisääntyä ja julkisten palveluiden laatu parantua.
+4. Julkisen sektorin kokoa on supistettava, tehokkuusvaatimuksia lisättävä, tehtäviä karsittava.
+5. On siirryttävä kansalaista lähellä olevaan suoraan alueelliseen demokratiaan ja samassa yhteydessä valtion keskushallintoa on pienennettävä ja tehtäviä karsittava. Alueet ovat erilaisia ja tuntevat omat olosuhteensa parhaiten.
+6. Sosiaaliturvassa on siirryttävä perustulo- tai perustilimalliin. Työelämän ulkopuolella pysyvästi oleville (kuten vanhukset ja vammaiset) tarjottava sosiaaliturva on oltava riittävä.
+7. Ulko- ja turvallisuuspolitiikallaan Suomen tulee ensisijaisesti varmistaa kansalaistensa turvallisuus.
+8. Kestävä ympäristöpolitiikka perustuu soveltuvilta osin tuotannon ja kulutuksen aiheuttamien haittojen verottamiseen.
 
 ## 3. Vapaus
 
