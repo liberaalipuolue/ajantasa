@@ -60,9 +60,7 @@ Kansalaisten massavalvonta ei ole missään tilanteessa hyväksyttävää tai te
 
 Kaikilla kansalaisilla on oltava lain edessä samat oikeudet ja velvollisuudet, eikä lainsäädännön pidä kohdella täysivaltaisia kansalaisia eri tavoilla.
 
-Yksilöitä ei saa asettaa sukupuolen tai muuhun henkilöön liittyvän seikan perusteella eriarvoiseen asemaan, eikä päätöksenteossa tule käyttää näihin ominaisuuksiin perustuvia kiintiöitä. Myös positiivinen syrjintä on vain syrjintää, sillä johonkin ihmisryhmään kuuluminen ei anna kenellekään tehtävään tarvittavaa osaamista, tietoa tai ammattitaitoa. Sukupuoleen liittyvät eriarvoisuudet on poistettava vanhemmuuteen liittyvien etuisuuksien, vanhemmuuden tunnistamisen sekä adoption osalta.
-
-Translaki on uudistettava. Juridisen sukupuolen korjaamisen on oltava mahdollista ilmoituksella, ja sukupuoltaan korjanneiden sterilointivaatimuksesta tai lisääntymiskyvyttömyyden todistamisesta tulee luopua kokonaan.
+Yksilöitä ei saa asettaa sukupuolen, seksuaalisen suuntautumisen tai muuhun henkilöön liittyvän seikan perusteella eriarvoiseen asemaan, eikä päätöksenteossa tule käyttää näihin ominaisuuksiin perustuvia kiintiöitä. Johonkin ihmisryhmään kuuluminen ei anna kenellekään tehtävään tarvittavaa osaamista, tietoa tai ammattitaitoa. Sukupuoleen liittyvät eriarvoisuudet on poistettava vanhemmuuteen liittyvien etuisuuksien, vanhemmuuden tunnistamisen sekä adoption osalta.
 
 ### 3.4. Luvanvaraisuus
 
