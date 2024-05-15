@@ -96,9 +96,13 @@ Valtio voi omistaa tai säännellä luonnollisia monopoleja, perusinfrastruktuur
 
 ### 4.1. Julkisen sektorin avoimuus
 
-Julkisen sektorin omistamiin yrityksiin tulee soveltaa samoja avoimuusvaatimuksia kuin muihin julkisiin toimijoihin. Yleishyödyllisten yhdistysten ja säätiöiden kirjanpidon on oltava avointa.
+Julkisen sektorin omistamiin yrityksiin tulee soveltaa samoja avoimuusvaatimuksia kuin muihin julkisiin toimijoihin. 
 
-Julkisen sektorin tuottaman tai keräämän tietoaineiston tulee olla mahdollisimman avointa, jotta kansallisesti rahoitettujen palveluiden tiedot palautuvat kansalaisten ja tiedeyhteisöjen ulottuville kerrannaishyötyjen mahdollistamiseksi. Julkisen sektorin IT-hankkeita tulee pyrkiä toteuttamaan avoimena lähdekoodina.
+Julkista tukea saavien ja yleishyödyllisten yhteisöjen tilinpäätösten on oltava avoimia.
+
+Julkisen sektorin, mukaan luettuna Yleisradio, tuottaman tai keräämän tietoaineiston tulee olla mahdollisimman avointa, jotta kansallisesti rahoitettujen palveluiden tiedot palautuvat kansalaisten ja tiedeyhteisöjen ulottuville kerrannaishyötyjen mahdollistamiseksi. Julkisen sektorin IT-hankkeita tulee pyrkiä toteuttamaan avoimena lähdekoodina.
+
+Yleisradio ei kilpaile muiden toimijoiden kanssa. Yleisradion tulee olla tasapuolinen suhteessa kaikkiin poliittisiin puolueisiin.
 
 ### 4.2. Veikkauksen toiminta uuteen tarkasteluun
 
