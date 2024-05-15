@@ -78,13 +78,13 @@ Peruskoulun ja lukion oppilaan tulee saada vapaasti valita katsomusaine kouluiss
 
 ### 3.6. Päihdepolitiikka ei saa perustua holhoukseen
 
-Lakien ja rajoitusten on perustuttava tutkittuun tietoon eikä moraaliseen paheksuntaan. Ihmisen terveys on kunkin oma asia ja aikuinen ihminen on kykenevä tekemään omat valintansa itse.
+Päihdepolitiikka ei saa perustua holhoukseen. Lakien ja rajoitusten on perustuttava tutkittuun tietoon. Ihmisen terveys on kunkin oma asia ja täysi-ikäinen ihminen on kykenevä tekemään omat valintansa itse.
 
-Alkoholilainsäädäntö kaikkine erikoisuuksineen ja tavoitteet pyrkiä savuttomaan Suomeen saavat jo koomisia piirteitä. Näissä asioissa ollaan jo siinä tilanteessa, että yksilönvapautta rajoitetaan tarpeettomasti.
+> Alkoholin vähittäismyynti on vapautettava kokonaisuudessaan, myös tuottajien osalta kilpailullisille markkinoille.
 
-Huumeiden käytön rangaistavuus on osoittautunut tehottomaksi keinoksi vähentää huumeiden käytöstä aiheutuvia haittoja, eivätkä sitä myöskään enää kansanterveydenasiantuntijat suosittele. Käytön rangaistavuus kuitenkin lisää syrjäytymistä ja aiheuttaa muita sosiaalisia ongelmia.
+Huumeiden käytön rangaistavuudesta tulee luopua. Huumeiden käytön rangaistavuus on osoittautunut tehottomaksi keinoksi vähentää huumeiden käytöstä aiheutuvia haittoja, eivätkä sitä myöskään enää kansanterveyden asiantuntijat suosittele. Käytön rangaistavuus lisää syrjäytymistä ja aiheuttaa muita sosiaalisia ongelmia. Kriminalisoinnin poistaminen on toteutettava laajentamalla ja kehittämällä samanaikaisesti hoitojärjestelmää, ennaltaehkäisevää työtä ja varhaista puuttumista.
 
-Kannabis tulee laillistaa myös Suomessa. Kannabiksen laillistaminen ulkomailla on luonut alueille uusia verotuloja sekä edistänyt elinkeino- ja yksilönvapautta samalla kuitenkaan johtamatta niihin haittoihin, mitä laillistamisen on pelätty aiheuttavan.
+> Kannabiksen maahantuonti, kasvatus, jalostus ja myynti tulee laillistaa ja tuoda sääntelyn, mukaan luettuna verotus, piiriin myös Suomessa.
 
 Tupakkatuotteita koskevan sääntelyn tavoitteena on oltava haittojen vähentäminen. Tupakointia korvaavien ja vähemmän haitallisten tuotteiden saatavuuden on oltava vähemmän rajoitettua kuin tupakan. Nuuskan myynti on laillistettava.
 
