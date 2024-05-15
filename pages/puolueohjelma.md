@@ -104,11 +104,9 @@ Julkisen sektorin, mukaan luettuna Yleisradio, tuottaman tai keräämän tietoai
 
 Yleisradio ei kilpaile muiden toimijoiden kanssa. Yleisradion tulee olla tasapuolinen suhteessa kaikkiin poliittisiin puolueisiin.
 
-### 4.2. Veikkauksen toiminta uuteen tarkasteluun
+### 4.2. Veikkausmonopolin purkaminen
 
-Veikkauksen tuottojen varaaminen eri ministeriöiden valitsemille edunsaajille on lopetettava. Veikkauksen tuottojen on oltava parlamentaarisessa päätäntävallassa, eikä niitä tule kanavoida eri ministeriöiden valitsemille edunsaajille. Veikkaus ei toimi tällä hetkellä vastuullisesti. Erityisesti pelikoneiden sijoittelu ja markkinointi lisää peliriippuvuutta. Rahapelitoiminta on tulonsiirto vähävaraisilta rikkaille, mikä ei ole hyväksyttävää.
-
-Veikkauksen monopoli tulee korvata lisenssijärjestelmällä, josta esimerkiksi Ruotsissa on saatu erinomaisia tuloksia ilman pelättyjä haittoja.
+Veikkauksen monopoli tulee korvata lisenssijärjestelmällä, josta esimerkiksi Ruotsissa on saatu erinomaisia tuloksia ilman pelättyjä haittoja. Veikkaus tulee lisenssijärjestelmä käyttöönotettaessa myydä.
 
 ### 4.3. Julkisen sektorin virat
 
