@@ -62,9 +62,12 @@ Kaikilla kansalaisilla on oltava lain edessä samat oikeudet ja velvollisuudet, 
 
 Yksilöitä ei saa asettaa sukupuolen, seksuaalisen suuntautumisen tai muuhun henkilöön liittyvän seikan perusteella eriarvoiseen asemaan, eikä päätöksenteossa tule käyttää näihin ominaisuuksiin perustuvia kiintiöitä. Johonkin ihmisryhmään kuuluminen ei anna kenellekään tehtävään tarvittavaa osaamista, tietoa tai ammattitaitoa. Sukupuoleen liittyvät eriarvoisuudet on poistettava vanhemmuuteen liittyvien etuisuuksien, vanhemmuuden tunnistamisen sekä adoption osalta.
 
-### 3.4. Luvanvaraisuus
+### 3.4. Luvanvaraisuuksien poistaminen ja vähentäminen
 
-Aselakeja ei tule kiristää. Aselupajärjestelmää on kehitettävä siten, että yhdellä luvalla voi omistaa useamman aseen. Poliisin resurssit on kohdistettava ensimmäistä aselupaansa hakevien seulontaan eikä henkilöihin, joilla on jo aselupa. Starttiaseet on vapautettava aseluvista, nykyinen lupakäytäntö ainoastaan lisää vapaaehtoisen koiraharrastustoiminnan kustannuksia tuomatta mitään hyötyä yhteiskunnalle.
+Henkilökohtaista vapautta sekä yritys- ja yhdistystoimintaa rajoittavista luvista tulee luopua, erityisesti seuraavista nykyään pakollisista luvista, passeista ja korteista tulee luopua: taksilupa, työlupa, ammattiajolupa, anniskelulupa, anniskelupassi, rahankeräyslupa ja tieturvakortti.
+
+Aselakeja on muutettava selkeämpään ja tasapuolisempaan suuntaan. Aselupajärjestelmää on uudistettava siten, että tietyn asetyypin luvalla voi rekisteröidä useamman samaa asetyyppiä olevan aseen. Poliisin resurssit on kohdistettava ensimmäistä aselupaansa hakevien seulontaan eikä henkilöihin, joilla on jo aselupa. Starttiaseiden ja deaktivoitujen aseiden luvanvaraisuudesta tulee luopua. Samalla on varmistettava, että lainsäädäntö mahdollistaa tehokkaat toimet lakiin perustuvan aseluvan peruuttamiseksi, laittomasti hallussapidettyjen aseiden poistamiseksi ja rikollisten aseenkäytön estämiseksi.
+
 
 ### 3.5. Uskonnonvapaus
 
