@@ -68,12 +68,13 @@ Henkilökohtaista vapautta sekä yritys- ja yhdistystoimintaa rajoittavista luvi
 
 Aselakeja on muutettava selkeämpään ja tasapuolisempaan suuntaan. Aselupajärjestelmää on uudistettava siten, että tietyn asetyypin luvalla voi rekisteröidä useamman samaa asetyyppiä olevan aseen. Poliisin resurssit on kohdistettava ensimmäistä aselupaansa hakevien seulontaan eikä henkilöihin, joilla on jo aselupa. Starttiaseiden ja deaktivoitujen aseiden luvanvaraisuudesta tulee luopua. Samalla on varmistettava, että lainsäädäntö mahdollistaa tehokkaat toimet lakiin perustuvan aseluvan peruuttamiseksi, laittomasti hallussapidettyjen aseiden poistamiseksi ja rikollisten aseenkäytön estämiseksi.
 
-
 ### 3.5. Uskonnonvapaus
 
-Suomessa on uskonnonvapaus. Valtion ei tule puuttua minkään uskonnon harjoittamiseen, jos se ei loukkaa ihmisten perusoikeuksia. Kirkko ja valtio tulee erottaa toisistaan. Uskonnollisia yhdyskuntia on kohdeltava samalla tavalla kuin muitakin yhdistyksiä. Uskontokuntien verotusoikeus on poistettava.
+Suomessa on uskonnonvapaus. Valtion ei tule puuttua minkään uskonnon harjoittamiseen, jos se ei loukkaa ihmisten perusoikeuksia. 
 
-Oppilaan tulee saada vapaasti valita katsomusaine kouluissa uskontokunnan jäsenyydestä riippumatta niistä vaihtoehdoista, mitä kyseisessä koulussa on päätetty järjestää. Tarjolla on oltava aina myös ei-uskonnollinen katsomusaine. Tietoa uskonnoista voidaan opettaa soveltuvien oppiaineiden ohessa.
+Luterilaista ja ortodoksista kirkkoa koskeva erityislainsäädäntö, mukaan luettuna kirkollisveroa koskeva sääntely, on kumottava ja niitä on kohdeltava samalla tavoin kuin muitakin uskonnollisia yhdyskuntia. Kaikkia uskonnollisia yhdyskuntia on kohdeltava samalla tavalla kuin muitakin yhdistyksiä.
+
+Peruskoulun ja lukion oppilaan tulee saada vapaasti valita katsomusaine kouluissa uskontokunnan jäsenyydestä riippumatta niistä vaihtoehdoista, mitä kyseisessä koulussa on päätetty järjestää. Tarjolla on oltava aina myös ei-uskonnollinen katsomusaine. Tietoa uskonnoista voidaan opettaa soveltuvien oppiaineiden ohessa.
 
 ### 3.6. Päihdepolitiikka ei saa perustua holhoukseen
 
