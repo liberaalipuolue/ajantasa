@@ -5,19 +5,21 @@ permalink: /puolueohjelma/
 
 # PUOLUEOHJELMA
 
-Tämä puolueohjelma on hyväksytty puolueen sääntömääräisen vuosikokouksen jatkokokouksessa 29.11.2020.
+Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 18.5.2024.
 
 ## 1. Puolueen arvot
 
 Liberaalipuolue – Vapaus valita pyrkii puolueena edistämään laajaa yksilöiden ja elinkeinojen vapautta.
 
-Lähtökohtaisesti jokaisella on oikeus elää elämäänsä kuten parhaaksi näkee, kunhan ei aiheuta haittaa toisille ihmisille, eläimille tai ympäristölle. Vapaus toteutuu silloin kun sen haltijalla on vastuu siitä, miten vapauttaan kulloinkin käyttää. Vapaus ei ole itseisarvoista vaan siihen liittyy aina vastuu. Vapauden ottaminen tarkoittaa aina vastuuta mukaan lukien vapauden kustannukset siitä aiheutuvista seurauksista.
+Jokaisella on oikeus elää haluamallaan tavalla edellyttäen ettei aiheuta kohtuutonta haittaa toisille ihmisille, eläimille tai ympäristölle. Vapauteen liittyy aina myös vastuu valinnoista ja niiden seurauksista.
 
-Julkisen sektorin tulee keskittyä ydintehtäviinsä ja välttää puuttumista asioihin, joihin puuttuminen ei ole välttämätöntä. Tällä hetkellä valtio on ottanut itselleen lukuisia tehtäviä, joihin julkisen sektorin ei pitäisi puuttua lainkaan.
+Yksilönvapausaatteeseen liittyy luontevalla tavalla positiivinen ihmiskuva eli usko yksilöiden rationaalisuuteen ja kykyyn tehdä itseään koskevia päätöksiä tietoon ja tutkimukseen perustuen. Vastaavasti yhteisiä asioita koskevan päätöksenteon pitää myös perustua ensisijaisesti kyseisiin periaatteisiin. Poliittisen päätöksenteon tulee tavoitella kaikkien vapauden ja tasa-arvon lisäämistä, eikä sen pidä olla erilaisten eturyhmien ja -järjestöjen vaihtovuoroista edun tavoittelua milloin kenenkin kustannuksella.
+
+Julkisen sektorin tulee keskittyä ydintehtäviin ja välttää tarpeetonta puuttumista ihmisten yksityiselämään. Julkisen sektorin tulee edistää kansalaisten valinnanvapautta..
 
 Yhteiskunnan tulee huolehtia heikoimmistaan, kuten lapsista, vanhuksista, sairaista ja vammaisista. Valtion tulee taata jokaiselle kansalaiselle ihmisarvoinen kohtelu, eikä ainuttakaan väestöryhmää saa syrjiä lainsäädännöllisin keinoin. Heikko-osaisista huolehtiminen ei saa kuitenkaan johtaa koko aikuisväestön holhoamiseen.
 
-Ylenmääräinen sääntely aiheuttaa myös talousongelmia. Sääntelyn luomiseen, valvontaan ja erilaiseen raportointiin käytetään työaikaa, joka pitäisi käyttää asioihin, jotka luovat hyvinvointia. Näin raskaalla julkisella hallinnolla meillä ei ole enää varaa pitää heikoimmista huolta.
+Valtion ei tule sääntelyllä rajoittaa kansalaisten vapauksia ilman painavia perusteita. Sääntelyn tarpeellisuutta arvioitaessa on aina huomioitava myös sääntelyn taloudelliset ja hallinnolliset kustannukset. Sääntelyn tulee olla mahdollisimman kevyttä, jotta se ei estä kansalaisia tavoittelemasta hyvinvointia, eikä syö resursseja julkisen sektorin ydintehtäviltä.
 
 ## 2. Visio
 
