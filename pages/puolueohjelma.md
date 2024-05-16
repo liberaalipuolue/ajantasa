@@ -110,7 +110,7 @@ Veikkauksen monopoli tulee korvata lisenssijärjestelmällä, josta esimerkiksi 
 
 ### 4.3. Julkisen sektorin virat
 
-Jokaiseen julkiseen virkaan pitää palkata pätevin hakija, esimerkiksi puoluekirjalla ei saa olla merkitystä.
+Jokaiseen julkiseen virkaan pitää palkata pätevin hakija, esimerkiksi puoluekirjalla ei saa olla merkitystä. Poliittisten valtiosihteereiden ja erityisavustajien virat tulee lakkauttaa.
 
 Virkamiehillä tulee olla todellinen virkavastuu. Virkamiehet tulee aina saattaa vastuuseen lainvastaisesta toiminnasta. Vallan väärinkäytön, korruption, tulee johtaa tuntuviin rangaistuksiin ja korruption paljastamiseen tulee kannustaa.
 
