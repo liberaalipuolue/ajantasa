@@ -175,29 +175,42 @@ Työllistämisen riskiä työnantajalle tulee vähentää. Tämän vastapainoksi
 
 Kokonaisveroastetta tulee laskea merkittävästi karsimalla julkisia menoja. Yksittäisten veromuotojen korotukset tai uudet veromuodot ovat hyväksyttäviä ainoastaan siinä tapauksessa, että muita veroja lasketaan vähintään vastaavalla summalla.
 
-Verojärjestelmän tulee olla mahdollisimman läpinäkyvä ja yksinkertainen. Suomen verotusjärjestelmä on päätynyt tilaan, jossa monien toimijoiden toimintaedellytykset ilman erilaisia verohelpotuksia tai suoria tukia ovat usein heikkoja. Kokonaiset toimialat voivat olla riippuvaisia verohelpotuksista tai tuista. Verotuksen painopistettä tulee siirtää tulojen verotuksesta ensisijaisesti muille aiheutettujen haittojen ja kulutuksen verottamiseen.
+Verojärjestelmän tulee olla mahdollisimman läpinäkyvä ja yksinkertainen. Verotuksen painopistettä tulee siirtää tulojen verotuksesta ensisijaisesti muille aiheutettujen haittojen ja kulutuksen verottamiseen.
 
-Eriytetyt arvonlisäverokannat tulee yhtenäistää. Yle-vero on muutettava vapaaehtoiseksi. Ihmisten tulee saada itse päättää, osallistuvatko he Ylen rahoittamiseen muiden kuin välttämättömien tehtävien osalta.
+Eriytetyt arvonlisäverokannat tulee yhtenäistää. 
 
-Lakisääteiset maksut tulee laittaa palkkakuitille näkyviin. Tuloja pitää kohdella samalla tavalla riippumatta niiden lähteestä. Pääomatulojen verotus on muutettava tasaveroksi.
+Yle-verosta tulee luopua. Yleisradion rahoituksen tulee perustua budjettiin ja sen määrää on tarkasteltava erittäin kriittisesti. Yleisradion on keskityttävä ydintehtäviinsä ja vetäydyttävä kilpailullisilta markkinoilta.
 
-Markkinoita vääristävistä ja verojärjestelmää monimutkaistavista verovähennyksistä tulee luopua samalla kun työn verotusta lasketaan merkittävästi. Verovähennykset lisäävät byrokratiaa. Kansalaisilla on oltava varaa ostaa palveluita ilman verovähennyksiä; nykyinen verokiila tekee sen mahdottomaksi.
+Työnantajamaksut tulee siirtää työntekijöiden vastuulle siten, että työnantajan maksamat summat lasketaan osaksi bruttopalkkaa. Tämä tekee verotuksen rakenteesta läpinäkyvämmän ja havainnollistaa verokiilan todellista suuruutta.
 
-> **Työn verotusta tulee laskea merkittävästi**
-> Työn verotusta ovat kaikki palkkasidonnaiset maksut, esimerkiksi eläkemaksut, sosiaalivakuutusmaksut, kunnallisvero ja valtion tulovero.
+Työn verotusta tulee laskea merkittävästi loiventamalla progressiota.
 
-> **Yhteisöverotus**
-> Yrityksen tulosta ei tule verottaa, ellei sitä nosteta yrityksestä pois. Arvioon perustuvasta yhteisöveron ennakkomaksusta tulee luopua ja osinkoverotuksen tulee olla yhteneväistä pörssiin listattujen ja listaamattomien yritysten kesken. Yhteisövero tulee pitää kansainvälisesti kilpailukykyisenä.
+Työn verotusta ovat kaikki palkkasidonnaiset maksut, esimerkiksi eläkemaksut, sosiaalivakuutusmaksut, kunnallisvero ja valtion tulovero.
 
-> **Asumisen verotus**
+Markkinoita vääristävistä ja verojärjestelmää monimutkaistavista verovähennyksistä tulee luopua. Kansalaisilla on oltava varaa ostaa palveluita ilman verovähennyksiä.
+
+**Yhteisöverotus**
+> Yrityksen tulosta ei tule verottaa, ellei sitä nosteta yrityksestä pois.
+
+Arvioon perustuvasta yhteisöveron ennakkomaksusta tulee luopua. Osinkoverotuksen tulee olla yhteneväistä pörssiin listattujen ja listaamattomien yritysten kesken. Yhteisövero tulee pitää kansainvälisesti kilpailukykyisenä.
+
+**Asumisen verotus**
 > Varainsiirtovero tulee poistaa. Kiinteistöveron rakennuksiin kohdistuva osa tulee poistaa. Oman asunnon myyntivoiton verovapaudesta tulee luopua.
 
-> **Ajoneuvon verotus**
-> Ajoneuvon omistamisesta ja hankkimisesta tulee siirtyä liikenteen aiheuttamien kustannusten verottamiseen. Omistamiseen kohdistuva ajoneuvovero sekä Suomeen tuotaviin ajoneuvoihin kohdistettu vero tulee poistaa. Ajoneuvojen verotuksen painopistettä tulee siirtää polttoaineiden verotukseen ja tienkäyttömaksuihin.
+**Ajoneuvon verotus**
+> Ajoneuvovero ja Suomeen tuotaviin ajoneuvoihin kohdistuva vero tulee poistaa.
 
+Ajoneuvojen käyttöverojen on oltava ensisijaisesti kulutus- ja haittaveroja. Toisaalta niiden on oltava reiluja suhteessa aiheutettuun ulkoishaittaan sekä teknologianeutraaleja. Osana kaupunkipolitiikkaa ajoneuvoverot voivat olla myös liikennekäyttäytymistä ohjaavia.
+
+**Perintövero**
 > Perintövero on poistettava.
 
+**Sijoitussäästötili**
 > Osakesäästötili tulee muuttaa yleiseksi sijoitussäästötiliksi.
+
+**Yleishyödylliset yhteisöt**
+> Työmarkkinajärjestöiltä on poistettava yleishyödyllisen yhteisön status.
+
 
 ### 5.5. Esimerkkejä julkisen sektorin säästökohteista
 
