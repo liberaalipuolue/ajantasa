@@ -473,7 +473,7 @@ Mikäli turvapaikanhakija työllistyy turvapaikkaprosessin aikana, hänelle tule
 
 ### 10.5. Maanpuolustus
 
-Maanpuolustus ja kansalaisten turvallisuuden varmistaminen kuuluvat valtion ydintehtäviin. Suomella tulee olla uskottava kansallinen puolustus. Kansainvälistä yhteistyötä ja integraatiota on syvennettävä kansallisen puolustuksen vahvistamiseksi. Suomen tulee hakea Naton jäsenyyttä.
+Maanpuolustus ja kansalaisten turvallisuuden varmistaminen kuuluvat valtion ydintehtäviin. Naton jäsenenä Suomella tulee olla uskottava kansallinen puolustus. Kansainvälistä yhteistyötä ja integraatiota on syvennettävä kansallisen puolustuksen vahvistamiseksi. 
 
 Asevelvollisuusjärjestelmää tulee kehittää siten, että puolustuksen tarpeet ja asepalveluksen suorittavien motivaatio ja kompetenssit kohtaavat paremmin. Miehille pakollinen asevelvollisuus tulee korvata kaikkia kansalaisia koskevalla valikoivalla asepalveluksella ja palveluksen suorittamiseen tulee kannustaa korottamalla päivärahoja siten, että riittävästi ihmisiä hakeutuu kaikkiin maanpuolustustehtäviin. Palveluksesta kieltäytymisestä ei tule rangaista. Vapaaehtoista maanpuolustustyötä tulee edistää ja tukea.
 
