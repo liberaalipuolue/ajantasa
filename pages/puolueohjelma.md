@@ -300,11 +300,13 @@ Tukipäätökset on tehtävä nopeammin, sillä niiden odottelu aiheuttaa kohtuu
 
 ### 8.2. Perustoimeentulo
 
-Valtion tarjoaman sosiaaliturvan tulee taata jokaiselle kansalaiselle perustoimeentulo. Sosiaaliturva tulee ulottaa yhdenvertaisesti kaikille mukaan lukien opiskelijoihin, pätkätyöläisiin että yrittäjiin.
+Valtion tarjoaman sosiaaliturvan tulee taata jokaiselle kansalaiselle perustoimeentulo. Sosiaaliturva tulee ulottaa yhdenvertaisesti kaikille mukaan lukien opiskelijoihin, pätkätyöläisiin että yrittäjiin. 
+
+Perustoimeentulo ei voi olla koskaan niin korkea, että se korvaisi ansiotulon, muutoin järjestelmää ei kyetä ylläpitämään työnteon kannusteiden puuttuessa. 
 
 Tulonsiirroista keskituloisilta keskituloisille on päästävä eroon. Ei ole mitään järkeä, että veroina kerätään 100 euroa, mistä 80 euroa luovutetaan takaisin erilaisina tukina. Tällaisia tukia ovat esimerkiksi lapsilisät sekä lääkkeiden peruskorvaukset.
 
-Heikoimmista on pidettävä huolta. Meillä on väistämättä oltava myös harkinnanvaraisia tukia. Perustuloa ei voida koskaan nostaa sille tasolle, että työtön yksinhuoltaja eläisi sillä lapsineen. Vastaavasti vaikeasti vammaisten kohdalla ei ole syytä olettaa, että sopiva työpaikka löytyisi, kunhan tukimalli olisi kannustavampi.
+Heikoimmista on pidettävä huolta. Meillä on väistämättä oltava myös harkinnanvaraisia tukia. Perustuloa ei voida koskaan nostaa sille tasolle, että työtön yksinhuoltaja eläisi sillä lapsineen, mutta se estää yksilön joutumasta totaaliköyhyyteen. Vastaavasti vaikeasti vammaisten kohdalla ei ole syytä olettaa, että sopiva työpaikka löytyisi, kunhan tukimalli olisi kannustavampi.
 
 ### 8.3. Asumisen tuet
 
