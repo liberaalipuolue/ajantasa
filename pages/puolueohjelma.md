@@ -232,7 +232,7 @@ Tuottajilla tulee olla nykyistä suurempi mahdollisuus vaikuttaa itse tuotteiden
 
 Luomutuotannon suurempi tuki vääristää tuotantopäätöksiä. Luomutuotantoa ei pidä tukea sen enempää kuin muuta elintarviketuotantoa. Maataloustukia ei tule maksaa aluepoliittisin perustein.
 
-Geenimuunneltujen lajikkeiden tuottamisen mahdollisuuksia tulee edistää niin kansallisella kuin EU-tasollakin.
+> Geenimuunneltujen lajikkeiden tuottamisen mahdollisuuksia tulee edistää niin kansallisella kuin EU-tasollakin.
 
 ## 6. Aluepolitiikka ja liikenne
 
