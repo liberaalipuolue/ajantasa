@@ -167,11 +167,9 @@ Yritysten sukupolvenvaihdoksia tulee helpottaa.
 
 ### 5.3. Työmarkkinat vapaammiksi
 
-Suomeen tarvitaan markkinaehtoisesti toimivat työmarkkinat. Työehtosopimusten yleissitovuudesta tulee luopua ja paikallista sopimista lisätä työmarkkinoiden liikkuvuuden ja joustavuuden lisäämiseksi. Työmarkkinoiden sääntelystä päättäminen kuuluu vaaleilla valitulle eduskunnalle – ei työmarkkinajärjestöille. Työmarkkinajärjestöjen erivapaudet tulee poistaa eikä niiden tule saada päättää niihin kuulumattomien työehdoista.
+Suomeen tarvitaan markkinaehtoisesti toimivat työmarkkinat. Työehtosopimusten yleissitovuudesta tulee luopua. Paikallista sopimista tulee lisätä työmarkkinoiden liikkuvuuden ja joustavuuden lisäämiseksi. Työmarkkinoiden sääntelystä päättäminen kuuluu vaaleilla valitulle eduskunnalle – ei työmarkkinajärjestöille. Työmarkkinajärjestöjen erivapaudet tulee poistaa, eikä järjestöjen tule saada päättää niihin kuulumattomien työehdoista.
 
 Työllistämisen riskiä työnantajalle tulee vähentää. Tämän vastapainoksi tulee sosiaaliturvaa parantaa siten, ettei se rankaise työstä kieltäytymisestä tai irtisanoutumisesta. Työntekijän on voitava jättää työ ilman pelkoa perustoimeentulon menettämisestä.
-
-> Työehtosopimusten yleissitovuudesta tulee luopua.
 
 ### 5.4. Verotuksen laskeminen ja yksinkertaistaminen
 
