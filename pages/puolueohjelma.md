@@ -238,7 +238,9 @@ Luomutuotannon suurempi tuki vääristää tuotantopäätöksiä. Luomutuotantoa
 
 Yksilöillä on perustuslain takaama vapaus asettua asumaan, yrittämään ja elämään haluamaansa paikkaan julkisen vallan sitä kontrolloimatta. Julkisen sektorin ei tarvitse tarjota kaikille alueille samantasoisia palveluita. Asumisella ja liikkumisella on eri alueilla eri hinta ja kansalainen voi itse valita itselleen sopivan kombinaation.
 
-Pandemiat ja etätyön yleistyminen muuttavat Suomen tilannetta asumisen ja liikkumisen suhteen. Työmatkaliikenne voi vähentyä, kun etätyö yleistyy, joten massiiviset hankkeet joukkoliikenteen kehittämiseksi on laitettava uuteen harkintaan. Uusia ratkaisuja ei tarvita, jos matkustajamäärät vähenevät – erityisesti suuret ratahankkeet on asetettava uuden arvioinnin kohteeksi. Joukkoliikenteen markkinaehtoistuminen on laskenut joukkoliikenteen hintoja kautta linjan. Tätä kehitystä tulee edistää.
+Liikenneinfrastruktuurihankkeet on suhteutettava arvioituihin liikennemääriin ja huoltovarmuuden turvaamiseen.
+
+Kaupunkien keskustojen niin kutsutun näivettymisen vähentämiseksi liikennettä maan päällä vähentävien tunneleiden rakentamisen on oltava yksi ratkaisuvaihtoehto. Tällöin autoilijoiden voidaan olettaa maksavan kohtuullisen käyttömaksun tunnelin käytöstä.
 
 ## 7. Tiede ja koulutus
 
