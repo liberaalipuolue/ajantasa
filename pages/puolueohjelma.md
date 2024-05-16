@@ -139,8 +139,6 @@ Keinoina tähän ovat:
 3. työn verotuksen merkittävä alentaminen
 4. julkisen sektorin keskittyminen vain sen perustehtäviin
 
-Jokaisella tulee olla oikeus hankkia toimeentulonsa valitsemallaan työllä, ammatilla tai elinkeinolla. Valtion ei tule luoda keinotekoisia elinkeinon harjoittamisen esteitä, ja elinkeinoelämän sääntelyn tulee olla merkittävästi nykyistä kevyempää.
-
 ### 5.1. Elinkeinotoimintaa rajoittavan sääntelyn purkaminen
 
 Valtion monopoleista tulee luopua, koska ne loukkaavat elinkeinovapautta. Alkon monopoli tulee korvata alkoholijuomien normaalilla vähittäis-, ulos- ja etämyynnillä. Raideliikenne tulee avata kilpailulle. Sähkönsiirtoverkkojen lakisääteinen monopoli pitää purkaa.
