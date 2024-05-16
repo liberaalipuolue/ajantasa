@@ -347,7 +347,7 @@ Lapsilisät on maksettava tasan yhteishuoltajuudessa olevien lasten vanhempien k
 
 > Vanhempainraha on korvattava pitkällä tähtäimellä "vauvarahalla". Tämä olisi lapsilisän kaltainen ja verovapaa. Suuruusluokka vastaisi keskimääräistä nykyistä vanhempainrahaa. Tämä vähentäisi byrokratiaa ja vapauttaisi vanhemmat järjestämään lapsen hoidon parhaaksi katsomallaan tavalla ilman etuussuunnittelua.
 
-> Suomen lainsäädäntöön tulee palauttaa mahdollisuus sijaissynnyttämiselle.
+> Suomen lainsäädäntöön tulee palauttaa mahdollisuus ei-kaupalliselle sijaissynnyttämiselle. Vanhemmuuslaissa tulee säätää sijaissynnytyksen lupamenettelystä, valvonnasta, seurannasta ja osapuolten, erityisesti sijaissynnyttäjän oikeuksista ja velvollisuuksista.  
 
 ### 8.7. Terveydenhuollon järjestäminen
 
