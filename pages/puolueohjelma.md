@@ -254,7 +254,7 @@ Perustutkimuksen perusrahoituksen tulee olla kestävällä tasolla, jotta yleish
 
 Julkisen rahoituksen avulla tuotetun tutkimustiedon on lähtökohtaisesti oltava kaikkien kansalaisten saatavilla. Avoimen datan julkaisemista tulee edistää.
 
-Perustutkimuksen aihepiirien tulee ensisijaisesti olla tutkijalähtöisiä. Tutkimuksen laadunarvioinnin tulee pohjautua tiedemaailman sisäiseen vertaisarviointiin. Julkisesti rahoitetuissa tutkimusprojekteissa tulee lisätä yksityisten tahojen osallistumista, jotta verkostoituminen yliopistomaailman ja elinkeinoelämän välillä paranee.
+Perustutkimuksen aihepiirien tulee ensisijaisesti olla tutkijalähtöisiä. Tutkimuksen laadun arvioinnin tulee pohjautua tiedemaailman sisäiseen vertaisarviointiin. Julkisesti rahoitetuissa tutkimusprojekteissa tulee lisätä yksityisten tahojen osallistumista, jotta verkostoituminen yliopistomaailman ja elinkeinoelämän välillä paranee.
 
 ### 7.2. Peruskoulutus
 
@@ -266,7 +266,13 @@ Koululaitoksen tulee antaa yksilöille nykyistä paremmat kielelliset valmiudet 
 
 ### 7.3. Peruskoulutuksen jälkeinen koulutus
 
-Yliopisto- ja ammattikorkeakouluopinnoissa siirtymistä oppilaitoksesta toiseen ja oppilaitoksista työelämään tulee helpottaa. Tutkintokeskeisyydestä tulee siirtyä kohti osaamiskeskeisyyttä. Yliopistojen autonomista asemaa tulee vahvistaa ja poliittista ohjausta vähentää.
+> Ammatillista koulutusta tulee kehittää esimerkiksi oppisopimuskoulutusmalleilla.
+
+Korkeakouluopinnoissa siirtymistä oppilaitoksesta toiseen ja oppilaitoksista työelämään tulee helpottaa. 
+
+Tutkintokeskeisyydestä tulee siirtyä kohti osaamiskeskeisyyttä. Yliopistojen autonomista asemaa tulee vahvistaa ja poliittista ohjausta vähentää. 
+
+> Korkeakoulututkinnoista on perittävä kohtuullinen lukukausimaksu, jonka määrä riippuu tutkinnonjälkeisistä tuloista.
 
 Opintotuen tulorajat on kannustinloukkujen purkamiseksi muutettava portaittaisesta asteikosta lineaariseksi. Ylioppilaskuntien pakkojäsenyys tulee purkaa.
 
