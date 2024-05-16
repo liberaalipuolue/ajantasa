@@ -159,7 +159,7 @@ Teoksen suoja-aikaa tulee lyhentää. Nykyinen 70 vuoden suoja tekijän kuoleman
 
 ### 5.2. Yrittäjien asema
 
-Yrittäjäksi ryhtymisestä tulee tehdä entistä helpompaa, jotta taloudellinen toimeliaisuus Suomessa lisääntyisi. Suomen tulee pyrkiä houkuttelemaan ulkomaista yritystoimintaa nykyistä vähäisemmällä byrokratialla ja alhaisemmalla verotuksen tasolla. Näiden tavoitteiden saavuttamiseksi yrittämiseen liittyviä luvanvaraisuuksia tulee poistaa muuttamalla lupia ilmoitusluontoisiksi. Väärinkäytösten valvonnan tulee tapahtua ensisijaisesti rikosepäilyjen tai viranomaisten suorittamien pistokokeiden perusteella.
+Yrittäjäksi ryhtymisestä tulee tehdä entistä helpompaa, jotta taloudellinen toimeliaisuus Suomessa lisääntyisi. Suomen tulee pyrkiä houkuttelemaan ulkomaista yritystoimintaa nykyistä kevyemmällä byrokratialla ja verotuksella. Väärinkäytösten valvonnan tulee tapahtua ensisijaisesti rikosepäilyjen tai viranomaisten suorittamien pistokokeiden perusteella.
 
 Konkurssilainsäädäntöä tulee kehittää. Velallinen ja velkoja on asetettava riskin suhteen tasavertaiseen asemaan esimerkiksi positiivisen luottorekisterin kaltaisilla työkaluilla. Velallisen velkakierre on voitava katkaista henkilökohtaisella konkurssilla.
 
