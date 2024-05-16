@@ -433,7 +433,7 @@ Suomessa harjoitettu pitkäjänteinen metsänhoito mahdollistaa kestävän bioma
 
 ## 10. EU-, ulko- ja turvallisuuspolitiikka
 
-Suomen ulko- ja turvallisuuspolitiikan toimintaympäristö on voimakkaassa muutoksessa. Globaalit haasteet, kuten ilmastonmuutos ja pandemiat, vaikuttavat toimintaympäristöömme itsenäisinä ilmiöinä, ja ne kärjistävät jo aiemmin tunnistettujen kehityskulkujen vaikutusta. Uhkakuvien yhä tiiviimpi keskinäisriippuvuus, haasteiden suuruusluokka ja niiden monimutkainen luonne edellyttävät Suomelta vahvaa kykyä ymmärtää toimintaympäristöämme ja vaikuttaa siihen sekä varautua muutoksiin tarvittaessa nopeastikin.
+Suomen ulko- ja turvallisuuspolitiikan toimintaympäristö on voimakkaassa muutoksessa. Suomi on liittynyt läntiseen puolustusjärjestelmään Natoon vastatakseen lähialueilla käytävään sotaan ja laajempaan Suomeenkin kohdistuvaan sotilaalliseen uhkaan. Globaalit haasteet kuten suurvaltojen suhteiden kärjistyminen, ilmastonmuutos ja pandemiat, vaikuttavat toimintaympäristöömme sekä itsenäisinä ilmiöinä että kokonaisuutena. Uhkakuvien yhä tiiviimpi keskinäisriippuvuus, haasteiden suuruusluokka ja niiden monimutkainen luonne edellyttävät Suomelta vahvaa kykyä ymmärtää toimintaympäristöämme ja vaikuttaa siihen sekä varautua muutoksiin tarvittaessa nopeastikin.
 
 Ulko- ja turvallisuuspolitiikassa puolueemme lähtökohtana on universaalit liberaalit arvot, kuten demokratia, oikeusvaltioperiaatteet, monenkeskinen sopimuksellinen yhteistyö, non-aggressioperiaate sekä perus- ja ihmisoikeuksien turvaaminen.
 
