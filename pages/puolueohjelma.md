@@ -332,7 +332,10 @@ Nykyinen työeläkejärjestelmä on epäoikeudenmukainen. Nykyiset työssäkäyv
 
 Suuria eläkkeitä tulee leikata, ja säästyneellä summalla tulee pienentää eläkemaksuja. Julkiseen eläkejärjestelmään osallistumisen tulisi olla pakollista ainoastaan perustoimeentulon tarjoavalta osalta.
 
-Eläkkeelle siirtymisen on oltava joustavaa ja erilaisia osa-aikaeläkejärjestelyjä on edelleen lisättävä. Eläkkeelle siirtymisen yläikäraja on poistettava. Työelämässä on voitava jatkaa haluamansa ajan oman voinnin mukaan.
+Tulisi tutkia mahdollisuutta muuttaa eläkejärjestelmä ns. superannuaation malliksi, jossa työnantajan maksaman eläkemaksun lisäksi yksilö kerryttää omaa eläkekassaansa, jonka hallinnasta voi päättää itse (vaihtoehtona esimerkiksi työnantajakohtaiset rahastot, julkisen sektorin rahastot, avoimet rahastot ja itse hallinnoidut rahastot). 
+
+Eläkkeelle siirtymisen on oltava joustavaa ja erilaisia osa-aikaeläkejärjestelyjä on edelleen lisättävä. Eläkkeelle siirtymisen yläikäraja on poistettava. Työelämässä on voitava jatkaa haluamansa ajan oman voinnin mukaan. 
+
 
 ### 8.6. Perhepolitiikka
 
