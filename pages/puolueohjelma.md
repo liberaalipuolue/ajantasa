@@ -509,3 +509,5 @@ Kappaleessa listataan Liberaalipuolueen perustamisen jälkeisiä toteutettuja uu
 - Kansallista turvallisuutta uhkaaviin maakauppoihin puuttuminen
 - Yhteisöjen tulolähdejaon poisto
 - Työkykyisiin ihmisiin kohdistuvan kuntouttavan työtoiminnan lakkauttaminen
+- Translaki
+- Nato-jäsenyys
