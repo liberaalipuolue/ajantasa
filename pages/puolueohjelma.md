@@ -457,9 +457,11 @@ Tehottomien ja korruptiolle alttiiden hankkeiden rahoittaminen tulee lopettaa, j
 
 ### 10.3. Työperäinen maahanmuutto
 
-Työperäisen maahanmuuton esteet tulee poistaa. Kaikille, joilla on mahdollisuus elättää itsensä, tulee myöntää toistaiseksi voimassa oleva oleskelulupa. Oleskeluluvan tulee päättyä, jos henkilö ei pysty elättämään itseään omalla työllään. Kaikilla maassa jo olevilla pitäisi olla oikeus tehdä vapaasti töitä.
+Työperäisen maahanmuuton esteet tulee poistaa. Kaikille, joilla on mahdollisuus elättää itsensä, tulee myöntää toistaiseksi voimassa oleva oleskelulupa. Oleskeluluvan tulee päättyä, jos henkilö ei pysty elättämään itseään omalla työllään. Kaikilla maassa laillisesti olevilla tulee olla oikeus tehdä vapaasti työtä tai yrittää.
 
-Yliopistoista ja korkeakouluista valmistuville ulkomaan kansalaisille tulee myöntää nykyistä suuremmat vapaudet työnhakuun. Maahanmuuttajien työvoiman tarveharkinnasta tulee luopua – valtion ei tule valvoa, onko maahanmuuttajan saamalle työlle erityinen tarve Suomessa.
+Yliopistoista ja korkeakouluista valmistuville ulkomaan kansalaisille tulee myöntää nykyistä suuremmat vapaudet työnhakuun. Maahanmuuttajien työvoiman tarveharkinnasta tulee luopua – valtion ei tule valvoa, onko maahanmuuttajan saamalle työlle erityinen tarve Suomessa. 
+
+Työnantaja ei saa syrjiä työnhakijoita sujuvan kotimaisen kielen puuttumisen takia. Työtehtävissä, joissa ei tarvita painavasta syystä suomen tai ruotsin kieltä, ei voida vaatia sujuvaa suomen tai ruotsin kielen taitoa. 
 
 ### 10.4. Humanitaarinen maahanmuutto
 
