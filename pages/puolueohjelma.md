@@ -126,7 +126,13 @@ Perustuslain valvontaa tulee kehittää. Suomeen on perustettava riippumaton per
 
 ## 5. Talous
 
-Kestävän talouden perusta on yrittäjyyteen ja toimeliaisuuteen kannustaminen. Keinoina tähän ovat:
+Kestävän talouden perusta on työn tekeminen, yrittäjyys ja korkea työn tuottavuus. Valtion rooli on kannustaminen toimeliaisuuteen.
+
+Jokaisella tulee olla oikeus hankkia toimeentulonsa valitsemallaan työllä, ammatilla tai elinkeinolla. Valtion ei tule luoda keinotekoisia elinkeinon harjoittamisen esteitä, ja elinkeinoelämän sääntelyn tulee olla merkittävästi nykyistä kevyempää.
+
+Talouskasvu voi, ja sen tuleekin olla, jatkuvaa. Se ei ole ristiriidassa ympäristötavoitteiden kanssa; aina on mahdollista tuottaa uusia palveluita, toteuttaa kasvu uusiutuvien luonnonvarojen avulla tai kierrättäen uusiutumattomia. Käytännössä talouskasvu tarkoittaa ihmisten elintason nousua, palkkojen nousua, parempaa julkista sektoria ja yleistä rikastumista. Talouskasvulla on myös välttämätön rooli tuotettaessa tulevaisuuden hyvinvointiyhteiskunnan rahoituspohjaa.
+
+Keinoina tähän ovat:
 
 1. elinkeinovapaus poistamalla erilaisia lupia ja sääntelyä
 2. työmarkkinoiden vapauttaminen
