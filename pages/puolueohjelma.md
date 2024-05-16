@@ -218,7 +218,7 @@ Yritystuet vääristävät kilpailua, lisäävät byrokratiaa eivätkä paranna 
 
 Energian tuotantotuista tulee luopua ja valtion tulee verottaa energian tuottajilta tuotannon ulkoishaitat.
 
-Valtion tehtäviin ei kuulu tavallisten yritysten rahoittaminen, omistaminen tai niihin sijoittaminen, olivatpa nämä pieniä tai suuria. Solidium, Finnvera ja Valtion kehitysyhtiö Vake tulee ajaa asteittain alas.
+Valtion tehtäviin ei kuulu tavallisten yritysten rahoittaminen, omistaminen tai niihin sijoittaminen, olivatpa nämä pieniä tai suuria. Solidium, Finnvera ja Ilmastorahasto tulee ajaa asteittain alas.
 
 Työmarkkinajärjestöjen jäsenmaksujen verovähennyskelpoisuus on poistettava. Yhdistysten jäsenmaksut tulee kustantaa jäsenten omista varoista.
 
