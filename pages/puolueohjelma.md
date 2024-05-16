@@ -15,7 +15,7 @@ Jokaisella on oikeus elää haluamallaan tavalla edellyttäen ettei aiheuta koht
 
 Yksilönvapausaatteeseen liittyy luontevalla tavalla positiivinen ihmiskuva eli usko yksilöiden rationaalisuuteen ja kykyyn tehdä itseään koskevia päätöksiä tietoon ja tutkimukseen perustuen. Vastaavasti yhteisiä asioita koskevan päätöksenteon pitää myös perustua ensisijaisesti kyseisiin periaatteisiin. Poliittisen päätöksenteon tulee tavoitella kaikkien vapauden ja tasa-arvon lisäämistä, eikä sen pidä olla erilaisten eturyhmien ja -järjestöjen vaihtovuoroista edun tavoittelua milloin kenenkin kustannuksella.
 
-Julkisen sektorin tulee keskittyä ydintehtäviin ja välttää tarpeetonta puuttumista ihmisten yksityiselämään. Julkisen sektorin tulee edistää kansalaisten valinnanvapautta..
+Julkisen sektorin tulee keskittyä ydintehtäviin ja välttää tarpeetonta puuttumista ihmisten yksityiselämään. Julkisen sektorin tulee edistää kansalaisten valinnanvapautta.
 
 Yhteiskunnan tulee huolehtia heikoimmistaan, kuten lapsista, vanhuksista, sairaista ja vammaisista. Valtion tulee taata jokaiselle kansalaiselle ihmisarvoinen kohtelu, eikä ainuttakaan väestöryhmää saa syrjiä lainsäädännöllisin keinoin. Heikko-osaisista huolehtiminen ei saa kuitenkaan johtaa koko aikuisväestön holhoamiseen.
 
