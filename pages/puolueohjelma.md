@@ -141,13 +141,19 @@ Keinoina tähän ovat:
 
 ### 5.1. Elinkeinotoimintaa rajoittavan sääntelyn purkaminen
 
-Valtion monopoleista tulee luopua, koska ne loukkaavat elinkeinovapautta. Alkon monopoli tulee korvata alkoholijuomien normaalilla vähittäis-, ulos- ja etämyynnillä. Raideliikenne tulee avata kilpailulle. Sähkönsiirtoverkkojen lakisääteinen monopoli pitää purkaa.
+Valtion tulee luopua niistä monopoleista, jotka loukkaavat elinkeinovapautta. Alkon monopoli tulee korvata alkoholijuomien vähittäis-, ulos- ja etämyynnillä kilpailullisilla markkinoilla. Kaikki raideliikenne tulee avata kilpailulle.
 
-Apteekkialan sääntelyä tulee purkaa. Valtion ei tule ottaa kantaa apteekkien yritysmuotoon ja omistussuhteisiin. Apteekkien paikka- ja määräsääntely tulee lopettaa. Apteekkilupa tulee myöntää ilmoitusluontoisesti – apteekin henkilökunnalle määritetään pätevyysvaatimukset erikseen. Lääkkeitä tulisi saada myydä halvemmalla kuin nykyinen lakisääteinen minimihinta sallii.
+Veikkauksen monopoli tulee korvata lisenssijärjestelmällä. Veikkaus tulee myydä. Veikkauksen tuottoihin liittynyt edunsaajajärjestelmä tulee lopullisesti purkaa.
 
-Seuraavista pakollisista luvista, passeista ja korteista tulee luopua: taksilupa, työlupa, ammattiajolupa, anniskelulupa, anniskelupassi, rahankeräyslupa ja tieturvakortti.
+> Lisenssinhaltijoiden tulee sijoittaa rahapeliautomaatit valvottuihin pelisaleihin.
 
-Seksuaalipalveluiden tarjoamisen ja ostamisen tulee olla laillisen elinkeinovapauden piirissä, jotta alan harjoittajien turvallisuus voidaan taata paremmin.
+> Rinnakkaiset rata- ja sähköverkot tulee sallia.
+
+Apteekkialan sääntelyä tulee purkaa ja tarveharkinnasta luopua. Apteekkilupa tulee myöntää jokaiselle pätevyysvaatimukset täyttävälle apteekkarille. Valtion ei tule ottaa kantaa apteekkien yritysmuotoon tai omistussuhteisiin, eikä säännellä apteekkien määrää tai sijainteja. Lääkkeitä tulisi saada myydä halvemmalla kuin nykyinen lakisääteinen minimihinta sallii.
+
+> Maanviljelijöillä tulee olla oikeus omien tuotteidensa jatkojalostukseen sekä vapaaseen myyntiin.
+
+> Seksuaalipalveluiden tarjoamisen ja ostamisen tulee olla laillisen elinkeinovapauden piirissä, jotta alan harjoittajien turvallisuus voidaan taata paremmin.
 
 Teoksen suoja-aikaa tulee lyhentää. Nykyinen 70 vuoden suoja tekijän kuoleman jälkeen on liian pitkä.
 
