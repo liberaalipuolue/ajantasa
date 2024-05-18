@@ -273,7 +273,7 @@ Korkeakouluopinnoissa siirtymistä oppilaitoksesta toiseen ja oppilaitoksista ty
 
 Tutkintokeskeisyydestä tulee siirtyä kohti osaamiskeskeisyyttä. Yliopistojen autonomista asemaa tulee vahvistaa ja poliittista ohjausta vähentää. 
 
-> Korkeakoulututkinnoista on perittävä kohtuullinen lukukausimaksu, jonka määrä riippuu tutkinnonjälkeisistä tuloista.
+> Korkeakoulututkinnoista on perittävä kohtuullinen lukukausimaksu, jonka määrä riippuu toteutuneista tutkinnonjälkeisistä tuloista.
 
 Opintotuen tulorajat on kannustinloukkujen purkamiseksi muutettava portaittaisesta asteikosta lineaariseksi. Ylioppilaskuntien pakkojäsenyys tulee purkaa.
 
