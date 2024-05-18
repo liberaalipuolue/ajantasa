@@ -212,7 +212,7 @@ Ajoneuvojen käyttöverojen on oltava ensisijaisesti kulutus- ja haittaveroja. T
 
 **Yleishyödylliset yhteisöt**
 > Työmarkkinajärjestöiltä on poistettava yleishyödyllisen yhteisön status.
-
+Työmarkkinajärjestöjen jäsenmaksujen verovähennyskelpoisuus on poistettava. Yhdistysten jäsenmaksut tulee kustantaa jäsenten omista varoista.
 
 ### 5.5. Esimerkkejä julkisen sektorin säästökohteista
 
@@ -221,8 +221,6 @@ Yritystuet vääristävät kilpailua, lisäävät byrokratiaa eivätkä paranna 
 Energian tuotantotuista tulee luopua ja valtion tulee verottaa energian tuottajilta tuotannon ulkoishaitat.
 
 Valtion tehtäviin ei kuulu tavallisten yritysten rahoittaminen, omistaminen tai niihin sijoittaminen, olivatpa nämä pieniä tai suuria. Solidium, Finnvera ja Ilmastorahasto tulee ajaa asteittain alas.
-
-Työmarkkinajärjestöjen jäsenmaksujen verovähennyskelpoisuus on poistettava. Yhdistysten jäsenmaksut tulee kustantaa jäsenten omista varoista.
 
 Puoluetukiin käytettävää summaa on pienennettävä. Puoluetukijärjestelmää tulee muuttaa oikeudenmukaisemmaksi niin, että puoluetuen määrä määräytyisi saatujen äänien perusteella. Valtion tehtäviin ei kuulu poliittisten nuorisojärjestöjen tukeminen.
 
