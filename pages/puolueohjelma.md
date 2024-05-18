@@ -94,7 +94,7 @@ Tupakkatuotteita koskevan sääntelyn tavoitteena on oltava haittojen vähentäm
 
 Julkisen sektorin kokoa on pienennettävä. Julkisesti rahoitetuille tehtäville on oltava vankat perusteet. Lähtökohtana tulee olla, että julkisin varoin kustannetaan vain ne yhteiskunnan toiminnot, joita ei pystytä järjestämään toimivasti tai turvallisesti ilman viranomaisvalvontaa.
 
-Valtio voi omistaa tai säännellä luonnollisia monopoleja, perusinfrastruktuuria ja toimintoja, joissa huoltovarmuus tai muut seikat tekevät valtion osallisuudesta välttämätöntä. Julkisten palvelujen ja toimintojen ei välttämättä tarvitse olla julkisesti tuotettuja, mikäli sama tai parempi kustannustehokkuus voidaan saavuttaa muilla tavoin. Julkisen sektorin työnvälitystoiminta on tehotonta. Yksityiset yritykset pystyvät hoitamaan työnhakijan opastus- ja työnvälitystehtävän tehokkaammin.
+Valtio voi säännellä luonnollisia monopoleja, perusinfrastruktuuria ja toimintoja, joissa huoltovarmuus tai muut seikat tekevät valtion sääntelystä välttämätöntä. Julkisten palvelujen ja toimintojen ei välttämättä tarvitse olla julkisesti tuotettuja, mikäli sama tai parempi kustannustehokkuus voidaan saavuttaa muilla tavoin.
 
 ### 4.1. Julkisen sektorin avoimuus
 
