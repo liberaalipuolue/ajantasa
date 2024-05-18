@@ -151,7 +151,7 @@ Veikkauksen monopoli tulee korvata lisenssijärjestelmällä. Veikkaus tulee myy
 
 > Rinnakkaiset rata- ja sähköverkot tulee sallia.
 
-Apteekkialan sääntelyä tulee purkaa ja tarveharkinnasta luopua. Apteekkilupa tulee myöntää jokaiselle pätevyysvaatimukset täyttävälle apteekkarille. Valtion ei tule ottaa kantaa apteekkien yritysmuotoon tai omistussuhteisiin, eikä säännellä apteekkien määrää tai sijainteja. Lääkkeitä tulisi saada myydä halvemmalla kuin nykyinen lakisääteinen minimihinta sallii.
+Apteekkialan sääntelyä tulee purkaa ja tarveharkinnasta luopua. Apteekkilupa tulee myöntää jokaiselle pätevyysvaatimukset täyttävälle proviisoreille. Valtion ei tule ottaa kantaa apteekkien yritysmuotoon tai omistussuhteisiin, eikä säännellä apteekkien määrää tai sijainteja. Lääkkeitä tulisi saada myydä halvemmalla kuin nykyinen lakisääteinen minimihinta sallii.
 
 > Maanviljelijöillä tulee olla oikeus omien tuotteidensa jatkojalostukseen sekä vapaaseen myyntiin.
 
