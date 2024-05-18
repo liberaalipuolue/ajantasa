@@ -139,7 +139,8 @@ Keinoina tähän ovat:
 1. elinkeinovapaus poistamalla erilaisia lupia ja sääntelyä
 2. työmarkkinoiden vapauttaminen
 3. työn verotuksen merkittävä alentaminen
-4. julkisen sektorin keskittyminen vain sen perustehtäviin
+4. verotuksen painottaminen haittaveroihin
+5. julkisen sektorin keskittyminen vain sen perustehtäviin
 
 ### 5.1. Elinkeinotoimintaa rajoittavan sääntelyn purkaminen
 
