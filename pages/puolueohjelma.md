@@ -62,6 +62,8 @@ Kaikilla kansalaisilla on oltava lain edessä samat oikeudet ja velvollisuudet, 
 
 Yksilöitä ei saa asettaa sukupuolen, seksuaalisen suuntautumisen tai muuhun henkilöön liittyvän seikan perusteella eriarvoiseen asemaan, eikä päätöksenteossa tule käyttää näihin ominaisuuksiin perustuvia kiintiöitä. Johonkin ihmisryhmään kuuluminen ei anna kenellekään tehtävään tarvittavaa osaamista, tietoa tai ammattitaitoa. Sukupuoleen liittyvät eriarvoisuudet on poistettava vanhemmuuteen liittyvien etuisuuksien, vanhemmuuden tunnistamisen sekä adoption osalta.
 
+> Translaki on uudistettava. Juridisen sukupuolimerkinnnän korjaaminen tulee olla mahdollista myös alaikäisille niin kauan kun sukupuolimerkintä löytyy valtion rekisteristä.
+
 ### 3.4. Luvanvaraisuuksien poistaminen ja vähentäminen
 
 Henkilökohtaista vapautta sekä yritys- ja yhdistystoimintaa rajoittavista luvista tulee luopua, erityisesti seuraavista nykyään pakollisista luvista, passeista ja korteista tulee luopua: taksilupa, työlupa, ammattiajolupa, anniskelulupa, anniskelupassi, rahankeräyslupa ja tieturvakortti.
