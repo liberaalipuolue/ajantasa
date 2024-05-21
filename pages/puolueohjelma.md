@@ -154,8 +154,6 @@ Veikkauksen monopoli tulee korvata lisenssijärjestelmällä. Veikkaus tulee myy
 
 Apteekkialan sääntelyä tulee purkaa ja tarveharkinnasta luopua. Apteekkilupa tulee myöntää jokaiselle pätevyysvaatimukset täyttävälle proviisoreille. Valtion ei tule ottaa kantaa apteekkien yritysmuotoon tai omistussuhteisiin, eikä säännellä apteekkien määrää tai sijainteja. Lääkkeitä tulisi saada myydä halvemmalla kuin nykyinen lakisääteinen minimihinta sallii.
 
-> Maanviljelijöillä tulee olla oikeus omien tuotteidensa jatkojalostukseen sekä vapaaseen myyntiin.
-
 > Seksuaalipalveluiden tarjoamisen ja ostamisen tulee olla laillisen elinkeinovapauden piirissä, jotta alan harjoittajien turvallisuus voidaan taata paremmin.
 
 Teoksen suoja-aikaa tulee lyhentää. Nykyinen 70 vuoden suoja tekijän kuoleman jälkeen on liian pitkä.
