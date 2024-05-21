@@ -201,7 +201,7 @@ Arvioon perustuvasta yhteisöveron ennakkomaksusta tulee luopua. Osinkoverotukse
 > Varainsiirtovero tulee poistaa. Kiinteistöveron rakennuksiin kohdistuva osa tulee poistaa. Oman asunnon myyntivoiton verovapaudesta tulee luopua.
 
 **Ajoneuvon verotus**
-> Ajoneuvovero ja Suomeen tuotaviin ajoneuvoihin kohdistuva vero tulee poistaa.
+> Ajoneuvon omistamisesta ja hankkimisesta tulee siirtyä liikenteen aiheuttamien kustannusten verottamiseen. Omistamiseen kohdistuva ajoneuvovero sekä Suomeen tuotaviin ajoneuvoihin kohdistettu vero tulee poistaa.
 
 Ajoneuvojen käyttöverojen on oltava ensisijaisesti kulutus- ja haittaveroja. Toisaalta niiden on oltava reiluja suhteessa aiheutettuun ulkoishaittaan sekä teknologianeutraaleja. Osana kaupunkipolitiikkaa ajoneuvoverot voivat olla myös liikennekäyttäytymistä ohjaavia.
 
