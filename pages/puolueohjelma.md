@@ -76,7 +76,7 @@ Suomessa on uskonnonvapaus. Valtion ei tule puuttua minkään uskonnon harjoitta
 
 Luterilaista ja ortodoksista kirkkoa koskeva erityislainsäädäntö, mukaan luettuna kirkollisveroa koskeva sääntely, on kumottava ja niitä on kohdeltava samalla tavoin kuin muitakin uskonnollisia yhdyskuntia. Kaikkia uskonnollisia yhdyskuntia on kohdeltava samalla tavalla kuin muitakin yhdistyksiä.
 
-Peruskoulun ja lukion oppilaan tulee saada vapaasti valita katsomusaine kouluissa uskontokunnan jäsenyydestä riippumatta niistä vaihtoehdoista, mitä kyseisessä koulussa on päätetty järjestää. Tarjolla on oltava aina myös ei-uskonnollinen katsomusaine. Tietoa uskonnoista voidaan opettaa soveltuvien oppiaineiden ohessa.
+Peruskoulun oppilaiden ja toisen asteen opiskelijoiden tulee saada vapaasti valita katsomusaine kouluissa uskontokunnan jäsenyydestä riippumatta niistä vaihtoehdoista, mitä kyseisessä koulussa on päätetty järjestää. Tarjolla on oltava aina myös ei-uskonnollinen katsomusaine. Tietoa uskonnoista voidaan opettaa soveltuvien oppiaineiden ohessa.
 
 ### 3.6. Päihdepolitiikka ei saa perustua holhoukseen
 
