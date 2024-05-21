@@ -388,7 +388,9 @@ Lääkekorvausten sijasta voidaan alentaa lääkekattoa ja määritellä se esim
 
 > Sterilisaation ikärajaa tulee laskea nykyisestä 30 vuodesta.
 
+**Eutanasia**
 > Jokaisella tulee olla oikeus päättää omasta elämästään ja kuolemastaan.
+On epäinhimillistä antaa ihmisen kärsiä silloin kuin muutakaan ei voida tehdä. Eutanasia tulee laillistaa. Sen käytön tulee olla tarkkaan valvottua väärinkäytösten estämiseksi.
 
 ### 8.9. Terveydenhuollon digitalisaatio
 
