@@ -198,7 +198,8 @@ Sääntömääräisessä puoluekokouksessa käsitellään seuraavat asiat:
 8. valitaan joka toinen vuosi hallituksen puheenjohtaja ja muut jäsenet
 9. valitaan yksi tai kaksi toiminnantarkastajaa ja varatoiminnantarkastajaa taikka yksi tai kaksi tilintarkastajaa ja varatilintarkastajaa
 10. käsitellään aloitteet, jotka on määräaikana ennen kokousta kirjallisesti tehty puoluehallitukselle tai jotka puoluehallitus tai puoluevaltuusto esittää kokouksen käsiteltäväksi
-11. käsitellään muut kokouskutsussa mainitut asiat.
+11. valitaan puoluevaltuusto
+12. käsitellään muut kokouskutsussa mainitut asiat.
 
 ## 17 § Ehdokkaiden asettaminen eduskuntavaaleihin
 
