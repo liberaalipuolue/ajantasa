@@ -5,7 +5,7 @@ permalink: /saannot/
 
 # SÄÄNNÖT
 
-Näitä sääntöjä on viimeksi päivitetty puoluekokouksessa 21.5.2022.
+Näitä sääntöjä on viimeksi päivitetty puoluekokouksessa 17.5.2025.
 
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
