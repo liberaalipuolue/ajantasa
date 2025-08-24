@@ -136,7 +136,7 @@ Puolueen tilikausi on kalenterivuosi. Tilinpäätös tarvittavine asiakirjoineen
 
 ## 12 § Puoluekokoukset
 
-Sääntömääräinen puoluekokous pidetään vuosittain puoluehallituksen määräämänä päivänä toukokuussa.
+Sääntömääräinen puoluekokous pidetään vuosittain puoluehallituksen määräämänä päivänä touko-kesäkuussa.
 
 Ylimääräinen kokous pidetään, kun puoluekokous niin päättää tai kun puoluehallitus tai puoluevaltuusto katsoo siihen olevan aihetta, tai jos vähintään 1/10 puolueen äänioikeutetuista jäsenistä eli jäsenyhdistyksistä sitä kirjallisesti puoluehallitukselta vaatii erityisesti ilmoittamansa asian käsittelyä varten.
 
