@@ -75,8 +75,9 @@ Varsinaisilta jäseniltä ja kannatusjäseniltä perittävän perusmaksun sekä 
 Vähävaraisilta henkilöjäseniltä perittävää alennettua jäsenmaksua kutsutaan alennetuksi jäsenmaksuksi.
 
 Puoluehallitus päättää vuosittain:
-- perusjäsenmaksun ja alennetun jäsenmaksun suuruuden
-- perusjäsenmaksun ja alennetun jäsenmaksun jakautumisesta jäsenyhdistykselle ja puolueelle tuleviin jäsenmaksuosuuksiin.
+- Puoluehallitus päättää perusmaksun suuruuden. 
+- Jäsenjärjestöt ilmoittavat vuosittain puoluehallitukselle seuraavan vuoden jäsenmaksunsa.
+- Puoluehallitus kerää vuosittain henkilöjäseniltä sekä perusmaksun, että jäsenjärjestöjen jäsenmaksut ja tilittää saadut jäsenmaksut jäsenjärjestöille.
 
 ## 7 § Puoluehallitus
 
