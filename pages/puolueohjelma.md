@@ -5,7 +5,7 @@ permalink: /puolueohjelma/
 
 # PUOLUEOHJELMA
 
-Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 18.5.2024.
+Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 17.5.2025.
 
 ## 1. Puolueen arvot
 
@@ -227,6 +227,8 @@ Puoluetukiin käytettävää summaa on pienennettävä. Puoluetukijärjestelmä�
 
 Maataloutta on uudistettava markkinaehtoisuuden suuntaan huomioimalla kansalliset ja maantieteen luomat kilpailutekijät. Nykyisin tukipolitiikka ohjaa maataloutta markkinaehtoisuuden sijaan. Tukirahoihin perustuva liiketoiminta on lähtökohtaisesti epätervettä.
 
+Pinta-alaan pohjautuvat maataloustuet on korvattava pelkkään huoltovarmuuteen keskittyvällä tuotantofutuurimallilla. Siinä valtio sitoutuu ostamaan tulevaa huoltovarmuuskriteerit täyttävää tuotantoa käänteisellä huutokauppamekanismilla, ja normaalioloissa se myy tuotannon maailmanmarkkinahintaan. Valtio maksaa tällöin vuosittain maataloudelle tukina vain ja ainoastaan maailmanmarkkinahinnan ja huoltovarmuuden turvaavien futuurien hinnan erotuksen.
+
 Tuottajilla tulee olla nykyistä suurempi mahdollisuus vaikuttaa itse tuotteidensa hintoihin. Suoramyynnin sääntelyä sekä muuta maatalouden uudistumista jarruttavaa sääntelyä on vähennettävä.
 
 Luomutuotannon suurempi tuki vääristää tuotantopäätöksiä. Luomutuotantoa ei pidä tukea sen enempää kuin muuta elintarviketuotantoa. Maataloustukia ei tule maksaa aluepoliittisin perustein.
@@ -271,9 +273,13 @@ Korkeakouluopinnoissa siirtymistä oppilaitoksesta toiseen ja oppilaitoksista ty
 
 Tutkintokeskeisyydestä tulee siirtyä kohti osaamiskeskeisyyttä. Yliopistojen autonomista asemaa tulee vahvistaa ja poliittista ohjausta vähentää. 
 
-> Korkeakoulututkinnoista on perittävä kohtuullinen lukukausimaksu, jonka määrä riippuu toteutuneista tutkinnonjälkeisistä tuloista.
+> Korkeakoulut saavat periä opiskelijoilta lukukausimaksun.
 
-Opintotuen tulorajat on kannustinloukkujen purkamiseksi muutettava portaittaisesta asteikosta lineaariseksi. Ylioppilaskuntien pakkojäsenyys tulee purkaa.
+Opiskelijoille tulee varmistaa mahdollisuus saada lainaa lukukausimaksujen maksamiseksi opintojen aikana. Lainaa ei saa periä takaisin ennen valmistumista. Lainalle tulee antaa valtiontakaus, jolloin lainaa ei tarvitse maksaa takaisin, mikäli valmistunut ei myöhemmän sairauden, työttömyyden tai muun vastaavan syyn johdosta siihen kykene.
+
+Opintotuen tulorajat on kannustinloukkujen purkamiseksi muutettava portaittaisesta asteikosta lineaariseksi. 
+
+> Ylioppilaskuntien pakkojäsenyys tulee purkaa. Korkeakouluopiskelijan terveydenhoitomaksun pakollisuudesta tulee luopua.
 
 ## 8. Hyvinvointi ja toimeentulo
 
@@ -374,7 +380,7 @@ Terveydenhuollon vakuutus- ja tilipohjaisten rahoitusmallien sopivuutta Suomeen 
 
 Keskimääräisen elinajanodotteen noususta huolimatta sosiaaliluokkien ja sukupuolten väliset terveyserot ovat kasvaneet. 80 prosenttia sosiaali- ja terveydenhuollon kustannuksia aiheutuu paljon terveyspalveluita käyttävistä asiakkaista. Tässä asiakasryhmässä olisi mahdollista saada terveys- ja kustannushyötyjä siirtymällä malliin, jossa laadittaisiin yksilölliset, säännöllisesti päivitettävät hoitosuunnitelmat, joiden laatimiseen ja seurantaan asiakas osallistetaan.
 
-Ennaltaehkäiseviä palveluja (kuten neuvolat, terveysneuvonta, terveystarkastukset) on lisättävä. Ihmisen tulisi saada apua jo siinä vaiheessa, kun ongelmat ovat vielä lieviä. Ongelmien varhainen hoitaminen parantaa yksilön elämänlaatua, tekee hoidosta tehokkaampaa ja säästää yhteiskunnan voimavaroja niitä eniten tarvitseville.
+Tutkitusti toimivia ja tehokkaita ennaltaehkäiseviä palveluja on lisättävä. Ihmisen tulisi saada apua jo siinä vaiheessa, kun ongelmat ovat vielä lieviä. Ongelmien varhainen hoitaminen parantaa yksilön elämänlaatua, tekee hoidosta tehokkaampaa ja säästää yhteiskunnan voimavaroja niitä eniten tarvitseville.
 
 Pitkäaikaisessa laitoshoidossa on pyrittävä kodinomaisuuteen ja kiireettömyyteen. Hoitajamitoituksen on oltava sellainen, että hoitajat ehtivät tehdä hoitotyön kunnolla. Vanhuksen ensisijaisen asumispaikan tulee kuitenkin olla oma koti eikä laitos. Kotihoidon sekä kotiin tulevien palveluiden resurssien on oltava riittävät. Laitoshoidon tarpeessa olevia vanhuksia ei tule väkisin hoitaa kotona, vaan laitoshoidossa on oltava tarpeeksi hoitopaikkoja.
 
