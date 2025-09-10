@@ -136,19 +136,19 @@ Yhdistyksen hallitus asettaa vaaliasiamiehen ja varavaaliasiamiehen jokaisen kun
 
 Päätöksen vaaliliitoista kuntavaaleissa tekee toimivaltaisen yhdistyksen hallitus. Hallitus voi halutessaan antaa päätöksen tehtäväksi yhdistyksen kokoukselle.
 
-### 4.3 Ehdokkaiden asettaminen maakuntavaaleihin
+### 4.3 Ehdokkaiden asettaminen aluevaaleihin
 
-![maakuntavaaliprosessi](/pages/kuvat/maakuntavaaliprosessi.png)
+![aluevaaliprosessi](/pages/kuvat/aluevaaliprosessi.png)
 
-Maakuntavaalien ehdokasasettelusta kunnassa vastaa se piirijärjestö, jonka toiminta-alueeseen kyseinen vaalipiiri kuuluu. Mikäli maakunnan alue ei kuulu minkään piirijärjestön toiminta-alueeseen, puoluehallitus voi tehdä päätöksen yhdistyksestä, joka voi asettaa ehdokkaita maakuntavaaleihin kyseisessä vaalipiirissä puolueen nimissä. Seuraavassa vaalipiirin alueella ehdokkaita asettavaa puoluejärjestöä kutsutaan nimellä yhdistys.
+Aluevaalien ehdokasasettelusta kunnassa vastaa se piirijärjestö, jonka toiminta-alueeseen kyseinen vaalipiiri kuuluu. Mikäli maakunnan alue ei kuulu minkään piirijärjestön toiminta-alueeseen, puoluehallitus voi tehdä päätöksen yhdistyksestä, joka voi asettaa ehdokkaita aluevaaleihin kyseisessä vaalipiirissä puolueen nimissä. Seuraavassa vaalipiirin alueella ehdokkaita asettavaa puoluejärjestöä kutsutaan nimellä yhdistys.
 
-Hyvissä ajoin ennen maakuntavaaleja yhdistyksen hallitus nimittää vaaliasiamiehen, joka vastaa vaaleihin liittyvistä järjestelyistä kyseisen vaalipiirin alueella, ja toimii ehdokkaiden ja puoluejärjestön välisenä yhteyshenkilönä. Vaaliasiamies tuottaa ja julkaisee yhdessä yhdistyksen hallituksen kanssa tiedotteen, josta käy ilmi mihin vaaleihin ehdokkaita ollaan hakemassa, mitkä ovat ehdokkaalta vaaditut ehdot ja sitoutuminen, sekä miten ja mihin määräaikaan mennessä halukkuudesta ehdokkaaksi on ilmoitettava. Mahdollisuuksien mukaan myös ehdokasmaksun suuruudesta olisi hyvä olla jonkinlainen arvio tässä vaiheessa.
+Hyvissä ajoin ennen aluevaaleja yhdistyksen hallitus nimittää vaaliasiamiehen, joka vastaa vaaleihin liittyvistä järjestelyistä kyseisen vaalipiirin alueella, ja toimii ehdokkaiden ja puoluejärjestön välisenä yhteyshenkilönä. Vaaliasiamies tuottaa ja julkaisee yhdessä yhdistyksen hallituksen kanssa tiedotteen, josta käy ilmi mihin vaaleihin ehdokkaita ollaan hakemassa, mitkä ovat ehdokkaalta vaaditut ehdot ja sitoutuminen, sekä miten ja mihin määräaikaan mennessä halukkuudesta ehdokkaaksi on ilmoitettava. Mahdollisuuksien mukaan myös ehdokasmaksun suuruudesta olisi hyvä olla jonkinlainen arvio tässä vaiheessa.
 
-Yhdistyksen kokous tekee päätöksen ehdokkaiden asettamisesta maakuntavaaleissa toiminta-alueellaan kunkin vaalipiirin kohdalta erikseen. Ehdokkaiden asettamisesta päätetään hyvissä ajoin ennen vaaleja pidettävässä varsinaisessa tai tarvittaessa ylimääräisessä kokouksessa. Yhdistyksen kokous voi myös valtuuttaa yhdistyksen hallituksen asettamaan ehdokkaita maakuntavaaleihin.
+Yhdistyksen kokous tekee päätöksen ehdokkaiden asettamisesta aluevaaleissa toiminta-alueellaan kunkin vaalipiirin kohdalta erikseen. Ehdokkaiden asettamisesta päätetään hyvissä ajoin ennen vaaleja pidettävässä varsinaisessa tai tarvittaessa ylimääräisessä kokouksessa. Yhdistyksen kokous voi myös valtuuttaa yhdistyksen hallituksen asettamaan ehdokkaita aluevaaleihin.
 
-Piirijärjestön hallitus asettaa vaaliasiamiehen ja varavaaliasiamiehen jokaisen vaalipiirin osalta, joissa yhdistys edustaa puoluetta. Vaaliasiamiehen on annettava ehdokashakemus vaalipiirilautakunnalle viimeistään 40. päivänä ennen vaalipäivää ennen kello 16. Johtosäännön kirjoitushetkellä ei ole lakia maakuntavaaleihin liittyen, joten tarkista ohjeistuksen oikeellisuus!
+Piirijärjestön hallitus asettaa vaaliasiamiehen ja varavaaliasiamiehen jokaisen vaalipiirin osalta, joissa yhdistys edustaa puoluetta. Vaaliasiamiehen on annettava ehdokashakemus vaalipiirilautakunnalle viimeistään 40. päivänä ennen vaalipäivää ennen kello 16. Johtosäännön kirjoitushetkellä ei ole lakia aluevaaleihin liittyen, joten tarkista ohjeistuksen oikeellisuus!
 
-Päätöksen vaaliliitoista maakuntavaaleissa tekee piirijärjestön hallitus kunkin vaalipiirin kohdalta erikseen. Hallitus voi halutessaan antaa päätöksen tehtäväksi piirijärjestön kokoukselle.
+Päätöksen vaaliliitoista aluevaaleissa tekee piirijärjestön hallitus kunkin vaalipiirin kohdalta erikseen. Hallitus voi halutessaan antaa päätöksen tehtäväksi piirijärjestön kokoukselle.
 
 ### 4.4 Ehdokkaiden asettaminen eduskuntavaaleihin
 
