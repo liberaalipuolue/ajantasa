@@ -36,3 +36,7 @@ Jekyll-teemana on [`leapday`](https://github.com/pages-themes/leap-day). Tässä
 ## Käyttöoikeudet
 
 Projektia voi vapaasti käyttää ja muokata, kunhan mainitsee lähteen. Tekstisisällöt ovat puolueen omaisuutta, eikä niitä saa perusteettomasti jakaa muokattuina.
+
+# Liberaalipuolue.fi päivitys
+
+Kun puolueohjelma.md päivittyy niin sen sisällön voi syöttää toisaalla hallinnoitavaan https://liberaalipuolue.fi/puolueohjelma/ sivustoon Markdown File Path sisällöksi. Tällöin sivusto pysyy helposti ajantasalla puolueohjelmamuutosten kanssa.
