@@ -180,37 +180,48 @@ Verojärjestelmän tulee olla mahdollisimman läpinäkyvä ja yksinkertainen. Ve
 
 Eriytetyt arvonlisäverokannat tulee yhtenäistää. 
 
+#### 5.4.1. Työn verotus
+
 Yle-verosta tulee luopua. Yleisradion rahoituksen tulee perustua budjettiin ja sen määrää on tarkasteltava erittäin kriittisesti. Yleisradion on keskityttävä ydintehtäviinsä ja vetäydyttävä kilpailullisilta markkinoilta.
 
 Työnantajamaksut tulee siirtää työntekijöiden vastuulle siten, että työnantajan maksamat summat lasketaan osaksi bruttopalkkaa. Tämä tekee verotuksen rakenteesta läpinäkyvämmän ja havainnollistaa verokiilan todellista suuruutta.
 
-Työn verotusta tulee laskea merkittävästi loiventamalla progressiota.
+> Työn verotusta tulee laskea merkittävästi loiventamalla progressiota.
 
 Työn verotusta ovat kaikki palkkasidonnaiset maksut, esimerkiksi eläkemaksut, sosiaalivakuutusmaksut, kunnallisvero ja valtion tulovero.
 
 Markkinoita vääristävistä ja verojärjestelmää monimutkaistavista verovähennyksistä tulee luopua. Kansalaisilla on oltava varaa ostaa palveluita ilman verovähennyksiä.
 
-**Yhteisöverotus**
+#### 5.4.2. Yhteisöverotus
+
 > Yrityksen tulosta ei tule verottaa, ellei sitä nosteta yrityksestä pois.
 
 Arvioon perustuvasta yhteisöveron ennakkomaksusta tulee luopua. Osinkoverotuksen tulee olla yhteneväistä pörssiin listattujen ja listaamattomien yritysten kesken. Yhteisövero tulee pitää kansainvälisesti kilpailukykyisenä.
 
-**Asumisen verotus**
-> Varainsiirtovero tulee poistaa. Kiinteistöveron rakennuksiin kohdistuva osa tulee poistaa. Oman asunnon myyntivoiton verovapaudesta tulee luopua.
+#### 5.4.3. Asumisen verotus
 
-**Ajoneuvon verotus**
+> Varainsiirtovero tulee poistaa.
+
+Kiinteistöveron rakennuksiin kohdistuva osa tulee poistaa. Oman asunnon myyntivoiton verovapaudesta tulee luopua.
+
+#### 5.4.4. Ajoneuvon verotus
+
 > Ajoneuvon omistamisesta ja hankkimisesta tulee siirtyä liikenteen aiheuttamien kustannusten verottamiseen. Omistamiseen kohdistuva ajoneuvovero sekä Suomeen tuotaviin ajoneuvoihin kohdistettu vero tulee poistaa.
 
 Ajoneuvojen käyttöverojen on oltava ensisijaisesti kulutus- ja haittaveroja. Toisaalta niiden on oltava reiluja suhteessa aiheutettuun ulkoishaittaan sekä teknologianeutraaleja. Osana kaupunkipolitiikkaa ajoneuvoverot voivat olla myös liikennekäyttäytymistä ohjaavia.
 
-**Perintövero**
+#### 5.4.5. Perintövero
+
 > Perintövero on poistettava.
 
-**Sijoitussäästötili**
+#### 5.4.6. Sijoitussäästötili
+
 > Osakesäästötili tulee muuttaa yleiseksi sijoitussäästötiliksi.
 
-**Yleishyödylliset yhteisöt**
+#### 5.4.7. Yleishyödylliset yhteisöt
+
 > Työmarkkinajärjestöiltä on poistettava yleishyödyllisen yhteisön status.
+
 Työmarkkinajärjestöjen jäsenmaksujen verovähennyskelpoisuus on poistettava. Yhdistysten jäsenmaksut tulee kustantaa jäsenten omista varoista.
 
 ### 5.5. Esimerkkejä julkisen sektorin säästökohteista
@@ -392,9 +403,13 @@ Lääkekorvausten sijasta voidaan alentaa lääkekattoa ja määritellä se esim
 
 > Sterilisaation ikärajaa tulee laskea nykyisestä 30 vuodesta.
 
-**Eutanasia**
-> Jokaisella tulee olla oikeus päättää omasta elämästään ja kuolemastaan.
-On epäinhimillistä antaa ihmisen kärsiä silloin kuin muutakaan ei voida tehdä. Eutanasia tulee laillistaa. Sen käytön tulee olla tarkkaan valvottua väärinkäytösten estämiseksi.
+#### 8.8.1. Eutanasia
+
+Jokaisella tulee olla oikeus päättää omasta elämästään ja kuolemastaan. On epäinhimillistä antaa ihmisen kärsiä silloin kuin muutakaan ei voida tehdä.
+
+> Eutanasia tulee laillistaa.
+
+Sen käytön tulee olla tarkkaan valvottua väärinkäytösten estämiseksi.
 
 ### 8.9. Terveydenhuollon digitalisaatio
 
