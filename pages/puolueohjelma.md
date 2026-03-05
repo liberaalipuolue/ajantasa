@@ -3,7 +3,7 @@ title: Puolueohjelma
 permalink: /puolueohjelma/
 ---
 
-# PUOLUEOHJELMA
+# Puolueohjelma
 
 Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 17.5.2025.
 
