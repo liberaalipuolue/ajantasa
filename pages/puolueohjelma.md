@@ -5,7 +5,7 @@ permalink: /puolueohjelma/
 
 # Puolueohjelma
 
-Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 17.5.2025.
+Tämä puolueohjelma on hyväksytty puolueen sääntömääräisessä vuosikokouksessa 14.6.2026.
 
 ## 1. Puolueen arvot
 
@@ -21,20 +21,18 @@ Yhteiskunnan tulee huolehtia heikoimmistaan, kuten lapsista, vanhuksista, sairai
 
 Valtion ei tule sääntelyllä rajoittaa kansalaisten vapauksia ilman painavia perusteita. Sääntelyn tarpeellisuutta arvioitaessa on aina huomioitava myös sääntelyn taloudelliset ja hallinnolliset kustannukset. Sääntelyn tulee olla mahdollisimman kevyttä, jotta se ei estä kansalaisia tavoittelemasta hyvinvointia, eikä syö resursseja julkisen sektorin ydintehtäviltä.
 
-## 2. Visio ja keinot sen toteuttamiseksi
+## 2. Visio
 
-Tulevaisuuden Suomessa yhteiskunta on vapaampi ja kevyemmin hallinnoitu ja säädelty, jotta kansalainen voi saavuttaa täyden potentiaalinsa. Tulevaisuuden Suomi rakentuu vahvalle talouskasvulle, joka perustuu kestävään luonnonvarojen hyödyntämiseen, kiertotalouteen ja palvelujen tuottamiseen.
+Tulevaisuuden Suomessa yhteiskunta on vapaampi ja kevyemmin hallinnoitu ja säädelty, jotta jokainen voi elää itsensä näköistä elämää. Tulevaisuuden Suomi rakentuu vahvalle talouskasvulle, joka perustuu kestävään luonnonvarojen hyödyntämiseen.
 
 Vision toteuttamiseksi tavoittelemme seuraavaa:
 
 1. Elinkeino- ja yksilönvapauden rajoituksia on purettava merkittävästi.
-2. Verotusta on kevennettävä ja sen painopiste on siirrettävä haittojen ja kulutuksen verottamiseen.
+2. Verotusta on kevennettävä ja verotuksen painopiste on siirrettävä haittojen ja kulutuksen verottamiseen.
 3. Talouden tulee kasvaa ekologisesti kestävästi niin, että ihmisten elintaso voi nousta, hyvinvointi lisääntyä ja julkisten palveluiden laatu parantua.
-4. Julkisen sektorin kokoa on supistettava, tehokkuusvaatimuksia lisättävä, tehtäviä karsittava.
-5. On siirryttävä kansalaista lähellä olevaan suoraan alueelliseen demokratiaan ja samassa yhteydessä valtion keskushallintoa on pienennettävä ja tehtäviä karsittava. Alueet ovat erilaisia ja tuntevat omat olosuhteensa parhaiten.
-6. Sosiaaliturvassa on siirryttävä perustulo- tai perustilimalliin. Työelämän ulkopuolella pysyvästi oleville (kuten vanhukset ja vammaiset) tarjottava sosiaaliturva on oltava riittävä.
-7. Ulko- ja turvallisuuspolitiikallaan Suomen tulee ensisijaisesti varmistaa kansalaistensa turvallisuus.
-8. Kestävä ympäristöpolitiikka perustuu soveltuvilta osin tuotannon ja kulutuksen aiheuttamien haittojen verottamiseen.
+4. Julkisen sektorin kokoa on supistettava, tehokkuusvaatimuksia lisättävä, ja tehtäviä karsittava.
+5. Sosiaaliturvassa on siirryttävä perustulo- tai perustilimalliin. Ilman omaa tahtoaan työelämän ulkopuolella pysyvästi oleville tarjottava sosiaaliturva on oltava riittävä.
+6. Kestävä ympäristöpolitiikka perustuu soveltuvilta osin tuotannon ja kulutuksen aiheuttamien haittojen verottamiseen.
 
 ## 3. Vapaus
 
@@ -48,13 +46,23 @@ Mielipiteitä ja ajatuksia ei tule kriminalisoida. Rikoksiin yllyttämisen, väk
 
 > Jumalanpilkka on poistettava rikoslaista.
 
-### 3.2. Yksityisyys
+### 3.2. Yksityisyyden suoja
 
-Ihmisillä on oikeus yksityisyyteen. Tätä perusoikeutta ei tule loukata ilman painavaa perustetta.
+Jokaisella on oikeus yksityisyyteen sekä digitaalisessa että fyysisessä ympäristössä. Yksityisyyden suojaa ei saa heikentää ilman painavaa perustetta.
 
-Viranomaisilla ei tule olla oikeutta henkilön viestinnän seuraamiseen ilman oikeuden päätöstä. Perustuslaissa säädettyä yksityiselämän suojaa ei tule heikentää.
+Kansalaisten massavalvonta ei ole missään tilanteessa hyväksyttävää. Viranomaisille ei tule antaa tähän työkaluja, kuten liikenteen rekisterikilpi- tai GPS-seurantaa, verkkoliikenteen analysointia, sähköposti- tai chat-viestien sisällöntunnistusta, terveystietojen seurantaa, tilitapahtumien seurantaa, kasvojentunnistusta valvontakamerakuvista tai vastaavaa massavalvontaa. Myös viestinnän metatietoja tulee suojata samalla tavoin kuin viestien sisältöä. Viranomainen ei saa ilman laillista perustetta yhdistää eri rekisterien tietoja keskenään. Tuloverotiedot kuuluvat yksityisyyden suojan piiriin, ellei henkilön julkinen luottamustoimi tai korkea julkinen virka edellytä läpinäkyvyyttä.
 
-Kansalaisten massavalvonta ei ole missään tilanteessa hyväksyttävää tai tehokasta rikollisuuden torjuntaa, eikä viranomaisille tule antaa tähän työkaluja, kuten liikenteen rekisterikilpi- tai GPS-seurantaa, verkkoliikenteen analysointia, kasvojentunnistusta valvontakamerakuvista tai vastaavaa massavalvontaa. Viranomainen ei saa ilman laillista perustetta yhdistää eri rekisterien tietoja keskenään. Tuloverotiedot kuuluvat yksityisyyden suojan piiriin.
+Viestinnän salausta ei tule heikentää antamalla viranomaisille oikeutta vaatia salauksen murtamista, heikentämistä tai ns. takaporttien lisäämistä salausjärjestelmiin. Biometriseen tunnistautumiseen pakottaminen esimerkiksi sormenjäljillä laite-etsinnän yhteydessä tulee estää pakkokeinolaissa, yhtenäistäen käytännön salasanan itsekriminointisuojaan.
+
+Kirjesalaisuuden rikkomisen tulee aina edellyttää rikosepäilyä tai muuta lakiin perustuvaa epäilyä, tuomioistuimen lupaa ja jälkikäteistä ilmoitusta valvotulle henkilölle. Kotietsintää ei saa tehdä ilman tuomioistuimen etukäteen antamaa lupaa. 
+
+> Laittomasti hankittuja todisteita ei tule sallia oikeudenkäynnissä todistusaineistona.
+
+> Kansallinen passien sormenjälkirekisteri tulee lakkauttaa, ja sen tiedot hävittää. 
+
+Rekisteri muodostaa merkittävän tietoturvauhan kansalaisten yksityisyydelle ilman tosiasiallista käyttötarkoitusta. Suomen ei tule toteuttaa enempää kuin EU:n minimivaatimukset sormenjälkien säilömisestä passin tai henkilökortin sirulle.
+
+Internetin käytön valvomiseksi tai rajoittamiseksi ei tule säätää ikävarmennus- tai tunnistautumisvelvoitetta.
 
 ### 3.3. Yhdenvertaisuus
 
@@ -76,7 +84,7 @@ Suomessa on uskonnonvapaus. Valtion ei tule puuttua minkään uskonnon harjoitta
 
 Luterilaista ja ortodoksista kirkkoa koskeva erityislainsäädäntö, mukaan luettuna kirkollisveroa koskeva sääntely, on kumottava ja niitä on kohdeltava samalla tavoin kuin muitakin uskonnollisia yhdyskuntia. Kaikkia uskonnollisia yhdyskuntia on kohdeltava samalla tavalla kuin muitakin yhdistyksiä.
 
-Peruskoulun oppilaiden ja toisen asteen opiskelijoiden tulee saada vapaasti valita katsomusaine kouluissa uskontokunnan jäsenyydestä riippumatta niistä vaihtoehdoista, mitä kyseisessä koulussa on päätetty järjestää. Tarjolla on oltava aina myös ei-uskonnollinen katsomusaine. Tietoa uskonnoista voidaan opettaa soveltuvien oppiaineiden ohessa.
+Luovutaan opetussuunnitelmassa katsomusaineiden opetuksesta peruskoulussa ja toisella asteella. Katsomusaineiden opetus korvataan lisäämällä yleissivistävää tietoa uskonnoista osaksi historian ja yhteiskuntaopin opetusta sekä soveltuvin osin osaksi muita oppiaineita.
 
 ### 3.6. Päihdepolitiikka ei saa perustua holhoukseen
 
@@ -186,11 +194,15 @@ Yle-verosta tulee luopua. Yleisradion rahoituksen tulee perustua budjettiin ja s
 
 Työnantajamaksut tulee siirtää työntekijöiden vastuulle siten, että työnantajan maksamat summat lasketaan osaksi bruttopalkkaa. Tämä tekee verotuksen rakenteesta läpinäkyvämmän ja havainnollistaa verokiilan todellista suuruutta.
 
+Siirrytään henkilökohtaisessa verotuksessa bruttoperusteiseen verotukseen, joka mahdollistaa yleisten verokantojen alentamisen.
+
 > Työn verotusta tulee laskea merkittävästi loiventamalla progressiota.
 
 Työn verotusta ovat kaikki palkkasidonnaiset maksut, esimerkiksi eläkemaksut, sosiaalivakuutusmaksut, kunnallisvero ja valtion tulovero.
 
 Markkinoita vääristävistä ja verojärjestelmää monimutkaistavista verovähennyksistä tulee luopua. Kansalaisilla on oltava varaa ostaa palveluita ilman verovähennyksiä.
+
+> Kotitalousvähennys tulee poistaa.
 
 #### 5.4.2. Yhteisöverotus
 
@@ -202,7 +214,7 @@ Arvioon perustuvasta yhteisöveron ennakkomaksusta tulee luopua. Osinkoverotukse
 
 > Varainsiirtovero tulee poistaa.
 
-Kiinteistöveron rakennuksiin kohdistuva osa tulee poistaa. Oman asunnon myyntivoiton verovapaudesta tulee luopua.
+Kiinteistöveron rakennuksiin kohdistuva osa tulee poistaa. Oman asunnon myyntivoiton verovapaudesta tulee luopua. Yleishyödyllisten yhteisöjen alennetusta kiinteistöverokannasta tulee luopua.
 
 #### 5.4.4. Ajoneuvon verotus
 
@@ -210,15 +222,11 @@ Kiinteistöveron rakennuksiin kohdistuva osa tulee poistaa. Oman asunnon myyntiv
 
 Ajoneuvojen käyttöverojen on oltava ensisijaisesti kulutus- ja haittaveroja. Toisaalta niiden on oltava reiluja suhteessa aiheutettuun ulkoishaittaan sekä teknologianeutraaleja. Osana kaupunkipolitiikkaa ajoneuvoverot voivat olla myös liikennekäyttäytymistä ohjaavia.
 
-#### 5.4.5. Perintövero
-
-> Perintövero on poistettava.
-
-#### 5.4.6. Sijoitussäästötili
+#### 5.4.5. Sijoitussäästötili
 
 > Osakesäästötili tulee muuttaa yleiseksi sijoitussäästötiliksi.
 
-#### 5.4.7. Yleishyödylliset yhteisöt
+#### 5.4.6. Yleishyödylliset yhteisöt
 
 > Työmarkkinajärjestöiltä on poistettava yleishyödyllisen yhteisön status.
 
@@ -274,7 +282,19 @@ Oppilaiden yksilöllisen huomioimisen ja valinnanvapauden tulee olla tärkeäll�
 
 Yksityisten koulujen, joiden rahoitus pohjautuu lukukausimaksuihin, perustaminen tulee olla mahdollista. Kaikkien koulujen opetuksen tulee pohjautua ensisijaisesti valtakunnalliseen opetussuunnitelmaan.
 
-Koululaitoksen tulee antaa yksilöille nykyistä paremmat kielelliset valmiudet toimia EU:n alueella sekä sen ulkopuolella. Näiden tavoitteiden saavuttamiseksi kielten opetuksen valinnaisuutta tulee lisätä nykyisestä. Toisen kotimaisen kielen pakollisesta opetuksesta tulee luopua.
+Peruskoulussa on otettava käyttöön standardoidut valtakunnalliset osaamiskokeet, jotta voidaan mitata luotettavasti osaamistasoa ja tutkia oppimisen kehitystä. Osaamiskokeiden avulla myös resurssit voidaan kohdentaa vaikuttavammin.
+
+Koululaitoksen tulee antaa yksilöille nykyistä paremmat kielelliset valmiudet toimia EU:n alueella sekä sen ulkopuolella. Näiden tavoitteiden saavuttamiseksi kielten opetuksen valinnaisuutta tulee lisätä nykyisestä.
+
+> Kielenopetuksen tulee keskittyä varmistamaan oppilaiden suomen tai ruotsin kielen osaaminen. 
+
+Toisen kotimaisen kielen pakollisesta opetuksesta tulee luopua. Suomen- ja ruotsinkielisten koulujen yhdistäminen tulee sallia.
+
+Vieraskielisten oman äidinkielen opetuksesta tulee luopua. R2- ja S2-opetuksesta tulee luopua.
+
+Osana kielten opetusten valinnaisuutta kunta voi tarjota kaikille opetusta resurssiensa puitteissa muissakin kuin maailmanlaajuisissa ja eurooppalaisissa pääkielissä.
+
+Kotoperäisten vähemmistökielten asema opetuksessa on turvattava.
 
 ### 7.3. Peruskoulutuksen jälkeinen koulutus
 
@@ -359,9 +379,11 @@ Toimivan perhevapaajärjestelmän tunnuspiirteitä ovat perheiden ja vanhempien 
 
 Lapsiperheiden tuet ovat tärkeitä. Lasten hankkiminen ei saa edellyttää säästöjen kerryttämistä, jotta niihin olisi varaa. Lapsiperheiden tukien on oltava kaikkia perhemuotoja yhdenvertaisesti kohtelevia. Tukea ei saa korvamerkitä sen koommin äidille kuin isälle, mutta tuen jakautumista tasaisemmin molempien huoltajien kesken voidaan ohjata yhteiskunnan toimin. Toki lapsen syntymän yhteydessä pidettävä äitiysloma kuuluu äidille. Pitkä kotihoidontuki vaikeuttaa työelämään siirtymistä, etenkin jos näitä jaksoja tulee useita peräkkäin. Kotihoidontuki tulisi lyhentää kahteen vuoteen.
 
+> Lapsilisä on jokaiselle lapselle samansuuruinen.
+
 Lapsilisät on maksettava tasan yhteishuoltajuudessa olevien lasten vanhempien kesken oikeudenmukaisuuden lisäämiseksi.
 
-> Vanhempainraha on korvattava pitkällä tähtäimellä "vauvarahalla". Tämä olisi lapsilisän kaltainen ja verovapaa. Suuruusluokka vastaisi keskimääräistä nykyistä vanhempainrahaa. Tämä vähentäisi byrokratiaa ja vapauttaisi vanhemmat järjestämään lapsen hoidon parhaaksi katsomallaan tavalla ilman etuussuunnittelua.
+Vanhempainraha on korvattava pitkällä tähtäimellä "vauvarahalla". Tämä olisi lapsilisän kaltainen ja verovapaa. Suuruusluokka vastaisi keskimääräistä nykyistä vanhempainrahaa. Tämä vähentäisi byrokratiaa ja vapauttaisi vanhemmat järjestämään lapsen hoidon parhaaksi katsomallaan tavalla ilman etuussuunnittelua.
 
 > Suomen lainsäädäntöön tulee palauttaa mahdollisuus sijaissynnyttämiselle.
 
@@ -423,31 +445,45 @@ Omaishoitajien työ on merkittävää. Käytännössä omaishoitaja tekee yksin 
 
 ## 9. Ympäristö ja energia
 
-Luonto kuuluu kaikille ihmisille. Valtion tulee taata puhdas ympäristö tuleville sukupolville. Sekä globaaleihin että paikallisiin ympäristöhaittoihin on suhtauduttava vakavasti. Luonnon monimuotoisuus on säilytettävä. Monimuotoisuus on huomioitava myös lähiluonnossa, kansallispuistot eivät yksin riitä.
+Luonto kuuluu kaikille ihmisille. Valtion tulee taata puhdas ympäristö tuleville sukupolville. Sekä globaaleihin että paikallisiin ympäristöhaittoihin on suhtauduttava vakavasti. Luonnon monimuotoisuus on säilytettävä ja se on huomioitava myös luonnonsuojelualueiden ulkopuolella. Ympäristöhaitan aiheuttajalla tulee olla täysi vastuu ympäristövahinkojen korjaamisesta.
 
 Teollisuuden ja kotitalouksien energiansaanti on turvattava. Energiantuotannon ympäristöhaitat on samalla pyrittävä minimoimaan. Lainsäädännön on mahdollistettava joustavasti uusien teknologioiden tutkimus, kehittäminen ja käyttöönotto.
 
-Eri energiantuotantomuotoja on lainsäädännössä kohdeltava niiden aiheuttamien ympäristöhaittojen suhteessa. Voimassa olevista syöttötariffeista tulee luopua. Tukemisen sijasta energiantuotantoa on ohjattava vähäpäästöiseksi haittaverojen avulla. Haittaverojen suuruuden on vastattava suuruudeltaan parasta arviota näiden haittojen korjaamisen kuluista.
-
-Suomessa tuotetulle energialle tarvitaan toimivat markkinat. Energiantuotannossa yhteistyö muiden maiden kanssa on tärkeää ja energiantuottajien mahdollisuuksia osallistua kansainvälisille sähkömarkkinoille tulee edistää. Sähkövarastojen lainsäädännön tulee olla teknologianeutraalia, joten sähkökemiallisen varastoinnin suosiminen tulee purkaa lainsäädännöstä.
-
 ### 9.1. Ympäristöpolitiikka
 
-Yhteiskunnallisesti arvokkaiksi katsottujen luontoalueiden tulee olla valtion suojeluksessa. Ympäristöhaitan aiheuttajalla tulee olla täysi vastuu ympäristövahinkojen korjaamisesta.
+> Ilmastonmuutoksen torjuminen vaatii kasvihuonekaasupäästöjen alentamista entisestään.
 
-Suojelualueiden hankinnassa tulee pakkolunastusten sijaan suosia markkinaehtoisia vaihtoehtoja kuten pitkäaikaisia vuokrasopimuksia ja huutokauppoja.
+Päästökauppa on osoittautunut tehokkaaksi keinoksi vähentää päästöjä ja ilmastopolitiikan pitää jatkossakin perustua päästökauppaan. Päästöjä hinnoiteltaessa suomalaista ja eurooppalaista kilpailukykyä turvaa hiilitulli, jonka kehittämistä tulee jatkaa sitä koskevan tutkimustiedon karttuessa.
 
-Vapaa liikkuminen on perusoikeus ja sen rajoittamista ei voida hyväksyä erityisesti keinoilla, joiden vaikutus Suomen kokonaispäästötaseessa on vähäinen, mutta merkitys yksilöiden vapauden rajoittamisessa merkittävä.
+> Uudet ilmastotoimet tulee kohdistaa päästökaupan ulkopuolisille aloille, kuten maankäyttösektorille.
 
-Päästökauppajärjestelmä tulisi korvata hiiliverolla, joka kohdistuisi tasapuolisesti jokaisen päästöjä tuottavan sektorin saastuttamiseen.
+Yhteiskunnallisesti arvokkaiksi katsottujen luontoalueiden tulee olla valtion suojeluksessa. Suojelualueiden hankinnassa tulee pakkolunastusten sijaan suosia markkinaehtoisia vaihtoehtoja kuten vapaaehtoisia suojeluohjelmia (esim. METSO, Helmi), pitkäaikaisia vuokrasopimuksia ja huutokauppoja.
 
-### 9.2. Ydinenergia
+> Luonnon monimuotoisuutta tulee tukea myös suojelualueiden ulkopuolella.
+
+Jo heikentyneitä elinympäristöjä tulee ennallistaa vapaaehtoisten ennallistamisohjelmien avulla (esim. Helmi, Nousu). Luonnonarvomarkkinoita ja hiilinielumarkkinoita kehittämällä mahdollistetaan ekologisen kompensaation ja vapaaehtoisten ympäristötekojen laajempi käyttöönotto. Talousmetsien käyttöä tulee ohjata tukemaan paremmin luonnon monimuotoisuutta haittaverotuksella tai luomalla markkinaehtoisia kannustimia.
+
+> Poronhoitoalueen etelärajaa tulee siirtää pohjoisemmaksi siirtymäajalla.
+
+Tällä turvataan metsäpeuran ja suurpetojen elintila. Muutoksen myötä poromäärät tulee sopeuttaa luonnon kantokykyyn. Valtion tulee muuttaa roolinsa vahinkojen maksajasta luonnon monimuotoisuuden mahdollistajaksi muuttamalla petovahinkokorvaukset luonnonarvopalkkioiksi.
+
+Vesilainsäädännön tulisi suojella tehokkaasti vesistöjen ekologista tilaa ja estää niiden pilaaminen, mutta sallia kestävän taloudellisen toiminnan. Vesistöjen kuormitus on ulkoisvaikutus, jonka kustannukset eivät saa jäädä yhteiskunnan tai naapurikiinteistöjen maksettavaksi. Todistetun haitan kohdalla vahingonkorvausvastuu tulisi ulottaa koskemaan ekologista ennallistamista, vesistöjen käyttäjille aiheutunutta taloudellista haittaa ja menetettyjä luontoarvoja. Tämä kannustaa investoimaan suojavyöhykkeisiin, kosteikkoihin ja ravinteiden talteenottoon jo ennen vahingon syntymistä. Uusia ja nykyisiä ojituksia on tarkasteltava kriittisesti, ja ojituspäätöksissä on huomioitava vaikutukset vesistöihin.
+
+Vaelluskalavesistöissä sijaitsevat voimalaitokset tulee velvoittaa turvaamaan vaelluskalojen luontainen elinkierto, jotta uhanalaisten lajien kannat saadaan elpymään. Irralliset istutustoimet tai yksittäisten kalateiden rakentaminen ilman kokonaisvaltaista näkemystä jokialueen ekologisesta tilasta eivät riitä. Energiantuotannollisesti hyödyttömien patojen purkamisella sekä vaelluskalavesistöjen kunnostuksilla luodaan myös mahdollisuuksia paikallisten asukkaiden ja matkailijoiden virkistykseen ja kestävään luontomatkailuun.
+
+Riistalajien osalta Suomen tulee olla sitoutunut turvaamaan luonnon monimuotoisuutta ja edistämään taantuvien lajien elpymistä. Metsästyslain mukaan metsästystä on harjoitettava kestävän käytön periaatteiden mukaisesti. Lajin uhanalaisuusluokituksella tulee olla vaikutusta metsästyksen sallivuuteen. Äärimmäisen (CR) ja erittäin uhanalaiseksi (EN) luokiteltujen riistalajien metsästys tulisi olla sallittua vain poikkeusluvalla, minkä lisäksi vaarantuneiden (VU) lajien pyyntiä tulee rajoittaa varovaisuusperiaatteen mukaisesti.
+
+Kestävä talouskasvu edellyttää ihmiskunnalta siirtymistä kiertotalouteen. Jätelaki on korvattava kiertotalouslailla, jossa annetut tavoitteet saavutetaan parhaiten markkinaehtoisesti.
+
+### 9.2. Energiapolitiikka
+
+Eri energiantuotantomuotoja on lainsäädännössä kohdeltava niiden aiheuttamien ympäristöhaittojen suhteessa. Esimerkiksi puun polton ja polttoturpeen verotuista tulisi luopua. Tukemisen sijasta energiantuotantoa on ohjattava vähäpäästöiseksi haittaverojen ja päästökaupan avulla. Haittaverojen suuruuden on vastattava suuruudeltaan parasta arviota näiden haittojen korjaamisen kuluista.
+
+Suomessa tuotetulle energialle tarvitaan toimivat markkinat. Energiantuotannossa yhteistyö muiden maiden kanssa on tärkeää ja energiantuottajien mahdollisuuksia osallistua kansainvälisille sähkömarkkinoille tulee edistää. Sähkövarastojen lainsäädännön tulee olla teknologianeutraalia, joten sähkökemiallisen varastoinnin suosiminen tulee purkaa lainsäädännöstä.
 
 Ydinenergia on hyvä keino hidastaa ilmastonmuutosta. Suomen ydinenergialain on vastattava ydinteknologian kehitykseen nykyistä lakia paremmin. Uudentyyppisten reaktoreiden ja konseptien kokeileminen on mahdollistettava. Kaikille valtion määrittelemät kriteerit täyttäville toimijoille tulee myöntää toimilupa, myös ydinvoimalan rakentamiseksi. Ydinreaktoreiden lupaprosessista on tehtävä nykyistä nopeampi ja kevyempi, jotta myös pienreaktoreiden käyttöönotosta tulee mahdollista.
 
 Suomessa on korkeaa ydinteknologiaan liittyvää osaamista, eikä lainsäädäntö saa olla sen hyödyntämisen esteenä. Käytetyn ydinpolttoaineen jälleenkäsittely, tuonti ja vienti, hyödyntäminen ydinpolttoaineena hyötöreaktoreissa ja muiden ydinteknologiaan liittyvien palveluiden myynti myös ulkomaille on sallittava.
-
-### 9.3. Bioenergia
 
 Bioenergian käyttöä tulee arvioida kokonaispäästöjen kannalta samoin kuin muitakin energiamuotoja, eikä biomassaa pidä automaattisesti laskea nollapäästöiseksi.
 
@@ -531,3 +567,4 @@ Kappaleessa listataan Liberaalipuolueen perustamisen jälkeisiä toteutettuja uu
 - Työkykyisiin ihmisiin kohdistuvan kuntouttavan työtoiminnan lakkauttaminen
 - Translaki (osittain)
 - Nato-jäsenyys
+- Energiantuotannon syöttötariffeista luopuminen
