@@ -5,7 +5,7 @@ permalink: /johtosaanto/
 
 # JOHTOSÄÄNTÖ
 
-Puoluevaltuusto on hyväksynyt tämän johtosäännön kokouksessaan 30.7.2025.
+Puoluevaltuusto on hyväksynyt tämän johtosäännön kokouksessaan 17.7.2026.
 
 ## 1. Johdanto
 
