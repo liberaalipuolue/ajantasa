@@ -59,7 +59,7 @@ Jäsen vastaa oman vastuualueensa toiminnan **johtamisesta** puoluehallitukselle
 
 ### 2.4 Puoluevaltuusto
 
-Puoluevaltuusto vastaa puolueen aatteellisesta ja strategisesta työstä puoluekokousten välillä. Sen tarkemmat tehtävät sekä kokoonpano on määritelty puolueen säännöissä. Puoluevaltuusto koostuu puoluehallituksen jäsenistä sekä piirijärjestöjen ja teemajärjestöjen puheenjohtajistosta.
+Puoluevaltuusto vastaa puolueen aatteellisesta ja strategisesta työstä puoluekokousten välillä. Sen tarkemmat tehtävät sekä kokoonpano on määritelty puolueen säännöissä.
 
 Puoluevaltuuston on pidettävä vähintään yksi kokous vuosittain. Tämä sääntömääräinen kokous on pidettävä joulukuun loppuun mennessä, kuitenkin ennen sääntömääräistä puoluekokousta. Muutoin puoluevaltuusto kokoontuu itse päättämänsä kokousaikataulun mukaisesti.
 
